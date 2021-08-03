@@ -12,6 +12,8 @@ This code is provided as is without warranty of any kind. If you find a bug or a
 
 You may find other pieces of code in [papers](https://oliviergimenez.github.io/publication/papers/).
 
+Last update: August 2021.
+
 <hr>
 
 ### Reproducible science
@@ -31,6 +33,8 @@ You may find other pieces of code in [papers](https://oliviergimenez.github.io/p
 ### Capture-recapture
 
 <br>
+
++ [Quantifying bias in mortality estimates when ignoring imperfect detection](https://github.com/oliviergimenez/bias_recovery) -- `R`, `Shiny` 
 
 + [Capture-recapture models as HMMs](https://github.com/oliviergimenez/IPMworkshop) -- `R`, `Jags` 
 
@@ -114,8 +118,9 @@ You may find other pieces of code in [papers](https://oliviergimenez.github.io/p
 
 <br>
 
++ [Network analysis of my Twitter account](https://github.com/oliviergimenez/sna-twitter) --  `R`
 
-+ Network analysis of [Star Wars The Attack of the Clones](https://github.com/oliviergimenez/starwars_network) in R
++ Network analysis of [Star Wars The Attack of the Clones](https://github.com/oliviergimenez/starwars_network) --  `R`
    
 + Animal social networks from [capture-recapture data](https://github.com/oliviergimenez/social_networks_capture_recapture)
 
@@ -170,6 +175,11 @@ You may find other pieces of code in [papers](https://oliviergimenez.github.io/p
 
 <br>
 
++ Decoding the [hidden message in Perseverance parachute with R](https://gist.github.com/oliviergimenez/26236ed51d4d3a338637867f722992e3) -- `R`
+
++ Visualising the [Metropolis algorithm on a simple 1D example](https://gist.github.com/oliviergimenez/5ee33af9c8d947b72a39ed1764040bf3) -- `R`
+
++  [Export, clean up and tabulate questions and answers](https://gist.github.com/oliviergimenez/632f23b1bec63ffdffa8ebb139a55aed) from a Slack work space with several channels into HTML tables -- `R` and `json`
 
 + Illustration of the [delta-method](https://github.com/oliviergimenez/delta_method) --  `R`
 

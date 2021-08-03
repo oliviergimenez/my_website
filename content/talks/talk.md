@@ -1,6 +1,6 @@
 +++
 
-date = "2020-12-06T00:00:00"
+date = "2021-08-03T00:00:00"
 draft = false
 
 title = "Talks"
@@ -11,6 +11,10 @@ widget = "custom"
 weight = 7
 
 +++
+
+* Deep learning, false negatives/positives and predator-prey interactions: Peregrinations in R. March 31, 2021. [Slides](https://oliviergimenez.github.io/useR2021/#1) (F = full screen and P = transcript) and [video recording](hhttps://www.youtube.com/watch?v=DOeSu8Qk5Po) in English. All material [here](https://github.com/oliviergimenez/useR2021). Rencontres R.
+
+* Deep learning, false negatives/positives and predator-prey interactions: Peregrinations in R. March 31, 2021. Slides [here](https://bit.ly/3dqYouK) (F = full screen and P = transcript) and material [there](https://bit.ly/3djZQzm). [Video](https://www.youtube.com/watch?v=frp2eo8GKm4&t=10432s) in French. Journées Labex Montpellier. 
 
 * Large carnivores and statistical ecology. Seminar in Lisbon (remotely) Dec 2020. [Video](https://www.youtube.com/watch?v=jM5i7vxLcGM&t=0s) and [slides](https://figshare.com/articles/presentation/Large_carnivores_and_statistical_ecology/13337822/4).
 

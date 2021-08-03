@@ -1,6 +1,6 @@
 +++
 
-date = "2020-12-06T00:00:00"
+date = "2021-08-03T00:00:00"
 draft = false
 
 title = "Workshops"
@@ -11,6 +11,14 @@ widget = "custom"
 weight = 8
 
 +++
+
+June 21-22, 2021. Workshop on individual-based models with R. All material available from [dedicated website](https://sarahbauduin.github.io/formation_IBM_NetLogoR/). 
+
+May 17-18, 2021. Workshop on Bayesian capture-recapture inference with hidden Markov models in R and Nimble. Slides, worksheets and video recordings freely available from [dedicated website](https://oliviergimenez.github.io/bayesian-cr-workshop/). 
+
+March 22-26, 2021. Bayesian statistics with R for non-stats PhD students. Slides and videos [here](https://oliviergimenez.github.io/bayesian-stats-with-R/).
+
+March 18, 2021. Workshop on reproducible science in R and RStudio. Remotely via Zoom. Slides and videos[here](https://oliviergimenez.github.io/reproducible-science-workshop/). 
 
 November 23-27, 2020. [Integrated population models](http://www.phidot.org/forum/viewtopic.php?f=8&t=3968). Remotely via Zoom. Slides and videos on capture-recapture models [here](https://github.com/oliviergimenez/IPMworkshop). 
 
