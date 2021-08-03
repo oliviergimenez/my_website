@@ -27,7 +27,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.HUGO_DEPLOY_TOKEN }}
+          personal_token: ${{ secrets.deploy-hugo-site }}
           external_repository: oliviergimenez/oliviergimenez.github.io
           publish_dir: ./public
           publish_branch: master

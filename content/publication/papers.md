@@ -36,11 +36,11 @@ ______
 
 **Published**
 
-221. Rounsevell M.D.A., A. Arneth, C. Brown, W.W.L. Cheung, **O. Gimenez**, I. Holman, P. Leadley, C. Luján, S. Mahevas, I. Maréchaux, R. Pélissier, P. H. Verburg, G. Vieilledent, B.A. Wintle, Y-J Shin (2021). [Identifying uncertainties in scenarios and models of socio-ecological systems in support of decision-making.](/pubs/Rounsevell2021OneEarth.pdf) *One Earth* 4.
+1. Rounsevell M.D.A., A. Arneth, C. Brown, W.W.L. Cheung, **O. Gimenez**, I. Holman, P. Leadley, C. Luján, S. Mahevas, I. Maréchaux, R. Pélissier, P. H. Verburg, G. Vieilledent, B.A. Wintle, Y-J Shin (2021). [Identifying uncertainties in scenarios and models of socio-ecological systems in support of decision-making.](/pubs/Rounsevell2021OneEarth.pdf) *One Earth* 4.
 
-220. Tavecchia G., **O. Gimenez**, R. Choquet, A. Rotger, D. Oro, S. Tenan, A. Sanz-Aguilar (2021). [The trap of hidden processes: Why ‘quick & dirty’methods to estimate mortality are not always good. A comment to De Pascalis et al.(2020).](/pubs/Tavecchia2021BiolCons.pdf) *Biological Conservation* 256: 109057.
+2. Tavecchia G., **O. Gimenez**, R. Choquet, A. Rotger, D. Oro, S. Tenan, A. Sanz-Aguilar (2021). [The trap of hidden processes: Why ‘quick & dirty’methods to estimate mortality are not always good. A comment to De Pascalis et al.(2020).](/pubs/Tavecchia2021BiolCons.pdf) *Biological Conservation* 256: 109057.
 
-219. Santostasi N. L., **O. Gimenez**, R. Caniglia, E. Fabbri, L. Molinari, W. Reggioni, P. Ciucci (2021). [Estimating Admixture at the Population Scale: Taking Imperfect Detectability and Uncertainty in Hybrid Classification Seriously.](https://wildlife.onlinelibrary.wiley.com/doi/full/10.1002/jwmg.22038) *Journal of Wildlife Management* 85: 1031-1046. 
+3. Santostasi N. L., **O. Gimenez**, R. Caniglia, E. Fabbri, L. Molinari, W. Reggioni, P. Ciucci (2021). [Estimating Admixture at the Population Scale: Taking Imperfect Detectability and Uncertainty in Hybrid Classification Seriously.](https://wildlife.onlinelibrary.wiley.com/doi/full/10.1002/jwmg.22038) *Journal of Wildlife Management* 85: 1031-1046. 
 
 218. Zriki G., R. Blatrix, D. J. Bicout, **O. Gimenez**, A.‐S. Soulié, L. Dadu, D. Degueldre, G. Chiron, N. Sleeckx, L. Roy (2021). Population‐level impact of native arthropod predators on the poultry red mite Dermanyssus gallinae. *Journal of Experimental Zoology Part A: Ecological and Integrative Physiology* 335: 552-563.
 
