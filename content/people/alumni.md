@@ -1,6 +1,6 @@
 +++
 
-date = "2020-12-06T00:00:00"
+date = "2021-08-03T00:00:00"
 draft = false
 
 title = "Former lab members"
@@ -14,13 +14,18 @@ weight = 4
 
 <hr> 
 
+![](/img/helene.jpg)
+**Hélène Labach** (PhD 2017-2021) from [GIS3M](https://www.gis3m.org/) was working on the conservation of bottlenose dolphins in the North-Western Mediterranean Sea. Her work relied on the data collected through the [GDEGeM project](https://www.gdegem.org/). She continues her work as the head of the [MIRACETI](https://www.facebook.com/miraceticetaces/) NGO.  
+
+<hr> 
+
 ![](/img/nina.jpg)
 **Nina Santostasi** (PhD 2016-2019) developed capture-recapture and demographic models 
 for studying hybridization in the wild. As case studies, she considered dolphins in the Gulf of 
 Corinth in Greece (with Giovanni Bearzi and Silvia Bonizzoni from [Dolphin Biology and 
 Conservation](http://www.dolphinbiology.org/)) and wolves in Italy (with [Paolo 
 Ciucci](https://www.researchgate.net/profile/Paolo_Ciucci) from University of Rome - 
-La Sapienza). Nina is now a post-doc with Paolo working on estimating population abundance of brown bears.
+La Sapienza). Nina is now a post-doc with Paolo Ciucci working on estimating population abundance of brown bears.
 
 <br>
 
@@ -76,9 +81,9 @@ Julie is now a post-doc at the [Leibniz Institute for Zoo and Wildlife Research]
 ![](/img/lorelei.jpg)
 **Loreleï Guéry** (post-doc 2016-2018) studied the dynamics of lynx in 
 Switzerland using spatially-explicit capture-recapture models. This was joint work with 
-[Fridolin Zimmermann](http://www.kora.ch/index.php?id=232&L=1) from KORA. Loreleï is now a [post-doc
+[Fridolin Zimmermann](http://www.kora.ch/index.php?id=232&L=1) from KORA. Loreleï then did a [post-doc
 in the MARBEC lab](http://www.umr-marbec.fr/guery-lorelei.html), working with [Daniel Gaertner](http://www.umr-marbec.fr/gaertner-daniel.html) from IRD
-on the population dynamics of tunas. 
+on the population dynamics of tunas. She is now a [permanent researcher at CIRAD](https://umr-phim.cirad.fr/contact-acces/annuaire/(Cat)/834-Equipe/(Val)/5547-FORISK).
 
 <br>
 
@@ -165,7 +170,7 @@ variation and its impact on population dynamics of bats. She worked as an enviro
 ![](/img/marene-gamelon-pho2014_k2e5582.jpg)
 **Marlène Gamelon** (PhD 2011-2013) studied environmental 
 variation and reproduction tactics in wild boars (joint work with Jean-Michel Gaillard and 
-Eric Baubet). She did a post-doc in Norway. Marlène is now a permanent researcher at CNRS.
+Eric Baubet). She did a post-doc in Norway. Marlène is now a [permanent researcher at CNRS](https://lbbe.univ-lyon1.fr/fr/annuaires-des-membres/gamelon-marlene).
  
 <br>
 
@@ -174,7 +179,7 @@ Eric Baubet). She did a post-doc in Norway. Marlène is now a permanent research
 ![](/img/lucile-marescot.jpg)
 **Lucile Marescot** (PhD 2010-2012, post-doc 2017-2019) analyzed the 
 recolonization of wolves in France (joint work with Eric Marboutin and Guillaume Chapron). She did a post-doc in the US and another post-doc in Germany. Then she developed multi-species occupancy models for large mammals. This was a collaboration with Christophe Duchamp and Nolwenn Hoguet-Drouet from [ONCFS](http://www.oncfs.gouv.fr/) (France) and Arnaud Lyet from
-[WWF-US](https://www.worldwildlife.org/pages/arnaud-lyet-ph-d). Lucile is now a freelance [data scientist in conservation biology](https://lucilemarescot.wordpress.com/a-propos/).
+[WWF-US](https://www.worldwildlife.org/pages/arnaud-lyet-ph-d). After working as a freelance [data scientist in conservation biology](https://lucilemarescot.wordpress.com/a-propos/), Lucile got a permanent position as a [researcher at CIRAD](https://www6.montpellier.inrae.fr/cbgp).
  
 <br>
 
@@ -191,7 +196,7 @@ mixed models (joint work with Christian Lavergne). After a post-doc both in the 
 
 ![](/img/index.jpg)
 **Mathieu Buoro** (PhD 2010-2012) worked in evolutionary ecology using mark-recapture data in Atlantic salmons (joint work with Etienne 
-Prévost). Mathieu did a post-doc in the US at Berkeley, then came back as a post-doc in Toulouse. He is now a [permanent researcher at INRAE](http://mathieubuoro.com/).
+Prévost). Mathieu did a post-doc in the US at Berkeley, then came back as a post-doc in Toulouse. He is now a [permanent researcher at INRAE](https://www6.bordeaux-aquitaine.inrae.fr/st_pee/UMR-Ecobiop/Fiches-chercheurs/Mathieu-Buoro).
  
 <br>
 
@@ -200,7 +205,7 @@ Prévost). Mathieu did a post-doc in the US at Berkeley, then came back as a pos
 ![](/img/francois-guilhaumon.jpg)
 **François Guilhaumon** (PhD 2008-2010) analysed 
 biodiversity patterns at large scale and worked in conservation biogeography 
-(joint work with David Mouillot). François is now a [permanent researcher at IRD](http://www.umr-marbec.fr/guilhaumon-francois.html).
+(joint work with David Mouillot). François is now a [permanent researcher at IRD](https://fguilhaumon.gitlab.io/).
  
 <br>
 

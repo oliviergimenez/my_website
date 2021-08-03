@@ -1,6 +1,6 @@
 +++
 
-date = "2020-12-06T00:00:00"
+date = "2021-08-03T00:00:00"
 draft = false
 
 title = "Current lab members"
@@ -14,8 +14,19 @@ weight = 3
 
 <hr> 
 
+![](/img/maelis.jpeg)
+**Maëlis Kervellec** (PhD 2021-2024) is developing statistical models for the analysis of camera trap data with applications in large carnivores population ecology. This is joint work with colleagues from the [French Office of Biodiversity](https://ofb.gouv.fr/)
+
+<hr> 
+
+![](/img/marwan.jpg)
+**Marwan Naceri** (PhD 2021-2024) is studying the demography of polar bears. He is co-supervised by Sarah Cubaynes and Jon Aars. 
+
+<hr> 
+
 ![](/img/maud.png)
 **Maud Quéroué** (PhD 2018-2021) is developing multispecies demographic models to study predator-prey interactions in seabirds and competition/coexistence in passerines. This is joint work with [Christophe Barbraud](http://www.cebc.cnrs.fr/ecomm/Fr_ecomm/equip_CB.html), [Pierre-Yves Henry](http://mecadev.cnrs.fr/index.php?post/Henry-Pierre-Yves) and [Frédéric Barraquand](https://sites.google.com/site/fredbarraquand/home).
+
 <hr> 
 
 ![](/img/oksana.png)
@@ -30,11 +41,6 @@ weight = 3
 
 ![](/img/monia.jpg)
 **Mónia Nakamura Mercier Real** (PhD 2019-2024) is investigating the impacts of anthropogenic factors on large carnivores persistence in human-dominated landscapes. She uses wolf in Spain and Portugal as a model species to address how different humanization levels can influence habitat selection and land use, and ultimately affect its demography, status and viability. The thesis is co-supervised with [José Vicente López-Bao](https://scholar.google.es/citations?user=mWcf6MsAAAAJ&hl=es) and [Pedro Monterroso](https://scholar.google.com/citations?user=2ulB-8QAAAAJ&hl=en).
-
-<hr> 
-
-![](/img/helene.jpg)
-**Hélène Labach** (PhD 2016-2020) from [GIS3M](https://www.gis3m.org/) is working on the conservation of bottlenose dolphins in the North-Western Mediterranean Sea. Her work relies on the data collected through the [GDEGeM project](https://www.gdegem.org/).
 
 <hr> 
 
