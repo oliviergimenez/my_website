@@ -1,0 +1,89 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+
+[[main]]
+  name = "About"
+  url = "about"
+  weight = 10
+
+[[main]]
+  name = "People"
+  url = "people"
+  weight = 20
+
+[[main]]
+  name = "Current"
+  parent = "People"
+  url = "people/current/"
+  weight = 21
+
+[[main]]
+  name = "Former"
+  parent = "People"
+  url = "people/alumni/"
+  weight = 22
+
+[[main]]
+  name = "Projects"
+  url = "project_landing"
+  weight = 30
+
+[[main]]
+  name = "Publications"
+  url = "publication"
+  weight = 40
+
+[[main]]
+  name = "Papers"
+  parent = "Publications"
+  url = "publication/papers/"
+  weight = 41
+
+[[main]]
+  name = "Books and book chapter"
+  parent = "Publications"
+  url = "publication/books/"
+  weight = 42
+
+[[main]]
+  name = "Talks & workshops"
+  url = "talks"
+  weight = 50
+
+[[main]]
+  name = "Talks"
+  parent = "Talks & workshops"
+  url = "talks/talk"
+  weight = 51
+
+[[main]]
+  name = "Workshops"
+  parent = "Talks & workshops"
+  url = "talks/workshop"
+  weight = 52
+
+[[main]]
+  name = "Codes"
+  url = "coding"
+  weight = 55
+
+[[main]]
+  name = "News"
+  url = "blog"
+  weight = 60
+
+
+#[[main]]
+#  name = "Resume"
+#  url = "resume"
+#  weight = 40
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 70
