@@ -20,7 +20,7 @@ weight = 3
 <hr> 
 
 ![](/img/marwan.jpg)
-**Marwan Naceri** (PhD 2021-2024) is studying the demography of polar bears. He is co-supervised by Sarah Cubaynes and Jon Aars. 
+**Marwan Naciri** (PhD 2021-2024) is studying the demography of polar bears. He is co-supervised by Sarah Cubaynes and Jon Aars. 
 
 <hr> 
 
