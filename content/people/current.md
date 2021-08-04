@@ -1,6 +1,6 @@
 +++
 
-date = "2021-08-03T00:00:00"
+date = "2021-08-04T00:00:00"
 draft = false
 
 title = "Current lab members"
@@ -21,6 +21,11 @@ weight = 3
 
 ![](/img/marwan.jpg)
 **Marwan Naciri** (PhD 2021-2024) is studying the demography of polar bears. He is co-supervised by Sarah Cubaynes and Jon Aars. 
+
+<hr> 
+
+![](/img/deborah.jpg)
+**Deborah Coz** (PhD 2021-2024) is using games and companion modelling to build social-ecological communities and enrich animal geography. She is supervised by Raphaël Mathevet. 
 
 <hr> 
 
