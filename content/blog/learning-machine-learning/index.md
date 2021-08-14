@@ -9,7 +9,9 @@ summary = """
 
 +++
 
-I would like to familiarize myself with machine learning (ML) techniques in `R`. So I have been reading and learning by doing. I thought I'd share my experience for others who'd like to give it a try.
+I would like to familiarize myself with machine learning (ML) techniques in `R`. So I have been reading and learning by doing. I thought I'd share my experience for others who'd like to give it a try[^1].
+
+[^1]: This post was also published on https://www.r-bloggers.com.
 
 <!--more-->
 
@@ -26,6 +28,8 @@ I also recommend checking out the material (codes, screencasts) shared by [David
 To try things, I've joined the [Kaggle](https://en.wikipedia.org/wiki/Kaggle) online community which gathers folks with lots of experience in ML from whom you can learn. Kaggle also hosts public datasets that can be used for playing around. 
 
 Let's start with the famous [Titanic dataset](https://www.kaggle.com/c/titanic/overview). We need to predict if a passenger survived the sinking of the Titanic (1) or not (0). A dataset is provided for training our models (train.csv). Another dataset is provided (test.csv) for which we do not know the answer. We will predict survival for each passenger, submit our answer to Kaggle and see how well we did compared to other folks. The metric for comparison is the percentage of passengers we correctly predict -- aka as accuracy. 
+
+Data and codes are available from <https://github.com/oliviergimenez/learning-machine-learning>. 
 
 First things first, let's load some packages to get us started. 
 

@@ -16,7 +16,9 @@ I use `R` to retrieve some data from Twitter, do some exploratory data analysis 
 
 ## Motivation
 
-I use Twitter to get live updates of what my follow scientists are up to, to communicate about my students' awesome work and to share material that I hope is useful to some people. 
+I use Twitter to get live updates of what my follow scientists are up to, to communicate about my students' awesome work and to share material that I hope is useful to some people[^1].
+
+[^1]: This post was also published on https://www.r-bloggers.com.
 
 Recently, I reached 5,000 followers and I thought I'd spend some time trying to know better who they/you are. To do so, I use `R` to retrieve some data from Twitter using [`rtweet`](https://docs.ropensci.org/rtweet/), do some data exploration and visualisation using the [`tidyverse`](https://www.tidyverse.org/) and examine my network of followers with [`tidygraph`](https://tidygraph.data-imaginist.com/), [`ggraph`](https://ggraph.data-imaginist.com/) and [`igraph`](https://igraph.org/r/). Data and codes are available from <https://github.com/oliviergimenez/sna-twitter>. 
 
