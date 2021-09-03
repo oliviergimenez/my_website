@@ -24,6 +24,8 @@ ______
 
 4. Lauret V., H. Labach, D. Turek, S. Laran, **O. Gimenez** (2021). [Spatial integrated models foster complementarity between monitoring programs in producing large-scale ecological indicators.](https://www.biorxiv.org/content/10.1101/2021.02.01.429097v1) bioRxiv preprint. 
 
+5. Gimenez O., M. Kervellec, J.-B. Fanjul, A. Chaine, L. Marescot, Y. Bollet, C. Duchamp (2021). [Trade-off between deep learning for species identification and inference about predator-prey co-occurrence: Reproducible R workflow integrating models in computer vision and ecological statistics.](https://arxiv.org/abs/2108.11509) arXiv preprint, data and code [here](https://github.com/oliviergimenez/computo-deeplearning-occupany-lynx).
+
 ______
 
 **In French**
@@ -36,19 +38,19 @@ ______
 
 **Published**
 
-1. Rounsevell M.D.A., A. Arneth, C. Brown, W.W.L. Cheung, **O. Gimenez**, I. Holman, P. Leadley, C. Luján, S. Mahevas, I. Maréchaux, R. Pélissier, P. H. Verburg, G. Vieilledent, B.A. Wintle, Y-J Shin (2021). [Identifying uncertainties in scenarios and models of socio-ecological systems in support of decision-making.](/pubs/Rounsevell2021OneEarth.pdf) *One Earth* 4.
+1. Kazakou E., Fried G., Cheptou P.-O., and **Gimenez O.** (2021). [Does seed mass drive interspecies variation in the effect of management practices on weed demography?](https://onlinelibrary.wiley.com/doi/10.1002/ece3.8038) *Ecology and Evolution* 00: 1– 9. https://doi.org/10.1002/ece3.8038 
 
-2. Tavecchia G., **O. Gimenez**, R. Choquet, A. Rotger, D. Oro, S. Tenan, A. Sanz-Aguilar (2021). [The trap of hidden processes: Why ‘quick & dirty’methods to estimate mortality are not always good. A comment to De Pascalis et al.(2020).](/pubs/Tavecchia2021BiolCons.pdf) *Biological Conservation* 256: 109057.
+2. Maurer G., **Gimenez O.**, Mulot B., and Lescureux N. (2021). [Under pressure: How human-wild-captive elephant social-ecological system in Laos is teetering due to global forces and sociocultural changes.](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10247) *People and Nature* 00: 1– 17. https://doi.org/10.1002/pan3.10247 
+ 
+3. Rounsevell M.D.A., A. Arneth, C. Brown, W.W.L. Cheung, **O. Gimenez**, I. Holman, P. Leadley, C. Luján, S. Mahevas, I. Maréchaux, R. Pélissier, P. H. Verburg, G. Vieilledent, B.A. Wintle, Y-J Shin (2021). [Identifying uncertainties in scenarios and models of socio-ecological systems in support of decision-making.](/pubs/Rounsevell2021OneEarth.pdf) *One Earth* 4.
 
-3. Santostasi N. L., **O. Gimenez**, R. Caniglia, E. Fabbri, L. Molinari, W. Reggioni, P. Ciucci (2021). [Estimating Admixture at the Population Scale: Taking Imperfect Detectability and Uncertainty in Hybrid Classification Seriously.](https://wildlife.onlinelibrary.wiley.com/doi/full/10.1002/jwmg.22038) *Journal of Wildlife Management* 85: 1031-1046. 
+4. Tavecchia G., **O. Gimenez**, R. Choquet, A. Rotger, D. Oro, S. Tenan, A. Sanz-Aguilar (2021). [The trap of hidden processes: Why ‘quick & dirty’methods to estimate mortality are not always good. A comment to De Pascalis et al.(2020).](/pubs/Tavecchia2021BiolCons.pdf) *Biological Conservation* 256: 109057.
 
-218. Zriki G., R. Blatrix, D. J. Bicout, **O. Gimenez**, A.‐S. Soulié, L. Dadu, D. Degueldre, G. Chiron, N. Sleeckx, L. Roy (2021). Population‐level impact of native arthropod predators on the poultry red mite Dermanyssus gallinae. *Journal of Experimental Zoology Part A: Ecological and Integrative Physiology* 335: 552-563.
+5. Santostasi N. L., **O. Gimenez**, R. Caniglia, E. Fabbri, L. Molinari, W. Reggioni, P. Ciucci (2021). [Estimating Admixture at the Population Scale: Taking Imperfect Detectability and Uncertainty in Hybrid Classification Seriously.](https://wildlife.onlinelibrary.wiley.com/doi/full/10.1002/jwmg.22038) *Journal of Wildlife Management* 85: 1031-1046. 
 
-217. Turek, D., C. Wehrhahn, **Gimenez O.** (2021). [Bayesian Non-Parametric Detection Heterogeneity in Ecological Models.](https://arxiv.org/abs/2007.10163) *Environmental and Ecological Statistics* 28: 355-381.
+216. Zriki G., R. Blatrix, D. J. Bicout, **O. Gimenez**, A.‐S. Soulié, L. Dadu, D. Degueldre, G. Chiron, N. Sleeckx, L. Roy (2021). Population‐level impact of native arthropod predators on the poultry red mite Dermanyssus gallinae. *Journal of Experimental Zoology Part A: Ecological and Integrative Physiology* 335: 552-563.
 
-216. Kazakou E., F. Guillaume, Cheptou P.-O., **Gimenez O.** (2021). [Does seed mass drive interspecies variation in the effect of management practices on weed demography?](https://www.biorxiv.org/content/10.1101/2020.01.08.898247v2). *Ecology and Evolution*. In press. 
-
-215. Maurer G., **Gimenez O.**, Mulot B., Lescureux N. (2021). [From spirits' control to market forces: Questioning the resilience of the current human-wild-captive elephant social-ecological system in Laos.](https://osf.io/preprints/socarxiv/7g2yd/) *People and Nature*. In press. 
+215. Turek, D., C. Wehrhahn, **Gimenez O.** (2021). [Bayesian Non-Parametric Detection Heterogeneity in Ecological Models.](https://arxiv.org/abs/2007.10163) *Environmental and Ecological Statistics* 28: 355-381.
 
 214. Lauret V., Labach H., Authier M., **Gimenez O.** (2021). [Combining single- and repeated-visit occupancy models to make the best of monitoring surveys.](https://www.biorxiv.org/content/10.1101/848663v1) *Ecology*. In press.  
 
