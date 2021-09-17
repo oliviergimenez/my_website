@@ -16,11 +16,11 @@ ______
 
 **Preprints**
 
-1. Grente O., T. Saubusse, **Gimenez O.**, E. Marboutin, C. Duchamp (2020). [Wolf depredation hotspots in France: Clustering analyses accounting for livestock availability.](https://ecoevorxiv.org/n8rzg/) EcoEvoRxiv preprint. 
+1. **Gimenez O.**, M. Kervellec, J.-B. Fanjul, A. Chaine, L. Marescot, Y. Bollet, C. Duchamp (2021) [Trade-off between deep learning for species identification and inference about predator-prey co-occurrence: Reproducible R workflow integrating models in computer vision and ecological statistics](https://arxiv.org/abs/2108.11509) arXiv preprint. 
 
-2. Kleiven E.F., F. Barraquand, **Gimenez O.**, J.-A. Henden, R. Anker Ims, E. M. Soininen, N. G. Yoccoz (2020). [A dynamic and hierarchical spatial occupancy model for interacting species.](https://www.biorxiv.org/content/10.1101/2020.12.16.423067v1.abstract) bioRxiv preprint. 
+2. Grente O., T. Saubusse, **Gimenez O.**, E. Marboutin, C. Duchamp (2020). [Wolf depredation hotspots in France: Clustering analyses accounting for livestock availability.](https://ecoevorxiv.org/n8rzg/) EcoEvoRxiv preprint. 
 
-3. Gervasi V., J. Linnell, T. Berce, L. Boitani, B. Cretois, P. Ciucci, C. Duchamp, A. Gastineau, O. Grente, D. Hilfiker, D. Huber, Y. Iliopoulos, A. Karamanlidis, F. Marucco, Y. Mertzanis, P. Mannil, H. Norberg, N. Pagon, L. Pedrotti, P.-Y. Quenette, S. Reljic, V. Salvatori, T. Talvi, M. von Arx, **Gimenez O.** (2020). [Ecological and anthropogenic drivers of large carnivore depredation on sheep in Europe](https://www.biorxiv.org/content/10.1101/2020.04.14.041160v2.abstract). bioRxiv preprint. 
+3. Kleiven E.F., F. Barraquand, **Gimenez O.**, J.-A. Henden, R. Anker Ims, E. M. Soininen, N. G. Yoccoz (2020). [A dynamic and hierarchical spatial occupancy model for interacting species.](https://www.biorxiv.org/content/10.1101/2020.12.16.423067v1.abstract) bioRxiv preprint. 
 
 4. Lauret V., H. Labach, D. Turek, S. Laran, **O. Gimenez** (2021). [Spatial integrated models foster complementarity between monitoring programs in producing large-scale ecological indicators.](https://www.biorxiv.org/content/10.1101/2021.02.01.429097v1) bioRxiv preprint. 
 
@@ -38,15 +38,17 @@ ______
 
 **Published**
 
-1. Kazakou E., Fried G., Cheptou P.-O., and **Gimenez O.** (2021). [Does seed mass drive interspecies variation in the effect of management practices on weed demography?](https://onlinelibrary.wiley.com/doi/10.1002/ece3.8038) *Ecology and Evolution* 00: 1– 9. https://doi.org/10.1002/ece3.8038 
+1. Gervasi V., J. Linnell, T. Berce, L. Boitani, B. Cretois, P. Ciucci, C. Duchamp, A. Gastineau, O. Grente, D. Hilfiker, D. Huber, Y. Iliopoulos, A. Karamanlidis, F. Marucco, Y. Mertzanis, P. Mannil, H. Norberg, N. Pagon, L. Pedrotti, P.-Y. Quenette, S. Reljic, V. Salvatori, T. Talvi, M. von Arx, **Gimenez O.** (2021). [Ecological correlates of large carnivore depredation on sheep in Europe](https://www.sciencedirect.com/science/article/pii/S2351989421003486). *Global Ecology and Conservation* 30: e01798. BioRxiv preprint https://www.biorxiv.org/content/10.1101/2020.04.14.041160v2. 
 
-2. Maurer G., **Gimenez O.**, Mulot B., and Lescureux N. (2021). [Under pressure: How human-wild-captive elephant social-ecological system in Laos is teetering due to global forces and sociocultural changes.](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10247) *People and Nature* 00: 1– 17. https://doi.org/10.1002/pan3.10247 
+2. Kazakou E., Fried G., Cheptou P.-O., and **Gimenez O.** (2021). [Does seed mass drive interspecies variation in the effect of management practices on weed demography?](https://onlinelibrary.wiley.com/doi/10.1002/ece3.8038) *Ecology and Evolution* 00: 1– 9. https://doi.org/10.1002/ece3.8038 
+
+3. Maurer G., **Gimenez O.**, Mulot B., and Lescureux N. (2021). [Under pressure: How human-wild-captive elephant social-ecological system in Laos is teetering due to global forces and sociocultural changes.](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10247) *People and Nature* 00: 1– 17. https://doi.org/10.1002/pan3.10247 
  
-3. Rounsevell M.D.A., A. Arneth, C. Brown, W.W.L. Cheung, **O. Gimenez**, I. Holman, P. Leadley, C. Luján, S. Mahevas, I. Maréchaux, R. Pélissier, P. H. Verburg, G. Vieilledent, B.A. Wintle, Y-J Shin (2021). [Identifying uncertainties in scenarios and models of socio-ecological systems in support of decision-making.](/pubs/Rounsevell2021OneEarth.pdf) *One Earth* 4.
+219. Rounsevell M.D.A., A. Arneth, C. Brown, W.W.L. Cheung, **O. Gimenez**, I. Holman, P. Leadley, C. Luján, S. Mahevas, I. Maréchaux, R. Pélissier, P. H. Verburg, G. Vieilledent, B.A. Wintle, Y-J Shin (2021). [Identifying uncertainties in scenarios and models of socio-ecological systems in support of decision-making.](/pubs/Rounsevell2021OneEarth.pdf) *One Earth* 4.
 
-4. Tavecchia G., **O. Gimenez**, R. Choquet, A. Rotger, D. Oro, S. Tenan, A. Sanz-Aguilar (2021). [The trap of hidden processes: Why ‘quick & dirty’methods to estimate mortality are not always good. A comment to De Pascalis et al.(2020).](/pubs/Tavecchia2021BiolCons.pdf) *Biological Conservation* 256: 109057.
+218. Tavecchia G., **O. Gimenez**, R. Choquet, A. Rotger, D. Oro, S. Tenan, A. Sanz-Aguilar (2021). [The trap of hidden processes: Why ‘quick & dirty’methods to estimate mortality are not always good. A comment to De Pascalis et al.(2020).](/pubs/Tavecchia2021BiolCons.pdf) *Biological Conservation* 256: 109057.
 
-5. Santostasi N. L., **O. Gimenez**, R. Caniglia, E. Fabbri, L. Molinari, W. Reggioni, P. Ciucci (2021). [Estimating Admixture at the Population Scale: Taking Imperfect Detectability and Uncertainty in Hybrid Classification Seriously.](https://wildlife.onlinelibrary.wiley.com/doi/full/10.1002/jwmg.22038) *Journal of Wildlife Management* 85: 1031-1046. 
+217. Santostasi N. L., **O. Gimenez**, R. Caniglia, E. Fabbri, L. Molinari, W. Reggioni, P. Ciucci (2021). [Estimating Admixture at the Population Scale: Taking Imperfect Detectability and Uncertainty in Hybrid Classification Seriously.](https://wildlife.onlinelibrary.wiley.com/doi/full/10.1002/jwmg.22038) *Journal of Wildlife Management* 85: 1031-1046. 
 
 216. Zriki G., R. Blatrix, D. J. Bicout, **O. Gimenez**, A.‐S. Soulié, L. Dadu, D. Degueldre, G. Chiron, N. Sleeckx, L. Roy (2021). Population‐level impact of native arthropod predators on the poultry red mite Dermanyssus gallinae. *Journal of Experimental Zoology Part A: Ecological and Integrative Physiology* 335: 552-563.
 
