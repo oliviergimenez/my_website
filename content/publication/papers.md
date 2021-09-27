@@ -1,6 +1,6 @@
 +++
 
-date = "2021-08-02T00:00:00"
+date = "2021-09-27T00:00:00"
 draft = false
 
 title = "Papers"
@@ -38,11 +38,11 @@ ______
 
 **Published**
 
-1. Gervasi V., J. Linnell, T. Berce, L. Boitani, B. Cretois, P. Ciucci, C. Duchamp, A. Gastineau, O. Grente, D. Hilfiker, D. Huber, Y. Iliopoulos, A. Karamanlidis, F. Marucco, Y. Mertzanis, P. Mannil, H. Norberg, N. Pagon, L. Pedrotti, P.-Y. Quenette, S. Reljic, V. Salvatori, T. Talvi, M. von Arx, **Gimenez O.** (2021). [Ecological correlates of large carnivore depredation on sheep in Europe](https://www.sciencedirect.com/science/article/pii/S2351989421003486). *Global Ecology and Conservation* 30: e01798. BioRxiv preprint https://www.biorxiv.org/content/10.1101/2020.04.14.041160v2. 
+1. Gervasi V., J. Linnell, T. Berce, L. Boitani, B. Cretois, P. Ciucci, C. Duchamp, A. Gastineau, O. Grente, D. Hilfiker, D. Huber, Y. Iliopoulos, A. Karamanlidis, F. Marucco, Y. Mertzanis, P. Mannil, H. Norberg, N. Pagon, L. Pedrotti, P.-Y. Quenette, S. Reljic, V. Salvatori, T. Talvi, M. von Arx, **Gimenez O.** (2021). [Ecological correlates of large carnivore depredation on sheep in Europe](/pubs/Gervasietal2021GEC.pdf). *Global Ecology and Conservation* 30: e01798.  
 
 2. Kazakou E., Fried G., Cheptou P.-O., and **Gimenez O.** (2021). [Does seed mass drive interspecies variation in the effect of management practices on weed demography?](https://onlinelibrary.wiley.com/doi/10.1002/ece3.8038) *Ecology and Evolution* 00: 1– 9. https://doi.org/10.1002/ece3.8038 
 
-3. Maurer G., **Gimenez O.**, Mulot B., and Lescureux N. (2021). [Under pressure: How human-wild-captive elephant social-ecological system in Laos is teetering due to global forces and sociocultural changes.](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10247) *People and Nature* 00: 1– 17. https://doi.org/10.1002/pan3.10247 
+3. Maurer G., **Gimenez O.**, Mulot B., and Lescureux N. (2021). [Under pressure: How human-wild-captive elephant social-ecological system in Laos is teetering due to global forces and sociocultural changes.](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10247) *People and Nature* 00: 1– 17.
  
 219. Rounsevell M.D.A., A. Arneth, C. Brown, W.W.L. Cheung, **O. Gimenez**, I. Holman, P. Leadley, C. Luján, S. Mahevas, I. Maréchaux, R. Pélissier, P. H. Verburg, G. Vieilledent, B.A. Wintle, Y-J Shin (2021). [Identifying uncertainties in scenarios and models of socio-ecological systems in support of decision-making.](/pubs/Rounsevell2021OneEarth.pdf) *One Earth* 4.
 
@@ -54,17 +54,17 @@ ______
 
 215. Turek, D., C. Wehrhahn, **Gimenez O.** (2021). [Bayesian Non-Parametric Detection Heterogeneity in Ecological Models.](https://arxiv.org/abs/2007.10163) *Environmental and Ecological Statistics* 28: 355-381.
 
-214. Lauret V., Labach H., Authier M., **Gimenez O.** (2021). [Combining single- and repeated-visit occupancy models to make the best of monitoring surveys.](https://www.biorxiv.org/content/10.1101/848663v1) *Ecology*. In press.  
+214. Lauret V., Labach H., Authier M., **Gimenez O.** (2021). [Combining single- and repeated-visit occupancy models to make the best of monitoring surveys.](/pubs/Lauretetal2021Ecology.pdf) *Ecology*. In press.  
 
 213. Gamelon M, Baubet E., Besnard A., Gaillard J.-M., Lebreton J.-D., Touzot L., Veylit L., **Gimenez O.** (2021). [Efficient use of harvest data: An integrated population model for exploited animal populations.](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05738) *Ecography*. 
 
-212. Labach H., Azzinari C., Barbier M., Cesarini C., Daniel B., David L., Dhermain F., Di-Méglio N., Guichard B., Jourdan J., Robert N., Roul M., Tomasi N., **Gimenez O.** (2021). [Distribution and abundance of bottlenose dolphin (Tursiops truncatus) over the French Mediterranean continental shelf.](https://www.biorxiv.org/content/10.1101/723569v1) *Marine Mammal Science*. In press. 
+212. Labach H., Azzinari C., Barbier M., Cesarini C., Daniel B., David L., Dhermain F., Di-Méglio N., Guichard B., Jourdan J., Robert N., Roul M., Tomasi N., **Gimenez O.** (2021). [Distribution and abundance of bottlenose dolphin (Tursiops truncatus) over the French Mediterranean continental shelf.](/pubs/Labachetal2021MMS.pdf) *Marine Mammal Science*. In press. 
 
 211. Barraquand F., **Gimenez O.** (2021). [Fitting stochastic predator-prey models using both population density and kill rate data](https://arxiv.org/abs/1904.02145) *Theoretical Population Biology* 138: 1-27.
 
 210. Cubaynes S., Aars J., Yoccoz N.G., Pradel R., Wiig Ø, Ims R.A. **Gimenez O.** (2021). [Modeling the demography of species providing extended parental care: A capture-recapture approach with a case study on Polar Bears (Ursus maritimus).](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.7296) *Ecology and Evolution* 11: 3380-3392.
 
-209. Quéroué M., C. Barbraud, F. Barraquand, D. Turek, K. Delord, N. Pacoureau, **Gimenez O.** (2021). [Multispecies integrated population model reveals bottom-up dynamics in a seabird predator-prey system](https://www.biorxiv.org/content/10.1101/2020.06.26.174250v2) *Ecological Monographs* 91: e01459. 
+209. Quéroué M., C. Barbraud, F. Barraquand, D. Turek, K. Delord, N. Pacoureau, **Gimenez O.** (2021). [Multispecies integrated population model reveals bottom-up dynamics in a seabird predator-prey system](/pubs/Queroueetal2021EM.pdf) *Ecological Monographs* 91: e01459. 
 
 208. Bischof R., C. Milleret, P. Dupont, J. Chipperfield, M. Tourani, A. Ordiz, P. de Valpine, D. Turek, J. A. Royle, **Gimenez O.**, Ø. Flagstad, M. Åkesson, L. Svensson, H. Brøseth, J. Kindberg (2020). [Estimating and forecasting spatial population dynamics of apex predators using transnational genetic monitoring.](/pubs/Bischof2020PNAS.pdf) *Proceedings of the National Academy of Sciences* 117:30531-30538. 
 
