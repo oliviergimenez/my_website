@@ -141,14 +141,6 @@ the US, New Mexico State University](http://aces.nmsu.edu/academics/fws/fitsum-a
 
 <hr> 
 
-![](/img/index1.jpg)
-**Guillaume Péron** (post-doc 2010) worked at quantifying spatial 
-heterogeneity in Eurasian woodcock survival. He also did several post-docs in the US, and was a contractual 
-researcher with ONCFS and French National Parks. Guillaume is now a [permanent researcher at CNRS](https://lbbe.univ-lyon1.fr/-Peron-Guillaume-.html).
-
-<br>
-
-<hr> 
 
 ![](/img/sabrina.jpg)
 **Sabrina Servanty** (post-doc 2008-2009) studied the dynamic of 
