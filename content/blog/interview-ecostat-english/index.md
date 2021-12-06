@@ -164,7 +164,7 @@ Recently, we've been [working a lot on the lynx in France](https://sites.google.
 
 ![](/img/pix-interview/posterERC.jpg)
 
-Why did I choose to talk about this project? 
+Why did I choose to talk about this project specifically? 
 
 Firstly because it is a project that mixes different types of modelling, statistical and computer science, different disciplines with ecology and statistics, and sub-disciplines of ecology with landscape ecology, movement ecology, and population dynamics. 
 
