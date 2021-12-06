@@ -1,5 +1,5 @@
 +++
-date = "2021-12-07"
+date = "2021-12-06"
 draft = false
 tags = ["statistical ecology", "interview"]
 title = "Why a career in statistical ecology?"
