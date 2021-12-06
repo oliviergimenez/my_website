@@ -93,7 +93,7 @@ Several reasons, in no particular order.
 + It is an incredible privilege to be paid to be a researcher, especially as a civil servant. Personally, I did not want to experience the difficult working conditions of my parents. Professionnaly, this status offers good conditions for doing our job. A permanent position allows us to work as a collective. This is an important point because research is an adventure involving several people, a team adventure; you don't achieve anything, or not much, when you work alone (at least for me). You don't do good research by pushing for [more competition](https://www.nature.com/articles/d41586-020-02853-w).  
 Our status also allows us to take a long view, a long view that is essential for quality research, research that also serves society. Our work on the wolf, which I mentioned, began more than 10 years ago! This long time frame is being undermined by the precarization of employment which is hitting the research world hard, with more and more fixed-term contracts, and I am worried about the consequences for the younger generation of course. More competition. More administration. More excellence. Go fast. Quantity. Productivity. Fewer jobs. Fewer resources. Research and teaching are managed like a company, we have to optimise, rationalise, students are customers. It can't work. Sorry, I'm going astray...
 
-[](/img/pix-interview/knowledge.jpg)
+![](/img/pix-interview/knowledge.jpg)
 
 + Another reason I chose this career is that I wanted to tackle applied problems, which could have concrete applications for people, for society. Or at least to contribute a little bit in that sense. To be useful, basically. 
 
