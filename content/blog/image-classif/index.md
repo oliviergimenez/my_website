@@ -25,7 +25,6 @@ Here, I will use an [`R` interface to `Keras`](https://keras.rstudio.com/) that 
 The code is available on GitHub as usual <https://github.com/oliviergimenez/bin-image-classif>. 
 
 First things first, load the packages we will need.
-
 ```r
 library(tidyverse)
 theme_set(theme_light())
@@ -35,7 +34,6 @@ library(keras)
 # Read in and process data
 
 We will need a function to process images, I'm stealing [that one](https://rpubs.com/spalladino14/653239) written by [Spencer Palladino](https://www.linkedin.com/in/spencer-palladino/).
-
 ```r
 process_pix <- function(lsf) {
   img <- lapply(lsf, image_load, grayscale = TRUE) # grayscale the image
@@ -49,7 +47,6 @@ process_pix <- function(lsf) {
 ```
 
 Now let's process images for patients with Covid, and do some reshaping. Idem with images for patients without Covid. 
-
 ```r
 # with covid
 lsf <- list.files("dat/COVID/", full.names = TRUE) 
@@ -66,7 +63,6 @@ ncovid_reshaped <- array_reshape(ncovid, c(nrow(ncovid), 100*100))
 We have 1252 CT scans of patients with Covid, and 1229 without. 
 
 Let's visualise these scans. Let's pick a patient with Covid, and another one without.
-
 ```r
 scancovid <- reshape2::melt(covid[10,,])
 plotcovid <- scancovid %>%
@@ -93,7 +89,6 @@ plotcovid + plotncovid
 ![](unnamed-chunk-4-1.png)<!-- -->
 
 Put altogether and shuffle.
-
 ```r
 df <- rbind(cbind(covid_reshaped, 1), # 1 = covid
             cbind(ncovid_reshaped, 0)) # 0 = no covid
@@ -107,7 +102,6 @@ Sounds great. We have everything we need to start training a convolutional neura
 # Convolutional neural network (CNN)
 
 Let's build our training and testing datasets using a 80/20 split. 
-
 ```r
 set.seed(2022)
 split <- sample(2, nrow(df), replace = T, prob = c(0.8, 0.2))
@@ -118,7 +112,6 @@ test_target <- df[split == 2, 10001] # label in testing dataset
 ```
 
 Now build our model. I use three layers (`layer_dense()` function) that I put one after the other with piping. I also use regularization (`layer_dropout()` function) to avoid overfitting. 
-
 ```r
 model <- keras_model_sequential() %>%
   layer_dense(units = 512, activation = "relu") %>% 
@@ -130,8 +123,7 @@ model <- keras_model_sequential() %>%
   layer_dense(units = 2, activation = 'softmax')
 ```
 
-Compile the model with defaults specific to binary classification. 
-
+Compile the model with defaults specific to binary classification.
 ```r
 model %>%
   compile(optimizer = 'adam',
@@ -140,26 +132,23 @@ model %>%
 ```
 
 We use one-hot encoding (`to_categorical()` function) aka dummy coding in statistics.
-
 ```r
 train_label <- to_categorical(train_target)
 test_label <- to_categorical(test_target)
 ```
 
 Now let's fit our model to the training dataset. 
-
 ```r
 fit_covid <- model %>%
   fit(x = train,
       y = train_label, 
       epochs = 25,
-      batch_size = 512, # try also 256, 512
+      batch_size = 512, # try also 128 and 256
       verbose = 2,
       validation_split = 0.2)
 ```
 
 A quick visualization of the performances shows that the algorithm is doing not too bad. No over/under-fitting. Accuracy and loss are fine.
-
 ```r
 plot(fit_covid)
 ```
@@ -167,7 +156,6 @@ plot(fit_covid)
 ![](unnamed-chunk-11-1.png)<!-- -->
 
 What about the performances on the testing dataset?
-
 ```r
 model %>%
   evaluate(test, test_label)
@@ -179,7 +167,6 @@ model %>%
 ```
 
 Let's do some predictions on the testing dataset, and compare with ground truth. 
-
 ```r
 predictedclasses <- model %>%
   predict_classes(test)
@@ -195,7 +182,6 @@ table(Prediction = predictedclasses,
 ```
 
 Pretty cool. Only one healthy patient is misclassified as being sick. Let's save our model for further use. 
-
 ```r
 save_model_tf(model, "model/covidmodel") # save the model
 ```
