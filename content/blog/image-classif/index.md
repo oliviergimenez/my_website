@@ -9,7 +9,7 @@ summary = """
 
 +++
 
-Here I illustrate how to train a CNN with Keras in R to predict from patients' CT scans those will develop severe illness from Covid. 
+Here I illustrate how to train a CNN with Keras in R to predict from patients' CT scans those who will develop severe illness from Covid. 
 
 <!--more-->
 
