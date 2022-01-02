@@ -13,13 +13,14 @@ Here I illustrate how to train a CNN with Keras in R to predict from patients' C
 
 <!--more-->
 
+
 # Motivation
 
-Michael Blum [tweeted](https://twitter.com/mblum_g/status/1475940763716444161?s=20) about the [STOIC2021 - COVID-19 AI challenge](https://stoic2021.grand-challenge.org/stoic2021/). The main goal of this challenge is to predict from the patients' [CT scans](https://en.wikipedia.org/wiki/CT_scan) who will develop severe disease. 
+Michael Blum [tweeted](https://twitter.com/mblum_g/status/1475940763716444161?s=20) about the [STOIC2021 - COVID-19 AI challenge](https://stoic2021.grand-challenge.org/stoic2021/). The main goal of this challenge is to predict from the patients' [CT scans](https://en.wikipedia.org/wiki/CT_scan) who will develop severe illness from Covid. 
 
 Given my [recent interest in machine learning](https://oliviergimenez.github.io/blog/learning-machine-learning/), this challenge peaked my interest. Although `Python` is the machine learning *lingua franca*, it is possible to [train a convolutional neural network (CNN) in `R`](https://github.com/oliviergimenez/computo-deeplearning-occupany-lynx) and perform (binary) image classification.
 
-Here, I will use an [`R` interface to `Keras`](https://keras.rstudio.com/) that allows training neural networks. The other thing is that the [dataset shared for the challenge](https://stoic2021.grand-challenge.org/stoic-db/) is big, like 280Go big. It took me a day to download it. For the sake of illustration, I will use a similar but much lighter dataset from a [Kaggle](https://en.wikipedia.org/wiki/Kaggle) repository <https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset>. 
+Here, I will use an [`R` interface to `Keras`](https://keras.rstudio.com/) that allows training neural networks. Note that the [dataset shared for the challenge](https://stoic2021.grand-challenge.org/stoic-db/) is big, like 280Go big, and it took me a day to download it. For the sake of illustration, I will use a similar but much lighter dataset from a [Kaggle](https://en.wikipedia.org/wiki/Kaggle) repository <https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset>. 
 
 The code is available on GitHub as usual <https://github.com/oliviergimenez/bin-image-classif>. 
 
@@ -47,7 +48,7 @@ process_pix <- function(lsf) {
 }
 ```
 
-Process pix for patients with Covid, and reshape. Idem for pix for patients without Covid. 
+Now let's process images for patients with Covid, and do some reshaping. Idem with images for patients without Covid. 
 
 ```r
 # with covid
@@ -101,11 +102,11 @@ shuffle <- sample(nrow(df), replace = F)
 df <- df[shuffle, ]
 ```
 
-Sounds great. We have everything we need to start training our convolutional neural network model. 
+Sounds great. We have everything we need to start training a convolutional neural network model. 
 
 # Convolutional neural network (CNN)
 
-Build our training and testing datasets using a 80/20 split. 
+Let's build our training and testing datasets using a 80/20 split. 
 
 ```r
 set.seed(2022)
@@ -116,7 +117,7 @@ train_target <- df[split == 1, 10001] # label in training dataset
 test_target <- df[split == 2, 10001] # label in testing dataset
 ```
 
-Build our model. I use a single layer, but it's easy to pipe others on top of it. 
+Now build our model. I use three layers (`layer_dense()` function) that I put one after the other with piping. I also use regularization (`layer_dropout()` function) to avoid overfitting. 
 
 ```r
 model <- keras_model_sequential() %>%
@@ -129,7 +130,7 @@ model <- keras_model_sequential() %>%
   layer_dense(units = 2, activation = 'softmax')
 ```
 
-Compile it.
+Compile the model with defaults specific to binary classification. 
 
 ```r
 model %>%
@@ -138,14 +139,14 @@ model %>%
           metrics = c('accuracy'))
 ```
 
-We use one-hot encoding with function `to_categorical()`, aka dumming coding in statistics.
+We use one-hot encoding (`to_categorical()` function) aka dummy coding in statistics.
 
 ```r
 train_label <- to_categorical(train_target)
 test_label <- to_categorical(test_target)
 ```
 
-Now fit model. 
+Now let's fit our model to the training dataset. 
 
 ```r
 fit_covid <- model %>%
@@ -157,7 +158,7 @@ fit_covid <- model %>%
       validation_split = 0.2)
 ```
 
-Visualize performances. Not too bad. No over/under-fitting. Accuracy and loss are fine.
+A quick visualization of the performances shows that the algorithm is doing not too bad. No over/under-fitting. Accuracy and loss are fine.
 
 ```r
 plot(fit_covid)
@@ -165,7 +166,7 @@ plot(fit_covid)
 
 ![](unnamed-chunk-11-1.png)<!-- -->
 
-Performance on test dataset?
+What about the performances on the testing dataset?
 
 ```r
 model %>%
@@ -173,11 +174,11 @@ model %>%
 ```
 
 ```
-##      loss  accuracy 
-## 0.2800467 0.8612245
+##       loss   accuracy 
+## 0.02048795 0.99795920
 ```
 
-Let's do some predictions on the test data, and compare with ground truth. 
+Let's do some predictions on the testing dataset, and compare with ground truth. 
 
 ```r
 predictedclasses <- model %>%
@@ -189,14 +190,14 @@ table(Prediction = predictedclasses,
 ```
 ##           Actual
 ## Prediction   0   1
-##          0 176   0
-##          1  68 246
+##          0 243   0
+##          1   1 246
 ```
 
-Pretty cool. Only a few patients are misclassified. Let's save our model for further use. 
+Pretty cool. Only one healthy patient is misclassified as being sick. Let's save our model for further use. 
 
 ```r
 save_model_tf(model, "model/covidmodel") # save the model
 ```
 
-I'm happy with the results. In general however, we need to find ways to improve the performances. A few tips [here](https://machinelearningmastery.com/improve-deep-learning-performance/) with examples implemented in `Keras` with `R` [there](https://keras.rstudio.com/articles/examples/index.html).
+I'm happy with these results. In general however, we need to find ways to improve the performances. Check out some tips [here](https://machinelearningmastery.com/improve-deep-learning-performance/) with examples implemented in `Keras` with `R` [there](https://keras.rstudio.com/articles/examples/index.html).
