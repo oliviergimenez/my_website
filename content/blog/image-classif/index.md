@@ -21,6 +21,8 @@ Given my [recent interest in machine learning](https://oliviergimenez.github.io/
 
 Here, I will use an [`R` interface to `Keras`](https://keras.rstudio.com/) that allows training neural networks. The other thing is that the [dataset shared for the challenge](https://stoic2021.grand-challenge.org/stoic-db/) is big, like 280Go big. It took me a day to download it. For the sake of illustration, I will use a similar but much lighter dataset from a [Kaggle](https://en.wikipedia.org/wiki/Kaggle) repository <https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset>. 
 
+The code is available on GitHub as usual <https://github.com/oliviergimenez/bin-image-classif>. 
+
 First things first, load the packages we will need.
 
 ```r
