@@ -1,5 +1,5 @@
 +++
-date = "2022-01-03"
+date = "2022-01-02"
 draft = false
 tags = ["deep learning", "keras", "R", "rstats"]
 title = "Binary image classification using Keras in R: Using CT scans to predict patients with Covid"
