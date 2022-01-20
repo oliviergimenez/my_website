@@ -29,18 +29,23 @@ weight = 3
 
 <hr> 
 
-![](/img/maud.png)
-**Maud Quéroué** (PhD 2018-2021) is developing multispecies demographic models to study predator-prey interactions in seabirds and competition/coexistence in passerines. This is joint work with [Christophe Barbraud](http://www.cebc.cnrs.fr/ecomm/Fr_ecomm/equip_CB.html), [Pierre-Yves Henry](http://mecadev.cnrs.fr/index.php?post/Henry-Pierre-Yves) and [Frédéric Barraquand](https://sites.google.com/site/fredbarraquand/home).
+![](/img/matt.jpg)
+**Matthew Silk** (post-doc 2022-2023) is a behavioural and disease ecologist researching the links between population dynamics and social structure by developing new social network and demographic models. Matt is a MCSA research fellow. 
 
 <hr> 
 
-![](/img/oksana.png)
-**Oksana Grente** (PhD 2018-2021) is evaluating the impact of lethal control on the French wolf population, with a special interest in social structure and livestock depredation. She will also develop an  adaptive management framework based on occupancy models. This is joint work with Christophe Duchamp and Nolwenn Hoguet-Drouet from [French Office of Biodiversity](https://ofb.gouv.fr/).
+![](/img/marined.jpg)
+**Marine Desprez** (post-doc 2022) is working on machine learning methods for classification problems in ecology. This is joint work with Vincent Miele. 
 
 <hr> 
 
-![](/img/valentin.png)
-**Valentin Lauret** (PhD 2018-2021) is developing a structured decision making approach for adaptive monitoring of cetaceans in the network of marine protected areas in the French Mediterranean Sea. This is joint work with Hélène Labach from [GIS3M](https://www.gis3m.org/).
+![](/img/javi.png)
+**Javi Fernández-López** (post-doc 2022-2023) is interested in conservation biology and phylogeography. He is modelling the distribution of mammals in Europe by integrating various sources of data. Check out his website <https://allthiswasfield.blogspot.com>.
+
+<hr> 
+
+![](/img/juju2.png)
+**Julie Louvrier** (post-doc 2022) is an ecologist with strong quantitative skills. She is studying the interactions between large carnivores using occupancy models.
 
 <hr> 
 
@@ -54,9 +59,9 @@ weight = 3
 
 <hr> 
 
-![](/img/patricia.jpg) **Patrícia Rodrigues** (post-doc 2021) seeks to better understand the complexity associated with human-wildlife interactions in the subsistence landscapes of Ethiopia's highlands. More [here]( https://rodriguespatri.wixsite.com/home). 
+![](/img/patricia.jpg) **Patrícia Rodrigues** (post-doc 2021-2023) is interested in the social-ecological dynamics underpinning environmental problems in Africa. Her current project aims to characterize landscapes within Africa’s Great Green Wall in terms of their social-ecological properties and restoration initiatives. More [here]( https://rodriguespatri.wixsite.com/home). 
 
 <hr> 
 
 ![](/img/alix.jpg)
-**Alix Cosquer** (post-doc 2019-2021) is an environmental psychologist. She is studying how to favor connections between nature and children using educative marine areas.
+**Alix Cosquer** (post-doc 2019-2022) is an environmental psychologist. She is studying how to favor connections between nature and children using educative marine areas. Her ongoing research project is on children's relationships with nature in schools.

@@ -1,6 +1,6 @@
 +++
 
-date = "2021-08-03T00:00:00"
+date = "2022-01-20T00:00:00"
 draft = false
 
 title = "Former lab members"
@@ -14,6 +14,21 @@ weight = 4
 
 <hr> 
 
+![](/img/maud.png)
+**Maud Quéroué** (PhD 2018-2021) developed multispecies demographic models to study predator-prey interactions in seabirds and competition/coexistence in passerines. This was joint work with [Christophe Barbraud](http://www.cebc.cnrs.fr/ecomm/Fr_ecomm/equip_CB.html), [Pierre-Yves Henry](http://mecadev.cnrs.fr/index.php?post/Henry-Pierre-Yves) and [Frédéric Barraquand](https://sites.google.com/site/fredbarraquand/home). Maud is now a post-doc with Aurélien Besnard.
+
+<hr> 
+
+![](/img/oksana.png)
+**Oksana Grente** (PhD 2018-2021) evaluated the impact of lethal control on the French wolf population, with a special interest in social structure and livestock depredation. This was joint work with Sarah Bauduin, Christophe Duchamp and Nolwenn Hoguet-Drouet from [French Office of Biodiversity](https://ofb.gouv.fr/). Oksana is now a post-doc with Aurélien Besnard.
+
+<hr> 
+
+![](/img/valentin.png)
+**Valentin Lauret** (PhD 2018-2021) developed integrated models for monitoring of bottlenose dolphins in the network of marine protected areas in the French Mediterranean Sea. This was joint work with Hélène Labach from the [MIRACETI](https://www.facebook.com/miraceticetaces/) NGO. Valentin is now a post-doc with Aurélien Besnard.
+
+<hr>
+
 ![](/img/helene.jpg)
 **Hélène Labach** (PhD 2017-2021) from [GIS3M](https://www.gis3m.org/) was working on the conservation of bottlenose dolphins in the North-Western Mediterranean Sea. Her work relied on the data collected through the [GDEGeM project](https://www.gdegem.org/). She continues her work as the head of the [MIRACETI](https://www.facebook.com/miraceticetaces/) NGO.  
 
@@ -21,8 +36,7 @@ weight = 4
 
 ![](/img/nina.jpg)
 **Nina Santostasi** (PhD 2016-2019) developed capture-recapture and demographic models 
-for studying hybridization in the wild. As case studies, she considered dolphins in the Gulf of 
-Corinth in Greece (with Giovanni Bearzi and Silvia Bonizzoni from [Dolphin Biology and 
+for studying hybridization in the wild. As case studies, she considered dolphins in the Gulf of Corinth in Greece (with Giovanni Bearzi and Silvia Bonizzoni from [Dolphin Biology and 
 Conservation](http://www.dolphinbiology.org/)) and wolves in Italy (with [Paolo 
 Ciucci](https://www.researchgate.net/profile/Paolo_Ciucci) from University of Rome - 
 La Sapienza). Nina is now a post-doc with Paolo Ciucci working on estimating population abundance of brown bears.
@@ -33,15 +47,14 @@ La Sapienza). Nina is now a post-doc with Paolo Ciucci working on estimating pop
 
 ![](/img/SarahBauduin.jpg)
 **Sarah Bauduin** (post-doc 2018-2019) built spatially-explicit agent-based models
-to assess the viability of Eurasian lynx in France, and more broadly to study multispecies demography. 
-Sarah is now a [permanent researcher with the French Office of Biodiversity](https://www.sarahbauduin.fr/).
+to assess the viability of Eurasian lynx in France, and more broadly to study multispecies demography. Sarah is now a [permanent researcher with the French Office of Biodiversity](https://www.sarahbauduin.fr/).
 
 <br>
 
 <hr> 
 
 ![](/img/gilles.jpg)
-**Gilles Maurer** (PhD 2015-2018, post-doc 2018-2020) studied the interactions between wild and semi-captive pools of Asian elephants with an interdisciplinary framework (demography, economy, anthropology, population genetics). This was joint work with Baptiste Mulot at [Beauval Nature](http://www.beauvalnature.com/en/), Finn Kjellberg and Nicolas Lescureux from CEFE. Gilles is now permanent researcher at Beauval Nature, hosted at CEFE. 
+**Gilles Maurer** (PhD 2015-2018, post-doc 2018-2020) studied the interactions between wild and semi-captive pools of Asian elephants with an interdisciplinary framework (demography, economy, anthropology, population genetics). This was joint work with Baptiste Mulot at [Beauval Nature](http://www.beauvalnature.com/en/), Finn Kjellberg and Nicolas Lescureux from CEFE. Gilles is now a permanent researcher at Beauval Nature, hosted at CEFE. 
 
 <br>
 
@@ -49,8 +62,7 @@ Sarah is now a [permanent researcher with the French Office of Biodiversity](htt
 
 ![](/img/lorena.jpg)
 **Lorena Mansilla** (PhD 2016-2019) developed capture-recapture and demographic models 
-for social species with wolves, dolphins and elephant seals as case studies. She used spatially-explicit 
-capture-recapture models, social networks, cluster analyses and integrated population models (her thesis was co-supervised with Roger Pradel).
+for social species with wolves, dolphins and elephant seals as case studies. She used spatially-explicit capture-recapture models, social networks, cluster analyses and integrated population models (her thesis was co-supervised with Roger Pradel).
 
 <br>
 

@@ -16,7 +16,7 @@ ______
 
 **Preprints**
 
-1. **Gimenez O.**, M. Kervellec, J.-B. Fanjul, A. Chaine, L. Marescot, Y. Bollet, C. Duchamp (2021) [Trade-off between deep learning for species identification and inference about predator-prey co-occurrence: Reproducible R workflow integrating models in computer vision and ecological statistics](https://arxiv.org/abs/2108.11509) arXiv preprint. 
+1. **Gimenez O.**, M. Kervellec, J.-B. Fanjul, A. Chaine, L. Marescot, Y. Bollet, C. Duchamp (2021) [Trade-off between deep learning for species identification and inference about predator-prey co-occurrence: Reproducible R workflow integrating models in computer vision and ecological statistics](https://arxiv.org/abs/2108.11509) arXiv preprint. Data and code [here](https://github.com/oliviergimenez/computo-deeplearning-occupany-lynx).
 
 2. Grente O., T. Saubusse, **Gimenez O.**, E. Marboutin, C. Duchamp (2020). [Wolf depredation hotspots in France: Clustering analyses accounting for livestock availability.](https://ecoevorxiv.org/n8rzg/) EcoEvoRxiv preprint. 
 
@@ -24,7 +24,9 @@ ______
 
 4. Lauret V., H. Labach, D. Turek, S. Laran, **O. Gimenez** (2021). [Spatial integrated models foster complementarity between monitoring programs in producing large-scale ecological indicators.](https://www.biorxiv.org/content/10.1101/2021.02.01.429097v1) bioRxiv preprint. 
 
-5. Gimenez O., M. Kervellec, J.-B. Fanjul, A. Chaine, L. Marescot, Y. Bollet, C. Duchamp (2021). [Trade-off between deep learning for species identification and inference about predator-prey co-occurrence: Reproducible R workflow integrating models in computer vision and ecological statistics.](https://arxiv.org/abs/2108.11509) arXiv preprint, data and code [here](https://github.com/oliviergimenez/computo-deeplearning-occupany-lynx).
+5. Bauduin S., Germain E., Zimmermann F., Idelberger S., Herdtfelder M., Heurich M., Kramer-Schadt S., Duchamp C., Drouet-Hoguet N., Morand A., Blanc L., Charbonnel A., **Gimenez O.** (2022). [Eurasian lynx populations in Western Europe: What prospects for the next 50 years?](https://www.biorxiv.org/content/10.1101/2021.10.22.465393v2) bioRxiv preprint.
+
+6. Vanpé C., B. Piédallu, P.-Y. Quenette, J. Sentilles, G. Queney, S. Palazón, I. A. Jordana, R. Jato, M. M. Elósegui Irurtia, J. Solà de la Torre, **O. Gimenez** (2022). [Estimating abundance of a recovering transboundary brown bear population with capture-recapture models](https://www.biorxiv.org/content/10.1101/2021.12.08.471719v1) bioRxiv preprint.
 
 ______
 
