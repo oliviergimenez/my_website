@@ -1,6 +1,6 @@
 +++
 
-date = "2021-08-03T00:00:00"
+date = "2022-05-12T00:00:00"
 draft = false
 
 title = "Workshops"
@@ -11,6 +11,10 @@ widget = "custom"
 weight = 8
 
 +++
+
+March 21-22, 2022. Quantitative methods for population dynamics: A two-day workshop with R. All material available from [dedicated website](https://oliviergimenez.github.io/popdyn-workshop/). 
+
+March 19, 2022. Workshop on NIMBLE. All material available from [dedicated website](https://oliviergimenez.github.io/nimble-workshop/#1). 
 
 June 21-22, 2021. Workshop on individual-based models with R. All material available from [dedicated website](https://sarahbauduin.github.io/formation_IBM_NetLogoR/). 
 
