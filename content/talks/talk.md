@@ -1,6 +1,6 @@
 +++
 
-date = "2021-08-03T00:00:00"
+date = "2022-07-14T00:00:00"
 draft = false
 
 title = "Talks"
@@ -11,6 +11,9 @@ widget = "custom"
 weight = 7
 
 +++
+
+*  Statistical ecology, hidden Markov models and the management of large carnivores in Europe. June 28, 2022. Plenary talk for the [ISEC2022 conference](https://www.isec2022.org/). You can download the [slides](https://t.co/BOtZHWU56L) and [video recording](https://t.co/6Qn7i05uae) in English.
+
 
 * Deep learning, false negatives/positives and predator-prey interactions: Peregrinations in R. March 31, 2021. [Slides](https://oliviergimenez.github.io/useR2021/#1) (F = full screen and P = transcript) and [video recording](hhttps://www.youtube.com/watch?v=DOeSu8Qk5Po) in English. All material [here](https://github.com/oliviergimenez/useR2021). Rencontres R.
 

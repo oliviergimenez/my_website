@@ -1,6 +1,6 @@
 +++
 
-date = "2022-05-12T00:00:00"
+date = "2022-07-17T00:00:00"
 draft = false
 
 title = "Workshops"
@@ -11,6 +11,8 @@ widget = "custom"
 weight = 8
 
 +++
+
+June 26, 2022. Workshop on Bayesian capture-recapture inference with hidden Markov models, R and Nimble for the [ISEC2022 conference](https://www.isec2022.org/workshop-4/). All material available from [dedicated website](https://oliviergimenez.github.io/hmm-cr-nimble-isec2022-workshop/).
 
 March 21-22, 2022. Quantitative methods for population dynamics: A two-day workshop with R. All material available from [dedicated website](https://oliviergimenez.github.io/popdyn-workshop/). 
 

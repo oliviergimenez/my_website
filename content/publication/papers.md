@@ -1,6 +1,6 @@
 +++
 
-date = "2022-05-12T00:00:00"
+date = "2022-07-14T00:00:00"
 draft = false
 
 title = "Papers"
@@ -16,33 +16,38 @@ ______
 
 **Preprints**
 
-1. Ghislain M., T. Bonnet, U. Godeau, O. Dehorter, O. Gimenez, P.-Y. Henry (2022). [Synchrony in adult survival is remarkably strong among common temperate songbirds across France](https://ecoevorxiv.org/cyeb7/). EcoEvoRxiv preprint. 
+1. Kervellec M., C. Milleret, C. Vanpé, P.-Y. Quenette, J. Sentilles, S. Palazón, I. A. Jordana, R. Jato, M. M. Elósegui Irurtia, **O. Gimenez** (2022). [Transnational non-invasive monitoring and spatial capture-recapture models reveal strong effects of humans on connectivity for the Pyrenean brown bear](https://www.biorxiv.org/content/10.1101/2022.05.13.491807v1.full.pdf). bioRxiv preprint.
 
-2. Lauret V., O. Gimenez, H. Labach, N. Lescureux (2022). [Behind the scene of ecological expertise: the place of monitoring for biodiversity workers in the French Mediterranean Marine Protected Areas](https://osf.io/preprints/socarxiv/4875b/). SocArXiv preprint. 
+2. Ghislain M., T. Bonnet, U. Godeau, O. Dehorter, O. Gimenez, P.-Y. Henry (2022). [Synchrony in adult survival is remarkably strong among common temperate songbirds across France](https://ecoevorxiv.org/cyeb7/). EcoEvoRxiv preprint. 
 
-3. Kleiven E.F., F. Barraquand, **Gimenez O.**, J.-A. Henden, R. Anker Ims, E. M. Soininen, N. G. Yoccoz (2020). [A dynamic and hierarchical spatial occupancy model for interacting species.](https://www.biorxiv.org/content/10.1101/2020.12.16.423067v1.abstract) bioRxiv preprint. 
+3. Lauret V., O. Gimenez, H. Labach, N. Lescureux (2022). [Behind the scene of ecological expertise: the place of monitoring for biodiversity workers in the French Mediterranean Marine Protected Areas](https://osf.io/preprints/socarxiv/4875b/). SocArXiv preprint. 
 
-4. Lauret V., H. Labach, D. Turek, S. Laran, **O. Gimenez** (2021). [Spatial integrated models foster complementarity between monitoring programs in producing large-scale ecological indicators.](https://www.biorxiv.org/content/10.1101/2021.02.01.429097v1) bioRxiv preprint. 
+4. Kleiven E.F., F. Barraquand, **Gimenez O.**, J.-A. Henden, R. Anker Ims, E. M. Soininen, N. G. Yoccoz (2020). [A dynamic and hierarchical spatial occupancy model for interacting species.](https://www.biorxiv.org/content/10.1101/2020.12.16.423067v1.abstract) bioRxiv preprint. 
 
-5. Bauduin S., Germain E., Zimmermann F., Idelberger S., Herdtfelder M., Heurich M., Kramer-Schadt S., Duchamp C., Drouet-Hoguet N., Morand A., Blanc L., Charbonnel A., **Gimenez O.** (2022). [Eurasian lynx populations in Western Europe: What prospects for the next 50 years?](https://www.biorxiv.org/content/10.1101/2021.10.22.465393v2) bioRxiv preprint.
+5. Lauret V., H. Labach, D. Turek, S. Laran, **O. Gimenez** (2022). [Spatial integrated models foster complementarity between monitoring programs in producing large-scale ecological indicators.](https://www.biorxiv.org/content/10.1101/2021.02.01.429097v3) bioRxiv preprint. 
 
-6. Vanpé C., B. Piédallu, P.-Y. Quenette, J. Sentilles, G. Queney, S. Palazón, I. A. Jordana, R. Jato, M. M. Elósegui Irurtia, J. Solà de la Torre, **O. Gimenez** (2022). [Estimating abundance of a recovering transboundary brown bear population with capture-recapture models](https://www.biorxiv.org/content/10.1101/2021.12.08.471719v1) bioRxiv preprint.
+6. Bauduin S., Germain E., Zimmermann F., Idelberger S., Herdtfelder M., Heurich M., Kramer-Schadt S., Duchamp C., Drouet-Hoguet N., Morand A., Blanc L., Charbonnel A., **Gimenez O.** (2022). [Eurasian lynx populations in Western Europe: What prospects for the next 50 years?](https://www.biorxiv.org/content/10.1101/2021.10.22.465393v2) bioRxiv preprint.
+
+7. Vanpé C., B. Piédallu, P.-Y. Quenette, J. Sentilles, G. Queney, S. Palazón, I. A. Jordana, R. Jato, M. M. Elósegui Irurtia, J. Solà de la Torre, **O. Gimenez** (2022). [Estimating abundance of a recovering transboundary brown bear population with capture-recapture models](https://www.biorxiv.org/content/10.1101/2021.12.08.471719v1) bioRxiv preprint.
 
 ______
 
 **In French**
 
-1. Miele V., S. Dray, **O. Gimenez** (2021) [Images, écologie et deep learning.](https://hal.archives-ouvertes.fr/hal-03142486/document). [Regard 95](https://www.sfecologie.org/regard/r95-fev-2021-miele-dray-gimenez-deep-learning/) de la Société Française d'Ecologie et d'Evolution.
+1. Grente O., C. Duchamp, S. Bauduin, S. Chamaille-Jammes, N. Drouet-Hoguet, **O. Gimenez** (2022). [Tirs dérogatoires de loups en France: évaluation des effets sur les attaques aux troupeaux](https://hal.archives-ouvertes.fr/hal-03694437/document).
 
-2. Grente O., C. Duchamp, S. Bauduin, T. Opitz, S. Chamaillé-Jammes, N. Drouet-Hoguet, **O. Gimenez** (2020) [Tirs dérogatoires de loups en France: état des connaissances et des enjeux pour la gestion des attaques aux troupeaux.](https://hal.archives-ouvertes.fr/hal-02992939/file/Grente2020FauneSauvage.pdf). Paru dans [Faune Sauvage numéro 327](https://professionnels.ofb.fr/sites/default/files/pdf/RevueFS/FauneSauvage327_2020_sommaire.pdf).
+2. Miele V., S. Dray, **O. Gimenez** (2021) [Images, écologie et deep learning.](https://hal.archives-ouvertes.fr/hal-03142486/document). [Regard 95](https://www.sfecologie.org/regard/r95-fev-2021-miele-dray-gimenez-deep-learning/) de la Société Française d'Ecologie et d'Evolution.
+
+3. Grente O., C. Duchamp, S. Bauduin, T. Opitz, S. Chamaillé-Jammes, N. Drouet-Hoguet, **O. Gimenez** (2020) [Tirs dérogatoires de loups en France: état des connaissances et des enjeux pour la gestion des attaques aux troupeaux.](https://hal.archives-ouvertes.fr/hal-02992939/file/Grente2020FauneSauvage.pdf). Paru dans [Faune Sauvage numéro 327](https://professionnels.ofb.fr/sites/default/files/pdf/RevueFS/FauneSauvage327_2020_sommaire.pdf).
 
 ______
 
 **Published**
 
-1. **Gimenez O.**, M. Kervellec, J.-B. Fanjul, A. Chaine, L. Marescot, Y. Bollet, C. Duchamp (2021) [Trade-off between deep learning for species identification and inference about predator-prey co-occurrence: Reproducible R workflow integrating models in computer vision and ecological statistics](https://computo.sfds.asso.fr/published-202204-deeplearning-occupancy-lynx/) *Computo*. https://doi.org/10.57750/yfm2-5f45. Data and code [here](https://github.com/oliviergimenez/computo-deeplearning-occupany-lynx).
+1. Adamantopoulou S., A. A. Karamanlidis, P. Dendrinos, **O. Gimenez** (2022). [Citizen science indicates significant range recovery and defines new conservation priorities for Earth's most endangered pinniped in Greece](https://hal.archives-ouvertes.fr/hal-03718409v1). *Animal Conservation*.  
+2. **Gimenez O.**, M. Kervellec, J.-B. Fanjul, A. Chaine, L. Marescot, Y. Bollet, C. Duchamp (2021) [Trade-off between deep learning for species identification and inference about predator-prey co-occurrence: Reproducible R workflow integrating models in computer vision and ecological statistics](https://computo.sfds.asso.fr/published-202204-deeplearning-occupancy-lynx/) *Computo*. https://doi.org/10.57750/yfm2-5f45. Data and code [here](https://github.com/oliviergimenez/computo-deeplearning-occupany-lynx).
 
-2. Grente O., T. Saubusse, **Gimenez O.**, E. Marboutin, C. Duchamp (2020). [Wolf depredation hotspots in France: Clustering analyses accounting for livestock availability.]((https://ecoevorxiv.org/n8rzg/)) *Biological Conservation* 267: 109495.
+223. Grente O., T. Saubusse, **Gimenez O.**, E. Marboutin, C. Duchamp (2022). [Wolf depredation hotspots in France: Clustering analyses accounting for livestock availability.]((https://ecoevorxiv.org/n8rzg/)) *Biological Conservation* 267: 109495.
 
 222. Gervasi V., J. Linnell, T. Berce, L. Boitani, B. Cretois, P. Ciucci, C. Duchamp, A. Gastineau, O. Grente, D. Hilfiker, D. Huber, Y. Iliopoulos, A. Karamanlidis, F. Marucco, Y. Mertzanis, P. Mannil, H. Norberg, N. Pagon, L. Pedrotti, P.-Y. Quenette, S. Reljic, V. Salvatori, T. Talvi, M. von Arx, **Gimenez O.** (2021). [Ecological correlates of large carnivore depredation on sheep in Europe](/pubs/Gervasietal2021GEC.pdf). *Global Ecology and Conservation* 30: e01798.  
 
@@ -64,7 +69,7 @@ ______
 
 213. Gamelon M, Baubet E., Besnard A., Gaillard J.-M., Lebreton J.-D., Touzot L., Veylit L., **Gimenez O.** (2021). [Efficient use of harvest data: An integrated population model for exploited animal populations.](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05738) *Ecography*. 
 
-212. Labach H., Azzinari C., Barbier M., Cesarini C., Daniel B., David L., Dhermain F., Di-Méglio N., Guichard B., Jourdan J., Robert N., Roul M., Tomasi N., **Gimenez O.** (2021). [Distribution and abundance of bottlenose dolphin (Tursiops truncatus) over the French Mediterranean continental shelf.](/pubs/Labachetal2021MMS.pdf) *Marine Mammal Science* 38: 212-222.
+212. Labach H., Azzinari C., Barbier M., Cesarini C., Daniel B., David L., Dhermain F., Di-Méglio N., Guichard B., Jourdan J., Robert N., Roul M., Tomasi N., **Gimenez O.** (2022). [Distribution and abundance of bottlenose dolphin (Tursiops truncatus) over the French Mediterranean continental shelf.](/pubs/Labachetal2021MMS.pdf) *Marine Mammal Science* 38: 212-222.
 
 211. Barraquand F., **Gimenez O.** (2021). [Fitting stochastic predator-prey models using both population density and kill rate data](https://arxiv.org/abs/1904.02145) *Theoretical Population Biology* 138: 1-27.
 
