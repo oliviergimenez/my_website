@@ -56,13 +56,13 @@
 [[main]]
   name = "Talks"
   parent = "Talks & workshops"
-  url = "talks/talk"
+  url = "talks/talk/"
   weight = 51
 
 [[main]]
   name = "Workshops"
   parent = "Talks & workshops"
-  url = "talks/workshop"
+  url = "talks/workshop/"
   weight = 52
 
 [[main]]
