@@ -1,6 +1,6 @@
 +++
 
-date = "2022-01-20T00:00:00"
+date = "2022-10-24T00:00:00"
 draft = false
 
 title = "Current lab members"
@@ -11,6 +11,16 @@ weight = 3
 +++
 
 <br>
+
+<hr> 
+
+![](/img/adelaide.jpeg)
+**Adélaïde Monchy** (PhD 2022-2025) is working on the propagation of uncertainties related to the automatic processing of sensor data in different models in ecology. She is co-supervised with [Marie-Pierre Etienne](https://marieetienne.github.io/).
+
+<hr> 
+
+![](/img/lea.jpg)
+**Léa Pautrel** (PhD 2022-2025) is investigating the use of deep learning coupled with continuous-time models to exploit sensor data, in particular cam traps. She is co-supervised with [Marie-Pierre Etienne](https://marieetienne.github.io/) and Sylvain Moulherat from [TerrOïko](https://www.terroiko.fr/fr).
 
 <hr> 
 
@@ -34,10 +44,6 @@ weight = 3
 
 <hr> 
 
-![](/img/marined.jpg)
-**Marine Desprez** (post-doc 2022) is working on machine learning methods for classification problems in ecology. This is joint work with Vincent Miele. 
-
-<hr> 
 
 ![](/img/javi.png)
 **Javi Fernández-López** (post-doc 2022-2023) is interested in conservation biology and phylogeography. He is modelling the distribution of mammals in Europe by integrating various sources of data. Check out his website <https://allthiswasfield.blogspot.com>.

@@ -1,6 +1,6 @@
 +++
 
-date = "2022-01-20T00:00:00"
+date = "2022-10-24T00:00:00"
 draft = false
 
 title = "Former lab members"
@@ -11,6 +11,11 @@ weight = 4
 +++
 
 <br>
+
+<hr> 
+
+![](/img/marined.jpg)
+**Marine Desprez** (post-doc 2022) worked on machine learning methods for classification problems in ecology. This was joint work with Vincent Miele. 
 
 <hr> 
 

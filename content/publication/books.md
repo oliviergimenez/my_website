@@ -1,6 +1,6 @@
 +++
 
-date = "2022-05-12T00:00:00"
+date = "2022-10-24T00:00:00"
 draft = false
 
 title = "Books and book chapters"
@@ -12,7 +12,7 @@ weight = 8
 
 +++
 
-{{< figure src="/img/nath.png" title="Peyrard N. and Gimenez O. (2022). [Statistical Approaches for Hidden Variables in Ecology.](https://www.iste.co.uk/book.php?id=1859)" >}}
+{{< figure src="/img/nath.png" title="Peyrard N. and Gimenez O. (2022). [Statistical Approaches for Hidden Variables in Ecology.](https://www.iste.co.uk/book.php?id=1859) La version française est [ici.](https://www.istegroup.com/fr/produit/approches-statistiques-pour-les-variables-cachees-en-ecologie/)" >}}
 
 {{< figure src="/img/ken.jpg" title="Newman, K.B., S.T. Buckland, B.J.T. Morgan, R. King, D.L. Borchers, D.J. Cole, P. Besbeas, O. Gimenez and L. Thomas (2014). [Modelling Population Dynamics - Model Formulation, Fitting and Assessment using State-Space Methods.](http://www.springer.com/statistics/life+sciences,+medicine+%26+health/book/978-1-4939-0976-6)" >}}
 
