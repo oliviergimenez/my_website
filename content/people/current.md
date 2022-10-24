@@ -14,13 +14,15 @@ weight = 3
 
 <hr> 
 
-![](/img/adelaide.jpeg)
-**Adélaïde Monchy** (PhD 2022-2025) is working on the propagation of uncertainties related to the automatic processing of sensor data in different models in ecology. She is co-supervised with [Marie-Pierre Etienne](https://marieetienne.github.io/).
+<img src="/img/adelaide.jpeg" width="150"> **Adélaïde Monchy** (PhD 2022-2025) is working on the propagation of uncertainties related to the automatic processing of sensor data in different models in ecology. She is co-supervised with [Marie-Pierre Etienne](https://marieetienne.github.io/).
 
 <hr> 
 
-![](/img/lea.jpg)
-**Léa Pautrel** (PhD 2022-2025) is investigating the use of deep learning coupled with continuous-time models to exploit sensor data, in particular cam traps. She is co-supervised with [Marie-Pierre Etienne](https://marieetienne.github.io/) and Sylvain Moulherat from [TerrOïko](https://www.terroiko.fr/fr).
+<img src="/img/lea.jpg" width="130"> **Léa Pautrel** (PhD 2022-2025) is investigating the use of deep learning coupled with continuous-time models to exploit sensor data, in particular cam traps. She is co-supervised with [Marie-Pierre Etienne](https://marieetienne.github.io/) and Sylvain Moulherat from [TerrOïko](https://www.terroiko.fr/fr).
+
+<hr> 
+
+<img src="/img/louis.jpg" width="150"> **Louis Barbu** (intern 2022) is learning R and GIS. He is a second year student of [BTSA GPN](https://www.onisep.fr/Ressources/Univers-Formation/Formations/Post-bac/btsa-gestion-et-protection-de-la-nature). Louis is currently conducting a study on the functionality of ecological corridors through the European otter in the Hérault department.
 
 <hr> 
 
