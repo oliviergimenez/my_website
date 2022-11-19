@@ -14,6 +14,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/oaggimenez
+- icon: mastodon
+  icon_pack: fab
+  link: https://bayes.club/@oaggimenez
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCFtTq-4WwH0LIczQ__KFC1A/videos
@@ -37,4 +40,4 @@ change and human activities on population dynamics and species distribution and 
 of large mammals. I'm also interested in human-wildlife interactions and how interdisciplinary 
 approaches may contribute to the coexistence of humans and animals.
 
-If you'd like to work with us, feel free to [contact me](mailto:olivier.gimenez@cefe.cnrs.fr), and check out [this paper](/pubs/boulet-publi2012AnCons.pdf) which gives the spirit of how we enjoy doing science. For news and chat, you may find me on [Twitter](https://twitter.com/oaggimenez) and [GitHub](https://github.com/oliviergimenez) :smile:. When time allows, I write [R posts](https://oliviergimenez.github.io/blog/) which are also published on [rweekly](https://rweekly.org) and [r-bloggers](https://www.r-bloggers.com/). 
+If you'd like to work with us, feel free to [contact me](mailto:olivier.gimenez@cefe.cnrs.fr), and check out [this paper](/pubs/boulet-publi2012AnCons.pdf) which gives the spirit of how we enjoy doing science. For news and chat, you may find me on [Twitter](https://twitter.com/oaggimenez), <a rel="me" href="https://bayes.club/@oaggimenez">Mastodon</a> and [GitHub](https://github.com/oliviergimenez) :smile:. When time allows, I write [R posts](https://oliviergimenez.github.io/blog/) which are also published on [rweekly](https://rweekly.org) and [r-bloggers](https://www.r-bloggers.com/). 
