@@ -1,6 +1,6 @@
 +++
 
-date = "2022-10-24T00:00:00"
+date = "2022-12-18T00:00:00"
 draft = false
 
 title = "Papers"
@@ -16,9 +16,7 @@ ______
 
 **Preprints**
 
-Generation and applications of simulated datasets to integrate social network and demographic analyses. Matthew Silk, Olivier Gimenez https://ecoevorxiv.org/h5d89/
-
-1. Kervellec M., C. Milleret, C. Vanpé, P.-Y. Quenette, J. Sentilles, S. Palazón, I. A. Jordana, R. Jato, M. M. Elósegui Irurtia, **O. Gimenez** (2022). [Transnational non-invasive monitoring and spatial capture-recapture models reveal strong effects of humans on connectivity for the Pyrenean brown bear](https://www.biorxiv.org/content/10.1101/2022.05.13.491807v1.full.pdf). bioRxiv preprint.
+1. Generation and applications of simulated datasets to integrate social network and demographic analyses. Matthew Silk, Olivier Gimenez https://ecoevorxiv.org/h5d89/
 
 2. Ghislain M., T. Bonnet, U. Godeau, O. Dehorter, O. Gimenez, P.-Y. Henry (2022). [Synchrony in adult survival is remarkably strong among common temperate songbirds across France](https://ecoevorxiv.org/cyeb7/). EcoEvoRxiv preprint. 
 
@@ -42,13 +40,16 @@ ______
 
 **Published**
 
-1. Lauret V., H. Labach, D. Turek, S. Laran, **O. Gimenez** (2022). [Integrated spatial models foster complementarity between monitoring programmes in producing large‐scale bottlenose dolphin indicators.](/pubs/Lauret2022AnCons.pdf) *Animal Conservation*. 
+1. Kervellec M., C. Milleret, C. Vanpé, P.-Y. Quenette, J. Sentilles, S. Palazón, I. A. Jordana, R. Jato, M. M. Elósegui Irurtia, **O. Gimenez** (2023). [Integrating opportunistic and structured non-invasive surveys with spatial capture-recapture models to map connectivity of the Pyrenean brown bear population](https://www.biorxiv.org/content/10.1101/2022.05.13.491807v3). Biological Conservation. In press.
 
-2. Naciri, M, J Aars, MA Blanchet, **O Gimenez**, S Cubaynes (2022). [Reproductive senescence in polar bears in a variable environment](https://hal.archives-ouvertes.fr/hal-03819080/document) *Frontiers in Ecology and Evolution*, 936
+2. Frost F., R. McCrea, R. King, **O. Gimenez**, E. Zipkin (2023). [Integrated Population Models: Achieving Their Potential](https://link.springer.com/article/10.1007/s42519-022-00302-7). Journal of Statistical Theory and Practice 17:6. 
+3. Lauret V., H. Labach, D. Turek, S. Laran, **O. Gimenez** (2022). [Integrated spatial models foster complementarity between monitoring programmes in producing large‐scale bottlenose dolphin indicators.](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1111/acv.12815) *Animal Conservation*. 
 
-3. Vanpé C., B. Piédallu, P.-Y. Quenette, J. Sentilles, G. Queney, S. Palazón, I. A. Jordana, R. Jato, M. M. Elósegui Irurtia, J. Solà de la Torre, **O. Gimenez** (2022). [Estimating abundance of a recovering transboundary brown bear population with capture-recapture models](https://www.biorxiv.org/content/10.1101/2021.12.08.471719v3) *PCI Ecology* peer-reviewed preprint.
+4. Vanpé C., B. Piédallu, P.-Y. Quenette, J. Sentilles, G. Queney, S. Palazón, I. A. Jordana, R. Jato, M. M. Elósegui Irurtia, J. Solà de la Torre, **O. Gimenez** (2022). [Estimating abundance of a recovering transboundary brown bear population with capture-recapture models](https://peercommunityjournal.org/articles/10.24072/pcjournal.199/) *Peer Community Journal* 2:e71.
 
-225. Adamantopoulou S., A. A. Karamanlidis, P. Dendrinos, **O. Gimenez** (2022). [Citizen science indicates significant range recovery and defines new conservation priorities for Earth's most endangered pinniped in Greece](https://hal.archives-ouvertes.fr/hal-03718409v1). *Animal Conservation*.
+226. Adamantopoulou S., A. A. Karamanlidis, P. Dendrinos, **O. Gimenez** (2022). [Citizen science indicates significant range recovery and defines new conservation priorities for Earth's most endangered pinniped in Greece](https://hal.archives-ouvertes.fr/hal-03718409v1). *Animal Conservation*.
+
+225. Naciri, M, J Aars, MA Blanchet, **O Gimenez**, S Cubaynes (2022). [Reproductive senescence in polar bears in a variable environment](https://hal.archives-ouvertes.fr/hal-03819080/document) *Frontiers in Ecology and Evolution*, 936
 
 224. **Gimenez O.**, M. Kervellec, J.-B. Fanjul, A. Chaine, L. Marescot, Y. Bollet, C. Duchamp (2021) [Trade-off between deep learning for species identification and inference about predator-prey co-occurrence: Reproducible R workflow integrating models in computer vision and ecological statistics](https://computo.sfds.asso.fr/published-202204-deeplearning-occupancy-lynx/) *Computo*. https://doi.org/10.57750/yfm2-5f45. Data and code [here](https://github.com/oliviergimenez/computo-deeplearning-occupany-lynx).
 
