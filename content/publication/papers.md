@@ -16,169 +16,170 @@ ______
 
 **Preprints**
 
-1. Generation and applications of simulated datasets to integrate social network and demographic analyses. Matthew Silk, Olivier Gimenez https://ecoevorxiv.org/h5d89/
+1. Silk M., O. Gimenez (2023). Generation and applications of simulated datasets to integrate social network and demographic analyses. <https://ecoevorxiv.org/h5d89/>
 
 2. Ghislain M., T. Bonnet, U. Godeau, O. Dehorter, O. Gimenez, P.-Y. Henry (2022). [Synchrony in adult survival is remarkably strong among common temperate songbirds across France](https://ecoevorxiv.org/cyeb7/). EcoEvoRxiv preprint. 
 
 3. Lauret V., O. Gimenez, H. Labach, N. Lescureux (2022). [Behind the scene of ecological expertise: the place of monitoring for biodiversity workers in the French Mediterranean Marine Protected Areas](https://osf.io/preprints/socarxiv/4875b/). SocArXiv preprint. 
 
-4. Kleiven E.F., F. Barraquand, **Gimenez O.**, J.-A. Henden, R. Anker Ims, E. M. Soininen, N. G. Yoccoz (2020). [A dynamic and hierarchical spatial occupancy model for interacting species.](https://www.biorxiv.org/content/10.1101/2020.12.16.423067v1.abstract) bioRxiv preprint. 
+4. Kleiven E.F., F. Barraquand, Gimenez O., J.-A. Henden, R. Anker Ims, E. M. Soininen, N. G. Yoccoz (2020). [A dynamic and hierarchical spatial occupancy model for interacting species.](https://www.biorxiv.org/content/10.1101/2020.12.16.423067v1.abstract) bioRxiv preprint. 
 
-5. Bauduin S., Germain E., Zimmermann F., Idelberger S., Herdtfelder M., Heurich M., Kramer-Schadt S., Duchamp C., Drouet-Hoguet N., Morand A., Blanc L., Charbonnel A., **Gimenez O.** (2022). [Eurasian lynx populations in Western Europe: What prospects for the next 50 years?](https://www.biorxiv.org/content/10.1101/2021.10.22.465393v2) bioRxiv preprint.
+5. Bauduin S., Germain E., Zimmermann F., Idelberger S., Herdtfelder M., Heurich M., Kramer-Schadt S., Duchamp C., Drouet-Hoguet N., Morand A., Blanc L., Charbonnel A., Gimenez O. (2022). [Eurasian lynx populations in Western Europe: What prospects for the next 50 years?](https://www.biorxiv.org/content/10.1101/2021.10.22.465393v2) bioRxiv preprint.
 
 ______
 
 **In French**
 
-1. Grente O., C. Duchamp, S. Bauduin, S. Chamaille-Jammes, N. Drouet-Hoguet, **O. Gimenez** (2022). [Tirs dérogatoires de loups en France: évaluation des effets sur les attaques aux troupeaux](https://hal.archives-ouvertes.fr/hal-03694437/document).
+1. Grente O., C. Duchamp, S. Bauduin, S. Chamaille-Jammes, N. Drouet-Hoguet, O. Gimenez (2022). [Tirs dérogatoires de loups en France: évaluation des effets sur les attaques aux troupeaux](https://hal.archives-ouvertes.fr/hal-03694437/document).
 
-2. Miele V., S. Dray, **O. Gimenez** (2021) [Images, écologie et deep learning.](https://hal.archives-ouvertes.fr/hal-03142486/document). [Regard 95](https://www.sfecologie.org/regard/r95-fev-2021-miele-dray-gimenez-deep-learning/) de la Société Française d'Ecologie et d'Evolution.
+2. Miele V., S. Dray, O. Gimenez (2021) [Images, écologie et deep learning.](https://hal.archives-ouvertes.fr/hal-03142486/document). [Regard 95](https://www.sfecologie.org/regard/r95-fev-2021-miele-dray-gimenez-deep-learning/) de la Société Française d'Ecologie et d'Evolution.
 
-3. Grente O., C. Duchamp, S. Bauduin, T. Opitz, S. Chamaillé-Jammes, N. Drouet-Hoguet, **O. Gimenez** (2020) [Tirs dérogatoires de loups en France: état des connaissances et des enjeux pour la gestion des attaques aux troupeaux.](https://hal.archives-ouvertes.fr/hal-02992939/file/Grente2020FauneSauvage.pdf). Paru dans [Faune Sauvage numéro 327](https://professionnels.ofb.fr/sites/default/files/pdf/RevueFS/FauneSauvage327_2020_sommaire.pdf).
+3. Grente O., C. Duchamp, S. Bauduin, T. Opitz, S. Chamaillé-Jammes, N. Drouet-Hoguet, O. Gimenez (2020) [Tirs dérogatoires de loups en France: état des connaissances et des enjeux pour la gestion des attaques aux troupeaux.](https://hal.archives-ouvertes.fr/hal-02992939/file/Grente2020FauneSauvage.pdf). Paru dans [Faune Sauvage numéro 327](https://professionnels.ofb.fr/sites/default/files/pdf/RevueFS/FauneSauvage327_2020_sommaire.pdf).
 
 ______
 
 **Published**
 
-1. Kervellec M., C. Milleret, C. Vanpé, P.-Y. Quenette, J. Sentilles, S. Palazón, I. A. Jordana, R. Jato, M. M. Elósegui Irurtia, **O. Gimenez** (2023). [Integrating opportunistic and structured non-invasive surveys with spatial capture-recapture models to map connectivity of the Pyrenean brown bear population](https://www.biorxiv.org/content/10.1101/2022.05.13.491807v3). Biological Conservation. In press.
+1. Kervellec M., C. Milleret, C. Vanpé, P.-Y. Quenette, J. Sentilles, S. Palazón, I. A. Jordana, R. Jato, M. M. Elósegui Irurtia, O. Gimenez (2023). [Integrating opportunistic and structured non-invasive surveys with spatial capture-recapture models to map connectivity of the Pyrenean brown bear population](https://www.biorxiv.org/content/10.1101/2022.05.13.491807v3). Biological Conservation. In press.
 
-2. Frost F., R. McCrea, R. King, **O. Gimenez**, E. Zipkin (2023). [Integrated Population Models: Achieving Their Potential](https://link.springer.com/article/10.1007/s42519-022-00302-7). Journal of Statistical Theory and Practice 17:6. 
-3. Lauret V., H. Labach, D. Turek, S. Laran, **O. Gimenez** (2022). [Integrated spatial models foster complementarity between monitoring programmes in producing large‐scale bottlenose dolphin indicators.](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1111/acv.12815) *Animal Conservation*. 
+2. Frost F., R. McCrea, R. King, O. Gimenez, E. Zipkin (2023). [Integrated Population Models: Achieving Their Potential](https://link.springer.com/article/10.1007/s42519-022-00302-7). Journal of Statistical Theory and Practice 17:6. 
+3. Lauret V., H. Labach, D. Turek, S. Laran, O. Gimenez (2022). [Integrated spatial models foster complementarity between monitoring programmes in producing large‐scale bottlenose dolphin indicators.](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1111/acv.12815) *Animal Conservation*. 
 
-4. Vanpé C., B. Piédallu, P.-Y. Quenette, J. Sentilles, G. Queney, S. Palazón, I. A. Jordana, R. Jato, M. M. Elósegui Irurtia, J. Solà de la Torre, **O. Gimenez** (2022). [Estimating abundance of a recovering transboundary brown bear population with capture-recapture models](https://peercommunityjournal.org/articles/10.24072/pcjournal.199/) *Peer Community Journal* 2:e71.
+4. Vanpé C., B. Piédallu, P.-Y. Quenette, J. Sentilles, G. Queney, S. Palazón, I. A. Jordana, R. Jato, M. M. Elósegui Irurtia, J. Solà de la Torre, O. Gimenez (2022). [Estimating abundance of a recovering transboundary brown bear population with capture-recapture models](https://peercommunityjournal.org/articles/10.24072/pcjournal.199/) *Peer Community Journal* 2:e71.
 
-226. Adamantopoulou S., A. A. Karamanlidis, P. Dendrinos, **O. Gimenez** (2022). [Citizen science indicates significant range recovery and defines new conservation priorities for Earth's most endangered pinniped in Greece](https://hal.archives-ouvertes.fr/hal-03718409v1). *Animal Conservation*.
+226. Adamantopoulou S., A. A. Karamanlidis, P. Dendrinos, O. Gimenez (2022). [Citizen science indicates significant range recovery and defines new conservation priorities for Earth's most endangered pinniped in Greece](https://hal.archives-ouvertes.fr/hal-03718409v1). *Animal Conservation*.
 
-225. Naciri, M, J Aars, MA Blanchet, **O Gimenez**, S Cubaynes (2022). [Reproductive senescence in polar bears in a variable environment](https://hal.archives-ouvertes.fr/hal-03819080/document) *Frontiers in Ecology and Evolution*, 936
+225. Naciri, M, J Aars, MA Blanchet, O. Gimenez, S Cubaynes (2022). [Reproductive senescence in polar bears in a variable environment](https://hal.archives-ouvertes.fr/hal-03819080/document) *Frontiers in Ecology and Evolution*, 936
 
-224. **Gimenez O.**, M. Kervellec, J.-B. Fanjul, A. Chaine, L. Marescot, Y. Bollet, C. Duchamp (2021) [Trade-off between deep learning for species identification and inference about predator-prey co-occurrence: Reproducible R workflow integrating models in computer vision and ecological statistics](https://computo.sfds.asso.fr/published-202204-deeplearning-occupancy-lynx/) *Computo*. https://doi.org/10.57750/yfm2-5f45. Data and code [here](https://github.com/oliviergimenez/computo-deeplearning-occupany-lynx).
+224. Gimenez O., M. Kervellec, J.-B. Fanjul, A. Chaine, L. Marescot, Y. Bollet, C. Duchamp (2021) [Trade-off between deep learning for species identification and inference about predator-prey co-occurrence: Reproducible R workflow integrating models in computer vision and ecological statistics](https://computo.sfds.asso.fr/published-202204-deeplearning-occupancy-lynx/) *Computo*. https://doi.org/10.57750/yfm2-5f45. Data and code [here](https://github.com/oliviergimenez/computo-deeplearning-occupany-lynx).
 
-223. Grente O., T. Saubusse, **Gimenez O.**, E. Marboutin, C. Duchamp (2022). [Wolf depredation hotspots in France: Clustering analyses accounting for livestock availability.]((https://ecoevorxiv.org/n8rzg/)) *Biological Conservation* 267: 109495.
+223. Grente O., T. Saubusse, Gimenez O., E. Marboutin, C. Duchamp (2022). [Wolf depredation hotspots in France: Clustering analyses accounting for livestock availability.]((https://ecoevorxiv.org/n8rzg/)) *Biological Conservation* 267: 109495.
 
-222. Gervasi V., J. Linnell, T. Berce, L. Boitani, B. Cretois, P. Ciucci, C. Duchamp, A. Gastineau, O. Grente, D. Hilfiker, D. Huber, Y. Iliopoulos, A. Karamanlidis, F. Marucco, Y. Mertzanis, P. Mannil, H. Norberg, N. Pagon, L. Pedrotti, P.-Y. Quenette, S. Reljic, V. Salvatori, T. Talvi, M. von Arx, **Gimenez O.** (2021). [Ecological correlates of large carnivore depredation on sheep in Europe](/pubs/Gervasietal2021GEC.pdf). *Global Ecology and Conservation* 30: e01798.  
+222. Gervasi V., J. Linnell, T. Berce, L. Boitani, B. Cretois, P. Ciucci, C. Duchamp, A. Gastineau, O. Grente, D. Hilfiker, D. Huber, Y. Iliopoulos, A. Karamanlidis, F. Marucco, Y. Mertzanis, P. Mannil, H. Norberg, N. Pagon, L. Pedrotti, P.-Y. Quenette, S. Reljic, V. Salvatori, T. Talvi, M. von Arx, Gimenez O. (2021). [Ecological correlates of large carnivore depredation on sheep in Europe](/pubs/Gervasietal2021GEC.pdf). *Global Ecology and Conservation* 30: e01798.  
 
-221. Kazakou E., Fried G., Cheptou P.-O., and **Gimenez O.** (2021). [Does seed mass drive interspecies variation in the effect of management practices on weed demography?](https://onlinelibrary.wiley.com/doi/10.1002/ece3.8038) *Ecology and Evolution* 00: 1– 9. https://doi.org/10.1002/ece3.8038 
+221. Kazakou E., Fried G., Cheptou P.-O., and Gimenez O. (2021). [Does seed mass drive interspecies variation in the effect of management practices on weed demography?](https://onlinelibrary.wiley.com/doi/10.1002/ece3.8038) *Ecology and Evolution* 00: 1– 9. https://doi.org/10.1002/ece3.8038 
 
-220. Maurer G., **Gimenez O.**, Mulot B., and Lescureux N. (2021). [Under pressure: How human-wild-captive elephant social-ecological system in Laos is teetering due to global forces and sociocultural changes.](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10247) *People and Nature* 00: 1– 17.
+220. Maurer G., Gimenez O., Mulot B., and Lescureux N. (2021). [Under pressure: How human-wild-captive elephant social-ecological system in Laos is teetering due to global forces and sociocultural changes.](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10247) *People and Nature* 00: 1– 17.
  
-219. Rounsevell M.D.A., A. Arneth, C. Brown, W.W.L. Cheung, **O. Gimenez**, I. Holman, P. Leadley, C. Luján, S. Mahevas, I. Maréchaux, R. Pélissier, P. H. Verburg, G. Vieilledent, B.A. Wintle, Y-J Shin (2021). [Identifying uncertainties in scenarios and models of socio-ecological systems in support of decision-making.](/pubs/Rounsevell2021OneEarth.pdf) *One Earth* 4.
+219. Rounsevell M.D.A., A. Arneth, C. Brown, W.W.L. Cheung, O. Gimenez, I. Holman, P. Leadley, C. Luján, S. Mahevas, I. Maréchaux, R. Pélissier, P. H. Verburg, G. Vieilledent, B.A. Wintle, Y-J Shin (2021). [Identifying uncertainties in scenarios and models of socio-ecological systems in support of decision-making.](/pubs/Rounsevell2021OneEarth.pdf) *One Earth* 4.
 
-218. Tavecchia G., **O. Gimenez**, R. Choquet, A. Rotger, D. Oro, S. Tenan, A. Sanz-Aguilar (2021). [The trap of hidden processes: Why ‘quick & dirty’methods to estimate mortality are not always good. A comment to De Pascalis et al.(2020).](/pubs/Tavecchia2021BiolCons.pdf) *Biological Conservation* 256: 109057.
+218. Tavecchia G., O. Gimenez, R. Choquet, A. Rotger, D. Oro, S. Tenan, A. Sanz-Aguilar (2021). [The trap of hidden processes: Why ‘quick & dirty’methods to estimate mortality are not always good. A comment to De Pascalis et al.(2020).](/pubs/Tavecchia2021BiolCons.pdf) *Biological Conservation* 256: 109057.
 
-217. Santostasi N. L., **O. Gimenez**, R. Caniglia, E. Fabbri, L. Molinari, W. Reggioni, P. Ciucci (2021). [Estimating Admixture at the Population Scale: Taking Imperfect Detectability and Uncertainty in Hybrid Classification Seriously.](https://wildlife.onlinelibrary.wiley.com/doi/full/10.1002/jwmg.22038) *Journal of Wildlife Management* 85: 1031-1046. 
+217. Santostasi N. L., O. Gimenez, R. Caniglia, E. Fabbri, L. Molinari, W. Reggioni, P. Ciucci (2021). [Estimating Admixture at the Population Scale: Taking Imperfect Detectability and Uncertainty in Hybrid Classification Seriously.](https://wildlife.onlinelibrary.wiley.com/doi/full/10.1002/jwmg.22038) *Journal of Wildlife Management* 85: 1031-1046. 
 
-216. Zriki G., R. Blatrix, D. J. Bicout, **O. Gimenez**, A.‐S. Soulié, L. Dadu, D. Degueldre, G. Chiron, N. Sleeckx, L. Roy (2021). Population‐level impact of native arthropod predators on the poultry red mite Dermanyssus gallinae. *Journal of Experimental Zoology Part A: Ecological and Integrative Physiology* 335: 552-563.
+216. Zriki G., R. Blatrix, D. J. Bicout, O. Gimenez, A.‐S. Soulié, L. Dadu, D. Degueldre, G. Chiron, N. Sleeckx, L. Roy (2021). Population‐level impact of native arthropod predators on the poultry red mite Dermanyssus gallinae. *Journal of Experimental Zoology Part A: Ecological and Integrative Physiology* 335: 552-563.
 
-215. Turek, D., C. Wehrhahn, **Gimenez O.** (2021). [Bayesian Non-Parametric Detection Heterogeneity in Ecological Models.](https://arxiv.org/abs/2007.10163) *Environmental and Ecological Statistics* 28: 355-381.
+215. Turek, D., C. Wehrhahn, Gimenez O. (2021). [Bayesian Non-Parametric Detection Heterogeneity in Ecological Models.](https://arxiv.org/abs/2007.10163) *Environmental and Ecological Statistics* 28: 355-381.
 
-214. Lauret V., Labach H., Authier M., **Gimenez O.** (2021). [Combining single- and repeated-visit occupancy models to make the best of monitoring surveys.](/pubs/Lauretetal2021Ecology.pdf) *Ecology* 102: e03535.
+214. Lauret V., Labach H., Authier M., Gimenez O. (2021). [Combining single- and repeated-visit occupancy models to make the best of monitoring surveys.](/pubs/Lauretetal2021Ecology.pdf) *Ecology* 102: e03535.
 
-213. Gamelon M, Baubet E., Besnard A., Gaillard J.-M., Lebreton J.-D., Touzot L., Veylit L., **Gimenez O.** (2021). [Efficient use of harvest data: An integrated population model for exploited animal populations.](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05738) *Ecography*. 
+213. Gamelon M, Baubet E., Besnard A., Gaillard J.-M., Lebreton J.-D., Touzot L., Veylit L., Gimenez O. (2021). [Efficient use of harvest data: An integrated population model for exploited animal populations.](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05738) *Ecography*. 
 
-212. Labach H., Azzinari C., Barbier M., Cesarini C., Daniel B., David L., Dhermain F., Di-Méglio N., Guichard B., Jourdan J., Robert N., Roul M., Tomasi N., **Gimenez O.** (2022). [Distribution and abundance of bottlenose dolphin (Tursiops truncatus) over the French Mediterranean continental shelf.](/pubs/Labachetal2021MMS.pdf) *Marine Mammal Science* 38: 212-222.
+212. Labach H., Azzinari C., Barbier M., Cesarini C., Daniel B., David L., Dhermain F., Di-Méglio N., Guichard B., Jourdan J., Robert N., Roul M., Tomasi N., Gimenez O. (2022). [Distribution and abundance of bottlenose dolphin (Tursiops truncatus) over the French Mediterranean continental shelf.](/pubs/Labachetal2021MMS.pdf) *Marine Mammal Science* 38: 212-222.
 
-211. Barraquand F., **Gimenez O.** (2021). [Fitting stochastic predator-prey models using both population density and kill rate data](https://arxiv.org/abs/1904.02145) *Theoretical Population Biology* 138: 1-27.
+211. Barraquand F., Gimenez O. (2021). [Fitting stochastic predator-prey models using both population density and kill rate data](https://arxiv.org/abs/1904.02145) *Theoretical Population Biology* 138: 1-27.
 
-210. Cubaynes S., Aars J., Yoccoz N.G., Pradel R., Wiig Ø, Ims R.A. **Gimenez O.** (2021). [Modeling the demography of species providing extended parental care: A capture-recapture approach with a case study on Polar Bears (Ursus maritimus).](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.7296) *Ecology and Evolution* 11: 3380-3392.
+210. Cubaynes S., Aars J., Yoccoz N.G., Pradel R., Wiig Ø, Ims R.A. Gimenez O. (2021). [Modeling the demography of species providing extended parental care: A capture-recapture approach with a case study on Polar Bears (Ursus maritimus).](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.7296) *Ecology and Evolution* 11: 3380-3392.
 
-209. Quéroué M., C. Barbraud, F. Barraquand, D. Turek, K. Delord, N. Pacoureau, **Gimenez O.** (2021). [Multispecies integrated population model reveals bottom-up dynamics in a seabird predator-prey system](/pubs/Queroueetal2021EM.pdf) *Ecological Monographs* 91: e01459. 
+209. Quéroué M., C. Barbraud, F. Barraquand, D. Turek, K. Delord, N. Pacoureau, Gimenez O. (2021). [Multispecies integrated population model reveals bottom-up dynamics in a seabird predator-prey system](/pubs/Queroueetal2021EM.pdf) *Ecological Monographs* 91: e01459. 
 
-208. Bischof R., C. Milleret, P. Dupont, J. Chipperfield, M. Tourani, A. Ordiz, P. de Valpine, D. Turek, J. A. Royle, **Gimenez O.**, Ø. Flagstad, M. Åkesson, L. Svensson, H. Brøseth, J. Kindberg (2020). [Estimating and forecasting spatial population dynamics of apex predators using transnational genetic monitoring.](/pubs/Bischof2020PNAS.pdf) *Proceedings of the National Academy of Sciences* 117:30531-30538. 
+208. Bischof R., C. Milleret, P. Dupont, J. Chipperfield, M. Tourani, A. Ordiz, P. de Valpine, D. Turek, J. A. Royle, Gimenez O., Ø. Flagstad, M. Åkesson, L. Svensson, H. Brøseth, J. Kindberg (2020). [Estimating and forecasting spatial population dynamics of apex predators using transnational genetic monitoring.](/pubs/Bischof2020PNAS.pdf) *Proceedings of the National Academy of Sciences* 117:30531-30538. 
 
-207. Vitet C., P. Duncan, **Gimenez O.**, C. Mabika, S. Chamaillé‐Jammes (2020). [Plains zebras bring evidence that dilution and detection effects may not always matter behaviorally and demographically.](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.3288) *Ecosphere* 11: e03288.
+207. Vitet C., P. Duncan, Gimenez O., C. Mabika, S. Chamaillé‐Jammes (2020). [Plains zebras bring evidence that dilution and detection effects may not always matter behaviorally and demographically.](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.3288) *Ecosphere* 11: e03288.
 
-206. Bauduin S., O. Grente, N.L. Santostasi, P. Ciucci, C. Duchamp, **Gimenez O.** (2020). [An individual-based model to explore the impacts of lesser-known social dynamics on wolf populations.](https://www.sciencedirect.com/science/article/pii/S0304380020302799) *Ecological Modelling* 433: 109209.
+206. Bauduin S., O. Grente, N.L. Santostasi, P. Ciucci, C. Duchamp, Gimenez O. (2020). [An individual-based model to explore the impacts of lesser-known social dynamics on wolf populations.](https://www.sciencedirect.com/science/article/pii/S0304380020302799) *Ecological Modelling* 433: 109209.
 
-205. McClintock B.T., R. Langrock, **Gimenez O.**, E. Cam, D.L. Borchers, R. Glennie, T. A. Patterson (2020). [Uncovering ecological state dynamics with hidden Markov models.](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13610) *Ecology Letters* 23: 1878-1903.
+205. McClintock B.T., R. Langrock, Gimenez O., E. Cam, D.L. Borchers, R. Glennie, T. A. Patterson (2020). [Uncovering ecological state dynamics with hidden Markov models.](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13610) *Ecology Letters* 23: 1878-1903.
 
-204. Genovart M., **Gimenez O.**, A. Bertolero, R. Choquet, D. Oro, R. Pradel (2020). [Decrease in social cohesion in a colonial seabird under a perturbation regime.](https://www.nature.com/articles/s41598-020-75259-3) *Scientific reports* 10: 18720.
+204. Genovart M., Gimenez O., A. Bertolero, R. Choquet, D. Oro, R. Pradel (2020). [Decrease in social cohesion in a colonial seabird under a perturbation regime.](https://www.nature.com/articles/s41598-020-75259-3) *Scientific reports* 10: 18720.
 
-203. Santostasi N.L., Ciucci P., Bearzi G., Bonizzoni S., **Gimenez O.** (2020). [Assessing the dynamics of hybridization through a matrix modelling approach.](/pubs/Santostasietal2020EcolModel.pdf) *Ecological Modelling* 431: 109120.
+203. Santostasi N.L., Ciucci P., Bearzi G., Bonizzoni S., Gimenez O. (2020). [Assessing the dynamics of hybridization through a matrix modelling approach.](/pubs/Santostasietal2020EcolModel.pdf) *Ecological Modelling* 431: 109120.
 
-202. Chero G., Pradel R., Derville S., Bonneville C., **Gimenez O.**, Garrigue C. (2020). [Reproductive capacity of an endangered and recovering population of humpback whales in the Southern Hemisphere.](/pubs/Cheroetal2020MEPS.pdf) *Marine Ecology Progress Series* 643: 219-227.
+202. Chero G., Pradel R., Derville S., Bonneville C., Gimenez O., Garrigue C. (2020). [Reproductive capacity of an endangered and recovering population of humpback whales in the Southern Hemisphere.](/pubs/Cheroetal2020MEPS.pdf) *Marine Ecology Progress Series* 643: 219-227.
 
-200.  Milleret C., Dupont P., Chipperfield J., Turek D., Brøseth H., **Gimenez O.**, de Valpine P., Bischof R. (2020). [Estimating abundance with interruptions in data collection using open population spatial capture–recapture models.](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.3172) *Ecosphere* 11( 6):e03172.
+200.  Milleret C., Dupont P., Chipperfield J., Turek D., Brøseth H., Gimenez O., de Valpine P., Bischof R. (2020). [Estimating abundance with interruptions in data collection using open population spatial capture–recapture models.](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.3172) *Ecosphere* 11( 6):e03172.
 
-198. Louvrier L., Papaïx J., Duchamp C., **Gimenez O.** (2020). <a href="/pubs/Louvrier2020SpatialStatistics.pdf" target="_blank">A mechanistic-statistical species distribution model to explain and forecast wolf (Canis lupus) colonization in South-Eastern France.</a> *Spatial Statistics* 36: 100428.
+198. Louvrier L., Papaïx J., Duchamp C., Gimenez O. (2020). <a href="/pubs/Louvrier2020SpatialStatistics.pdf" target="_blank">A mechanistic-statistical species distribution model to explain and forecast wolf (Canis lupus) colonization in South-Eastern France.</a> *Spatial Statistics* 36: 100428.
 
-191. Marescot L., Lyet A., Singh R., Carter N., **Gimenez O.** (2019). <a href="/pubs/Marescot2019Ecography.pdf" target="_blank">Inferring wildlife poaching in southeast Asia with multispecies dynamic occupancy models.</a> *Ecography* 42: 1–12.
+191. Marescot L., Lyet A., Singh R., Carter N., Gimenez O. (2019). <a href="/pubs/Marescot2019Ecography.pdf" target="_blank">Inferring wildlife poaching in southeast Asia with multispecies dynamic occupancy models.</a> *Ecography* 42: 1–12.
 
-190. Gamble A., Garnier R., Chambert T., **Gimenez O.**, Boulinier T. (2020). <a href="/pubs/Gamble2019Ecology.pdf" target="_blank">Next generation serology: integrating cross-sectional and capture-recapture approaches to infer disease dynamics.</a> *Ecology* 101:e02923.
+190. Gamble A., Garnier R., Chambert T., Gimenez O., Boulinier T. (2020). <a href="/pubs/Gamble2019Ecology.pdf" target="_blank">Next generation serology: integrating cross-sectional and capture-recapture approaches to infer disease dynamics.</a> *Ecology* 101:e02923.
 
-189. Barraquand F., **Gimenez O.** (2019). <a href="/pubs/Barraquand2019EcolModel.pdf" target="_blank">Integrating multiple data sources to fit matrix population models for interacting species.</a> *Ecological Modelling* 411: 108713.
+189. Barraquand F., Gimenez O. (2019). <a href="/pubs/Barraquand2019EcolModel.pdf" target="_blank">Integrating multiple data sources to fit matrix population models for interacting species.</a> *Ecological Modelling* 411: 108713.
 
-188. **Gimenez O.**, Gatti S., Duchamp C., Germain E., Laurent A., Zimmermann F., Marboutin E. (2019). [Spatial density estimates of Eurasian lynx (Lynx lynx) in the French Jura and Vosges Mountains](https://doi.org/10.1002/ece3.5668). *Ecology and Evolution* 9: 11707-11715.
+188. Gimenez O., Gatti S., Duchamp C., Germain E., Laurent A., Zimmermann F., Marboutin E. (2019). [Spatial density estimates of Eurasian lynx (Lynx lynx) in the French Jura and Vosges Mountains](https://doi.org/10.1002/ece3.5668). *Ecology and Evolution* 9: 11707-11715.
 
-187. Renner, I.W., Louvrier J., **Gimenez O.** (2019). [Combining multiple data sources in species distribution models while accounting for spatial dependence and overfitting with combined penalized likelihood maximization](https://www.biorxiv.org/content/10.1101/615583v3). *Methods in Ecology and Evolution* 10: 2118-2128.
+187. Renner, I.W., Louvrier J., Gimenez O. (2019). [Combining multiple data sources in species distribution models while accounting for spatial dependence and overfitting with combined penalized likelihood maximization](https://www.biorxiv.org/content/10.1101/615583v3). *Methods in Ecology and Evolution* 10: 2118-2128.
 
-186. Bonnet‐Lebrun A. , Karamanlidis A. A., de Gabriel Hernando M. , Renner I. and **O. Gimenez** (2019). <a href="/pubs/BonnetLebrun2019AnCons.pdf" target="_blank">Identifying priority conservation areas for a recovering brown bear population in Greece using citizen science data.</a> *Animal Conservation* 23: 83-93
+186. Bonnet‐Lebrun A. , Karamanlidis A. A., de Gabriel Hernando M. , Renner I. and O. Gimenez (2019). <a href="/pubs/BonnetLebrun2019AnCons.pdf" target="_blank">Identifying priority conservation areas for a recovering brown bear population in Greece using citizen science data.</a> *Animal Conservation* 23: 83-93
 
-185. Donfrancesco V., Ciucci P., [14 authors], **Gimenez O.**, [28 authors] and Mukherjee N. (2019). <a href="/pubs/DonFrancescoetal2019Frontiers.pdf" target="_blank">Unravelling the Scientific Debate on How to Address Wolf-Dog Hybridization in Europe.</a> *Frontiers in Ecology and Evolution* 7:175. doi: 10.3389/fevo.2019.00175.
+185. Donfrancesco V., Ciucci P., [14 authors], Gimenez O., [28 authors] and Mukherjee N. (2019). <a href="/pubs/DonFrancescoetal2019Frontiers.pdf" target="_blank">Unravelling the Scientific Debate on How to Address Wolf-Dog Hybridization in Europe.</a> *Frontiers in Ecology and Evolution* 7:175. doi: 10.3389/fevo.2019.00175.
 
-184. Gervasi V., Linnell J.D.C., Brøseth H., **Gimenez O.** (2019). <a href="/pubs/Gervasi2019JAE.pdf" target="_blank">Failure to coordinate management in transboundary populations hinders the achievement of national management goals: The case of wolverines in Scandinavia.</a> *Journal of Applied Ecology* 56: 1905-1915.
+184. Gervasi V., Linnell J.D.C., Brøseth H., Gimenez O. (2019). <a href="/pubs/Gervasi2019JAE.pdf" target="_blank">Failure to coordinate management in transboundary populations hinders the achievement of national management goals: The case of wolverines in Scandinavia.</a> *Journal of Applied Ecology* 56: 1905-1915.
 
-183. Lok T., Hassell C.J., Piersma T., Pradel R. **Gimenez O.** (2019). <a href="/pubs/Loketal2019EE.pdf" target="_blank">Accounting for heterogeneity when estimating stopover duration, timing and population size of red knots along the Luannan Coast of Bohai Bay, China.</a> *Ecology and Evolution* 9: 6176–6188.
+183. Lok T., Hassell C.J., Piersma T., Pradel R. Gimenez O. (2019). <a href="/pubs/Loketal2019EE.pdf" target="_blank">Accounting for heterogeneity when estimating stopover duration, timing and population size of red knots along the Luannan Coast of Bohai Bay, China.</a> *Ecology and Evolution* 9: 6176–6188.
 
 182. Le Bot T., A. Lescroël, J. Fort, C. Péron, <strong>O. Gimenez</strong>, P. Provost, D. Grémillet (2019). <a href="/pubs/LeBotetal2019.pdf" target="_blank">Fishery discards do not compensate natural prey shortage in Northern gannets from the English Channel.</a> *Biological Conservation* 236: 375-384.
 
 181. Dorinda Marie Folio, J. Aars, <strong>O. Gimenez</strong>, A. E. Derocher, Ø. Wiig and S. Cubaynes (2019). <a href="/pubs/Folioetal2019.pdf" target="_blank">How many cubs can a mum nurse? Maternal age and size influence litter size in polar bears.</a> *Biology Letters*. 15: 20190070.
 
-180. Dupont P., Milleret C, **Gimenez O.**, Bischof R (2019). [Population closure and the bias‐precision trade‐off in spatial capture–recapture.](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13158) *Methods in Ecology and Evolution* 10: 661-672.
+180. Dupont P., Milleret C, Gimenez O., Bischof R (2019). [Population closure and the bias‐precision trade‐off in spatial capture–recapture.](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13158) *Methods in Ecology and Evolution* 10: 661-672.
 
-179. Santostasi N.L., P. Ciucci, R. Caniglia, E. Fabbri, L. Molinari, W. Reggioni, **Gimenez O.** (2019). [Use of hidden Markov capture–recapture models to estimate abundance in the presence of uncertainty: Application to the estimation of prevalence of hybrids in animal populations.](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.4819) * Ecology and evolution * 9: 744-755.
+179. Santostasi N.L., P. Ciucci, R. Caniglia, E. Fabbri, L. Molinari, W. Reggioni, Gimenez O. (2019). [Use of hidden Markov capture–recapture models to estimate abundance in the presence of uncertainty: Application to the estimation of prevalence of hybrids in animal populations.](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.4819) * Ecology and evolution * 9: 744-755.
 
-178. **Gimenez O.**, L. Mansilla, M.J. Klaich, M.A. Coscarella, S.N. Pedraza, E.A. Crespo (2019). <a href="/pubs/Gimenezetal2019EcolModel.pdf" target="_blank">Inferring animal social networks with imperfect detection.</a> *Ecological Modelling*. 401: 69-74.
+178. Gimenez O., L. Mansilla, M.J. Klaich, M.A. Coscarella, S.N. Pedraza, E.A. Crespo (2019). <a href="/pubs/Gimenezetal2019EcolModel.pdf" target="_blank">Inferring animal social networks with imperfect detection.</a> *Ecological Modelling*. 401: 69-74.
 
-177. Melovski, D., Von Arx, M., Avukatov, V., Breitenmoser-Würsten, C., Đurović, M., Elezi, R., **Gimenez O.**, ... , Breitenmoser, U. (2019). <a href="/pubs/Melovskietal2019OryxBalkanLynx.pdf" target="_blank">Using questionnaire surveys and occupancy modelling to identify conservation priorities for the Critically Endangered Balkan lynx Lynx lynx balcanicus.</a> *Oryx*. 54: 706-714. 
+177. Melovski, D., Von Arx, M., Avukatov, V., Breitenmoser-Würsten, C., Đurović, M., Elezi, R., Gimenez O., ... , Breitenmoser, U. (2019). <a href="/pubs/Melovskietal2019OryxBalkanLynx.pdf" target="_blank">Using questionnaire surveys and occupancy modelling to identify conservation priorities for the Critically Endangered Balkan lynx Lynx lynx balcanicus.</a> *Oryx*. 54: 706-714. 
 
-176. Benhaiem S., Marescot L., East M. L., Kramer-Schadt S., **Gimenez O.**, Lebreton J.-D. Hofer H. (2018). [Slow recovery from a disease epidemic in the spotted hyena, a keystone social carnivore](https://www.nature.com/articles/s42003-018-0197-1) *Communications Biology*. 201: 1.
+176. Benhaiem S., Marescot L., East M. L., Kramer-Schadt S., Gimenez O., Lebreton J.-D. Hofer H. (2018). [Slow recovery from a disease epidemic in the spotted hyena, a keystone social carnivore](https://www.nature.com/articles/s42003-018-0197-1) *Communications Biology*. 201: 1.
 
-175. Louvrier J., Chambert T., Marboutin E., **Gimenez O.** (2018). <a href="/pubs/Louvrieretal2018EcolModel.pdf" target="_blank">Accounting for misidentification and heterogeneity in occupancy studies using hidden Markov models.</a> *Ecological Modelling*. 387: 61-69.
+175. Louvrier J., Chambert T., Marboutin E., Gimenez O. (2018). <a href="/pubs/Louvrieretal2018EcolModel.pdf" target="_blank">Accounting for misidentification and heterogeneity in occupancy studies using hidden Markov models.</a> *Ecological Modelling*. 387: 61-69.
 
-174. Santostasi N. L., Bonizzoni S., **Gimenez O.**, Eddy L., Bearzi G. (2018). <a href="/pubs/Santostasietal2018AC.pdf" target="_blank">Common dolphins in the Gulf of Corinth are Critically Endangered.</a> *Aquatic Conserv: Mar Freshw Ecosys*. 31: 101-109. https://doi.org/10.1002/aqc.2963.
+174. Santostasi N. L., Bonizzoni S., Gimenez O., Eddy L., Bearzi G. (2018). <a href="/pubs/Santostasietal2018AC.pdf" target="_blank">Common dolphins in the Gulf of Corinth are Critically Endangered.</a> *Aquatic Conserv: Mar Freshw Ecosys*. 31: 101-109. https://doi.org/10.1002/aqc.2963.
 
-173. Louvrier J., Molinari‐Jobin A., Kéry M., Chambert T., Miller D., Zimmermann F., Marboutin E., Molinari P., Mueller O., Cerne R., **Gimenez O.** (2019). <a href="/pubs/Louvrier_et_al-2018-Conservation_Biology.pdf" target="_blank">Use of ambiguous detections to improve estimates from species distribution models.</a> *Conservation Biology*. 33: 185-195.
+173. Louvrier J., Molinari‐Jobin A., Kéry M., Chambert T., Miller D., Zimmermann F., Marboutin E., Molinari P., Mueller O., Cerne R., Gimenez O. (2019). <a href="/pubs/Louvrier_et_al-2018-Conservation_Biology.pdf" target="_blank">Use of ambiguous detections to improve estimates from species distribution models.</a> *Conservation Biology*. 33: 185-195.
 
-172. Benhaiem S., Marescot L., Hofer H., East M.L., Lebreton J.-D., Kramer-Schadt S. and **Gimenez O.** (2018). <a href="https://www.frontiersin.org/articles/10.3389/fvets.2018.00197/full" target="_blank">Robustness of eco-epidemiological capture-recapture parameter estimates to variation in infection state uncertainty.</a> *Frontiers in Veterinary Science* 5: 197.
+172. Benhaiem S., Marescot L., Hofer H., East M.L., Lebreton J.-D., Kramer-Schadt S. and Gimenez O. (2018). <a href="https://www.frontiersin.org/articles/10.3389/fvets.2018.00197/full" target="_blank">Robustness of eco-epidemiological capture-recapture parameter estimates to variation in infection state uncertainty.</a> *Frontiers in Veterinary Science* 5: 197.
 
-171. **Gimenez O.**, Lebreton J.‐D., Choquet R., Pradel R. (2018). <a href="/pubs/Gimenezetal2018MEE.pdf" target="_blank">R2ucare: An r package to perform goodness‐of‐fit tests for capture–recapture models.</a> *Methods in Ecology and Evolution* 9: 1749–1754.
+171. Gimenez O., Lebreton J.‐D., Choquet R., Pradel R. (2018). <a href="/pubs/Gimenezetal2018MEE.pdf" target="_blank">R2ucare: An r package to perform goodness‐of‐fit tests for capture–recapture models.</a> *Methods in Ecology and Evolution* 9: 1749–1754.
 
-170. Salguero‐Gomez R., Violle C., **Gimenez O.**, Childs D. (2018). <a href="/pubs/SGetalFE2018.pdf" target="_blank">Delivering the promises of trait‐based approaches to the needs of demographic approaches, and vice versa.</a> *Functional Ecology* 32: 1424–1435.
+170. Salguero‐Gomez R., Violle C., Gimenez O., Childs D. (2018). <a href="/pubs/SGetalFE2018.pdf" target="_blank">Delivering the promises of trait‐based approaches to the needs of demographic approaches, and vice versa.</a> *Functional Ecology* 32: 1424–1435.
 
-169. Bancila, R. I., Pradel, R. , Choquet, R. , Plaiasu, R. and **Gimenez O.** (2018). <a href="/pubs/BancilaetalEE2018.pdf" target="_blank">Using temporary emigration to inform movement behaviour of cave‐dwelling invertebrates: a case study of a cave harvestman species.</a> *Ecological Entomology* 43: 551-559.
+169. Bancila, R. I., Pradel, R. , Choquet, R. , Plaiasu, R. and Gimenez O. (2018). <a href="/pubs/BancilaetalEE2018.pdf" target="_blank">Using temporary emigration to inform movement behaviour of cave‐dwelling invertebrates: a case study of a cave harvestman species.</a> *Ecological Entomology* 43: 551-559.
 
-168. Chandelier M., Steuckardt A., Mathevet R., Diwersy S., **Gimenez O.** (2018). <a href="/pubs/Chandelieretal2018BC.pdf" target="_blank">Content analysis of newspaper coverage of wolf recolonization in France using structural topic modeling</a> *Biological Conservationa* 220: 254-261.
+168. Chandelier M., Steuckardt A., Mathevet R., Diwersy S., Gimenez O. (2018). <a href="/pubs/Chandelieretal2018BC.pdf" target="_blank">Content analysis of newspaper coverage of wolf recolonization in France using structural topic modeling</a> *Biological Conservationa* 220: 254-261.
 
-167. Marescot L, Benhaiem S, **Gimenez O.** et al. (2018). <a href="/pubs/MarescotetaL2018FE.pdf" target="_blank">Social status mediates the fitness costs of infection with canine distemper virus in Serengeti spotted hyenas.</a> *Functional Ecology* 32: 1237–1250. 
-166. Barbraud C., Bertrand A., Bouchón M., Chaigneau A., Delord K., Demarcq H., **Gimenez O.**, Torero M. G., Gutiérrez D., Oliveros-Ramos R., Passuni G., Tremblay Y., Bertrand S. (2018). <a href="/pubs/Barbraudetal2018Ecography.pdf" target="_blank">Density dependence, prey accessibility and prey depletion by fisheries drive Peruvian seabird population dynamics.</a> *Ecography* 41: 1092-1102. 
+167. Marescot L, Benhaiem S, Gimenez O. et al. (2018). <a href="/pubs/MarescotetaL2018FE.pdf" target="_blank">Social status mediates the fitness costs of infection with canine distemper virus in Serengeti spotted hyenas.</a> *Functional Ecology* 32: 1237–1250. 
 
-165. Marzolin G., **Gimenez O.** (2018). [Fitting a Gamma-Gompertz survival model to capture-recapture data collected on free-ranging animal populations](http://joss.theoj.org/papers/c93e42d092f6ed4f66e3951c89136690). *Journal of Open Source Software*. 3(21): 216.
+166. Barbraud C., Bertrand A., Bouchón M., Chaigneau A., Delord K., Demarcq H., Gimenez O., Torero M. G., Gutiérrez D., Oliveros-Ramos R., Passuni G., Tremblay Y., Bertrand S. (2018). <a href="/pubs/Barbraudetal2018Ecography.pdf" target="_blank">Density dependence, prey accessibility and prey depletion by fisheries drive Peruvian seabird population dynamics.</a> *Ecography* 41: 1092-1102. 
 
-164. Bearzi G., **Gimenez O.** (2018). <a href="/pubs/Bearzi&Gimenez2018.pdf" target="_blank">Searching for meaning in marine mammal shared data.</a> *Ethics in Science and Environmental Politics*. 18: 9-13. 
+165. Marzolin G., Gimenez O. (2018). [Fitting a Gamma-Gompertz survival model to capture-recapture data collected on free-ranging animal populations](http://joss.theoj.org/papers/c93e42d092f6ed4f66e3951c89136690). *Journal of Open Source Software*. 3(21): 216.
 
-163. Hamel S., Gaillard J.-M., Yoccoz N. G., Bassar R. D., Bouwhuis S., Caswell H., Douhard M., Gangloff E. J., **Gimenez O.**, Lee P. C., Smallegange I. M., Steiner U. K., Vedde, O. and Vindenes Y. (2018). <a href="/pubs/Hameletal2018Oikos.pdf" target="_blank"> General conclusion to the special issue Moving forward on individual heterogeneity.</a> *Oikos*. 127: 750–756.
+164. Bearzi G., Gimenez O. (2018). <a href="/pubs/Bearzi&Gimenez2018.pdf" target="_blank">Searching for meaning in marine mammal shared data.</a> *Ethics in Science and Environmental Politics*. 18: 9-13. 
 
-162. Desprez M., **Gimenez O.**, McMahon C.R., Hindell M.A., Harcourt R.G. (2018).  <a href="/pubs/Desprezetal2017JAE.pdf" target="_blank">Optimizing lifetime reproductive output: Intermittent breeding as a tactic for females in a long-lived, multiparous mammal.</a> *Journal of Animal Ecology*. 87: 199–211.
+163. Hamel S., Gaillard J.-M., Yoccoz N. G., Bassar R. D., Bouwhuis S., Caswell H., Douhard M., Gangloff E. J., Gimenez O., Lee P. C., Smallegange I. M., Steiner U. K., Vedde, O. and Vindenes Y. (2018). <a href="/pubs/Hameletal2018Oikos.pdf" target="_blank"> General conclusion to the special issue Moving forward on individual heterogeneity.</a> *Oikos*. 127: 750–756.
 
-161. Bumb I., Garnier E., Coq S., Nahmani J., Del Rey Granado M., **Gimenez O.**, E. Kazakou (2018). <a href="/pubs/BumbetalAnnBotany.pdf" target="_blank">Traits determining the digestibility– decomposability relationships in species from Mediterranean rangelands</a>. *Annals of Botany*. 121: 459–469.
+162. Desprez M., Gimenez O., McMahon C.R., Hindell M.A., Harcourt R.G. (2018).  <a href="/pubs/Desprezetal2017JAE.pdf" target="_blank">Optimizing lifetime reproductive output: Intermittent breeding as a tactic for females in a long-lived, multiparous mammal.</a> *Journal of Animal Ecology*. 87: 199–211.
+
+161. Bumb I., Garnier E., Coq S., Nahmani J., Del Rey Granado M., Gimenez O., E. Kazakou (2018). <a href="/pubs/BumbetalAnnBotany.pdf" target="_blank">Traits determining the digestibility– decomposability relationships in species from Mediterranean rangelands</a>. *Annals of Botany*. 121: 459–469.
 
 160. Robardet, E., Borel, C., Moinet, M., Jouan, D., Wasniewski, M., Barrat, J., Boue, F., Monchatre-Leroy, E., Servat, A., <strong>Gimenez, O.</strong>, Cliquet, F., Picard-Meyer, E. (2017). [Long-term population surveys of two serotine bat (Eptesicus serotinus) colonies exposed to EBLV-1 (European Bat Lyssavirus type 1): Assessment of rabies transmission using capture-recapture models](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006048). *PLoS Neglected Tropical Diseases*. 11 (11), e0006048. 
 
-159. **Gimenez O.**, E. Cam, J.-M. Gaillard (2018). <a href="/pubs/GimenezCamGaillard2017Oikos.pdf" target="_blank">Individual heterogeneity and capture–recapture models: what, why and how?</a> *Oikos*. 127: 664–686.
+159. Gimenez O., E. Cam, J.-M. Gaillard (2018). <a href="/pubs/GimenezCamGaillard2017Oikos.pdf" target="_blank">Individual heterogeneity and capture–recapture models: what, why and how?</a> *Oikos*. 127: 664–686.
 
-158. **Gimenez O.**, J.-M. Gaillard (2018). <a href="/pubs/Gimenez&Gaillard2017PopEcol.pdf" target="_blank">Estimating individual fitness in the wild using capture–recapture data</a>. *Population Ecology*. 60: 101–109.
+158. Gimenez O., J.-M. Gaillard (2018). <a href="/pubs/Gimenez&Gaillard2017PopEcol.pdf" target="_blank">Estimating individual fitness in the wild using capture–recapture data</a>. *Population Ecology*. 60: 101–109.
 
-157. **Gimenez O.**, C. Barbraud (2017). <a href="/pubs/Gimenez&Barbraud2017PopEcol.pdf" target="_blank">Dealing with many correlated covariates in capture–recapture models</a>. *Population Ecology*. 59: 287-291.
+157. Gimenez O., C. Barbraud (2017). <a href="/pubs/Gimenez&Barbraud2017PopEcol.pdf" target="_blank">Dealing with many correlated covariates in capture–recapture models</a>. *Population Ecology*. 59: 287-291.
 
-156. Bertulli, C.G., L. Guéry, N. McGinty, A. Suzuki, N. Brannan, T. Marques, M. H. Rasmussen, **Gimenez O.** (2017). <a href="/pubs/Bertullietal2017SEARES.pdf" target="_blank">Capture-recapture abundance and survival estimates of three cetacean species in Icelandic coastal waters using trained scientist-volunteers</a>. *Journal of Sea Research*. 131: 22-31.
+156. Bertulli, C.G., L. Guéry, N. McGinty, A. Suzuki, N. Brannan, T. Marques, M. H. Rasmussen, Gimenez O. (2017). <a href="/pubs/Bertullietal2017SEARES.pdf" target="_blank">Capture-recapture abundance and survival estimates of three cetacean species in Icelandic coastal waters using trained scientist-volunteers</a>. *Journal of Sea Research*. 131: 22-31.
 
-155. Maurer G., Rashford B. S., Chanthavong V., Mulot B., **Gimenez O.** (2017). <a href="https://www.nature.com/articles/s41598-017-13907-x" target="_blank">Wild-captive interactions and economics drive dynamics of Asian elephants in Laos</a>. *Scientific Reports*. DOI:10.1038/s41598-017-13907-x.
+155. Maurer G., Rashford B. S., Chanthavong V., Mulot B., Gimenez O. (2017). <a href="https://www.nature.com/articles/s41598-017-13907-x" target="_blank">Wild-captive interactions and economics drive dynamics of Asian elephants in Laos</a>. *Scientific Reports*. DOI:10.1038/s41598-017-13907-x.
 
-154. Lieury N., Devillard S., Besnard A., **Gimenez O.**, Hameau O., Ponchon C., Millon A. (2017). <a href="/pubs/Lieuryetal2017_BiolCons.pdf" target="_blank">Designing cost-effective capture-recapture surveys for improving the monitoring of survival in bird populations</a>. *Biological Conservation*. 214: 233-241.
+154. Lieury N., Devillard S., Besnard A., Gimenez O., Hameau O., Ponchon C., Millon A. (2017). <a href="/pubs/Lieuryetal2017_BiolCons.pdf" target="_blank">Designing cost-effective capture-recapture surveys for improving the monitoring of survival in bird populations</a>. *Biological Conservation*. 214: 233-241.
 
-153. Tidière M., Lemaître J.-F., Pélabon C., **Gimenez O.** and Gaillard, J.-M. (2017). <a href="/pubs/Tidiereal2017JEB.pdf" target="_blank">Evolutionary allometry reveals a shift in selection pressure on male horn size</a>. *Journal of Evolutionary Biology*. 30: 1826–1835.
+153. Tidière M., Lemaître J.-F., Pélabon C., Gimenez O. and Gaillard, J.-M. (2017). <a href="/pubs/Tidiereal2017JEB.pdf" target="_blank">Evolutionary allometry reveals a shift in selection pressure on male horn size</a>. *Journal of Evolutionary Biology*. 30: 1826–1835.
 
-152. Lagrange P., **Gimenez O.**, Doligez B., Pradel R., Garant D., Pelletier F., Bélisle M. (2017). <a href="http://onlinelibrary.wiley.com/doi/10.1002/ece3.3241/abstract" target="_blank">Assessment of individual and conspecific reproductive success as determinants of breeding dispersal of female tree swallows: A capture-recapture approach</a>. *Ecology and Evolution*. 7: 7334-7346.
+152. Lagrange P., Gimenez O., Doligez B., Pradel R., Garant D., Pelletier F., Bélisle M. (2017). <a href="http://onlinelibrary.wiley.com/doi/10.1002/ece3.3241/abstract" target="_blank">Assessment of individual and conspecific reproductive success as determinants of breeding dispersal of female tree swallows: A capture-recapture approach</a>. *Ecology and Evolution*. 7: 7334-7346.
 
 151. Louvrier, J., C. Duchamp, V. Lauret, E. Marboutin, S. Cubaynes, R. Choquet, C. Miquel, <strong>O. Gimenez</strong> (2017). <a href="/pubs/Louvrieretal2017Ecography.pdf" target="_blank">Mapping and explaining wolf recolonization in France using dynamic occupancy models and opportunistic data</a>. *Ecography*. 41: 647-660.
 
@@ -250,7 +251,7 @@ ______
 
 117. Hardouin, L. A., A. Robert, M. Nevoux, <strong>O. Gimenez</strong>, F. Lacroix and Y. Hingrat (2014). <a href="/pubs/Hardouinetal_jpe12302.pdf" target="_blank">Meteorological conditions influence short-term survival and dispersal in a reinforced bird population</a>. *Journal of Applied Ecology*. 51: 1494–1503.
 
-116. Desprez M., Harcourt R., Hindell M.A., Cubaynes S., **Gimenez O.**, McMahon C.R. (2014). <a href="/pubs/Desprez_et_al_2014%20-%20BiologyLetters.pdf" target="_blank">Age-specific cost of first reproduction in female southern elephant seals</a>. *Biology Letters* 10: 20140264.
+116. Desprez M., Harcourt R., Hindell M.A., Cubaynes S., Gimenez O., McMahon C.R. (2014). <a href="/pubs/Desprez_et_al_2014%20-%20BiologyLetters.pdf" target="_blank">Age-specific cost of first reproduction in female southern elephant seals</a>. *Biology Letters* 10: 20140264.
 
 115. Cubaynes, S. C. Lavergne, <strong>O. Gimenez</strong> (2014). <a href="/pubs/Cubaynesetal2014EES.pdf" target="_blank">Fitting animal survival models with temporal random effects. *Environmental and Ecological Statistics*</a>* *21: 599–610. <a href="/codes/appendix.txt" target="_blank">Codes</a>.
 
@@ -434,7 +435,7 @@ ______
 
 25. <strong>Gimenez,O.</strong> (2008). <a href="/pubs/commentGimenez2008CJS.pdf" target="_blank">Discussion: Towards a Bayesian analysis template?</a> *The Canadian Journal of Statistics*. 36: 21-24.
 
-24. Grosbois V., **Gimenez O.**, Gaillard, J.-M., Pradel, R., Barbraud, C., Clobert, J., Møller, A. P. and H. Weimerskirch (2008). <a href="/pubs/Grosboisetal2008.pdf" target="_blank">Assessing the impact of climate variation on survival in vertebrate populations</a>. *Biological Reviews* 83: 357-399.
+24. Grosbois V., Gimenez O., Gaillard, J.-M., Pradel, R., Barbraud, C., Clobert, J., Møller, A. P. and H. Weimerskirch (2008). <a href="/pubs/Grosboisetal2008.pdf" target="_blank">Assessing the impact of climate variation on survival in vertebrate populations</a>. *Biological Reviews* 83: 357-399.
 
 23. Pradel, R., L. Maurin-Bernier, <strong>O. Gimenez</strong>, M. Genovart, R. Choquet, and D. Oro (2008). <a href="/pubs/Pradeletal2007CanadianJournalofStatistics.pdf" target="_blank">Estimation of sex-specific survival with uncertainty in sex assessment</a>. *The Canadian Journal of Statistics* 36: 29-42.
 
@@ -456,28 +457,28 @@ ______
 
 14. <strong>Gimenez, O.</strong>, R. Covas, C. R. Brown, M. D. Anderson, M. Bomberger Brown and T. Lenormand. (2006). <a href="/pubs/Gimenezetal2006Evolution.pdf" target="_blank">Nonparametric estimation of natural selection on a quantitative trait using mark-recapture data</a>. *Evolution* 60: 460-466. <a href="/codes/splinesCMRindividual.zip" target="_blank">Codes</a>.
 
-13. Charpentier M., Peignot P., Hossaert-McKey M., **Gimenez O.**, Setchell J. and E.J. Wickings (2005). <a href="/pubs/Charpentieretal2005BehavEcol.pdf" target="_blank">Constraints on control: factors influencing reproductive success in male mandrils (Mandrillus sphinx)</a>. *Behavioral Ecology* 16: 614-623.
+13. Charpentier M., Peignot P., Hossaert-McKey M., Gimenez O., Setchell J. and E.J. Wickings (2005). <a href="/pubs/Charpentieretal2005BehavEcol.pdf" target="_blank">Constraints on control: factors influencing reproductive success in male mandrils (Mandrillus sphinx)</a>. *Behavioral Ecology* 16: 614-623.
 
-12. Do F.C., Goudiaby V.A., **Gimenez O.**, Diagne A.L., Diouf M., Rocheteau A., Akpo L.E. (2005) <a href="/pubs/Doetal2005ForEcolMan.pdf" target="_blank">Environmental influence on canopy phenology in the dry tropics</a> *Forest Ecology and Management*. 215: 319-328.
+12. Do F.C., Goudiaby V.A., Gimenez O., Diagne A.L., Diouf M., Rocheteau A., Akpo L.E. (2005) <a href="/pubs/Doetal2005ForEcolMan.pdf" target="_blank">Environmental influence on canopy phenology in the dry tropics</a> *Forest Ecology and Management*. 215: 319-328.
 
-11. **Gimenez O.**, Choquet R., Lamor L., Scofield P., Fletcher D., J.-D. Lebreton and R. Pradel (2005). <a href="/pubs/Gimenezetal2005JABES.pdf" target="_blank">Efficient Profile-Likelihood Confidence Intervals for Capture-Recapture Models</a>. *Journal of Agricultural, Biological, and Environmental Statistics* 10: 184-196.
+11. Gimenez O., Choquet R., Lamor L., Scofield P., Fletcher D., J.-D. Lebreton and R. Pradel (2005). <a href="/pubs/Gimenezetal2005JABES.pdf" target="_blank">Efficient Profile-Likelihood Confidence Intervals for Capture-Recapture Models</a>. *Journal of Agricultural, Biological, and Environmental Statistics* 10: 184-196.
 
-10. Pradel, R., **Gimenez O.** and J.-D. Lebreton (2005). <a href="/pubs/Pradeletal2005ABC.pdf" target="_blank">Principles and interest of GOF tests for multistate capture-recapture models</a>. *Animal Biodiversity and Conservation* 28: 189–204.
+10. Pradel, R., Gimenez O. and J.-D. Lebreton (2005). <a href="/pubs/Pradeletal2005ABC.pdf" target="_blank">Principles and interest of GOF tests for multistate capture-recapture models</a>. *Animal Biodiversity and Conservation* 28: 189–204.
 
-9. Ancrenaz M., **Gimenez O.**, Ambu L., Ancrenaz K., Andau P., Goossens B., Payne J., Tuuga A. and I. Lackman- Ancrenaz (2005). <a href="/pubs/Ancrenazetal2005PlosBiol.pdf" target="_blank">Aerial Survey Gives New Estimates for Orang-utans in Sabah, Malaysia</a>. *Plos Biology* 3: 30-37.
+9. Ancrenaz M., Gimenez O., Ambu L., Ancrenaz K., Andau P., Goossens B., Payne J., Tuuga A. and I. Lackman- Ancrenaz (2005). <a href="/pubs/Ancrenazetal2005PlosBiol.pdf" target="_blank">Aerial Survey Gives New Estimates for Orang-utans in Sabah, Malaysia</a>. *Plos Biology* 3: 30-37.
 
 8. <strong> Gimenez O.</strong>, Viallefont A., Choquet R., Catchpole E.A. and B.J.T. Morgan (2004). <a href="/pubs/Gimenezetal2004ABC.pdf" target="_blank">Methods for investigating parameter redundancy</a>. *Animal Biodiversity and Conservation* 27: 561-572.
 
-7. Choquet R., Reboulet A.-M., Pradel R., **Gimenez O.** and J.-D. Lebreton (2004). <a href="/pubs/Choquetetal2004ABC.pdf" target="_blank">M-SURGE: new software specically designed for multistate capture-recapture models</a>. *Animal Biodiversity and Conservation* 27: 207-215.
+7. Choquet R., Reboulet A.-M., Pradel R., Gimenez O. and J.-D. Lebreton (2004). <a href="/pubs/Choquetetal2004ABC.pdf" target="_blank">M-SURGE: new software specically designed for multistate capture-recapture models</a>. *Animal Biodiversity and Conservation* 27: 207-215.
 
-6. Schaub M., **Gimenez O.**, Schmidt B.R. and R. Pradel (2004). <a href="/pubs/Schaubetal2004Ecology.pdf" target="_blank">Estimating survival and temporary emigration in the multistate capture-recapture framework</a>. *Ecology* 85: 2107-2113. <a href="http://esapubs.org/archive/ecol/E085/061/" target="_blank">Codes</a>.
+6. Schaub M., Gimenez O., Schmidt B.R. and R. Pradel (2004). <a href="/pubs/Schaubetal2004Ecology.pdf" target="_blank">Estimating survival and temporary emigration in the multistate capture-recapture framework</a>. *Ecology* 85: 2107-2113. <a href="http://esapubs.org/archive/ecol/E085/061/" target="_blank">Codes</a>.
 
-5. Ancrenaz M., Goossens B., **Gimenez O.**, Sawang A. and I. Lackman-Ancrenaz (2004). <a href="/pubs/Ancrenazetal2004AnimCons.pdf" target="_blank">Determination of ape distribution and population size using ground and aerial surveys: a case study with orang-utans in lower Kinabatangan, Sabah, Malaysia</a>. *Animal Conservation* 7: 375-385.
+5. Ancrenaz M., Goossens B., Gimenez O., Sawang A. and I. Lackman-Ancrenaz (2004). <a href="/pubs/Ancrenazetal2004AnimCons.pdf" target="_blank">Determination of ape distribution and population size using ground and aerial surveys: a case study with orang-utans in lower Kinabatangan, Sabah, Malaysia</a>. *Animal Conservation* 7: 375-385.
 
-4. Charpentier M., Hossaert-McKey M., Peignot P., **Gimenez O.**, Setchell J.M. and E.J. Wickings (2004). Social factors and male reproductive success in a highly sexually dimorphic primate: Paternity analysis over a 20 year period in a group of mandrills (Mandrillus sphinx). *Folia Primatologica* 75: 244-245.
+4. Charpentier M., Hossaert-McKey M., Peignot P., Gimenez O., Setchell J.M. and E.J. Wickings (2004). Social factors and male reproductive success in a highly sexually dimorphic primate: Paternity analysis over a 20 year period in a group of mandrills (Mandrillus sphinx). *Folia Primatologica* 75: 244-245.
 
 3. <strong> Gimenez O.</strong>, Choquet R. and J.-D. Lebreton (2003). <a href="/pubs/Gimenezetal2003BiomJ.pdf" target="_blank">Parameter redundancy in multistate capture-recapture models</a>. *Biometrical Journal* 45: 704-722. <a href="/codes/BiomJ.zip" target="_blank">Codes</a>.
 
-2. Pradel R., Wintrebert C.M.A. and **Gimenez O.** (2003). <a href="/pubs/Pradeletal2003Biometrics.pdf" target="_blank">A proposal for a goodness-of-fit test to the Arnason-Schwarz multisite capture-recapture model</a>. *Biometrics* 59: 43-53.
+2. Pradel R., Wintrebert C.M.A. and Gimenez O. (2003). <a href="/pubs/Pradeletal2003Biometrics.pdf" target="_blank">A proposal for a goodness-of-fit test to the Arnason-Schwarz multisite capture-recapture model</a>. *Biometrics* 59: 43-53.
 
-1. Besnard A., **Gimenez O.** and J.-D. Lebreton (2002). <a href="/pubs/Besnardetal2002EvolEcol.pdf" target="_blank">A model for the evolution of creching behaviour in gulls</a>. *Evolutionary Ecology* 16: 489-503.</p>
+1. Besnard A., Gimenez O. and J.-D. Lebreton (2002). <a href="/pubs/Besnardetal2002EvolEcol.pdf" target="_blank">A model for the evolution of creching behaviour in gulls</a>. *Evolutionary Ecology* 16: 489-503.</p>
