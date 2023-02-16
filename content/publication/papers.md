@@ -16,15 +16,11 @@ ______
 
 **Preprints**
 
-1. Silk M., O. Gimenez (2023). Generation and applications of simulated datasets to integrate social network and demographic analyses. <https://ecoevorxiv.org/h5d89/>
+1. Bauduin S., Germain E., Zimmermann F., Idelberger S., Herdtfelder M., Heurich M., Kramer-Schadt S., Duchamp C., Drouet-Hoguet N., Morand A., Blanc L., Charbonnel A., Gimenez O. (2022). [Eurasian lynx populations in Western Europe: What prospects for the next 50 years?](https://www.biorxiv.org/content/10.1101/2021.10.22.465393v2) bioRxiv preprint.
 
 2. Ghislain M., T. Bonnet, U. Godeau, O. Dehorter, O. Gimenez, P.-Y. Henry (2022). [Synchrony in adult survival is remarkably strong among common temperate songbirds across France](https://ecoevorxiv.org/cyeb7/). EcoEvoRxiv preprint. 
 
 3. Lauret V., O. Gimenez, H. Labach, N. Lescureux (2022). [Behind the scene of ecological expertise: the place of monitoring for biodiversity workers in the French Mediterranean Marine Protected Areas](https://osf.io/preprints/socarxiv/4875b/). SocArXiv preprint. 
-
-4. Kleiven E.F., F. Barraquand, Gimenez O., J.-A. Henden, R. Anker Ims, E. M. Soininen, N. G. Yoccoz (2020). [A dynamic and hierarchical spatial occupancy model for interacting species.](https://www.biorxiv.org/content/10.1101/2020.12.16.423067v1.abstract) bioRxiv preprint. 
-
-5. Bauduin S., Germain E., Zimmermann F., Idelberger S., Herdtfelder M., Heurich M., Kramer-Schadt S., Duchamp C., Drouet-Hoguet N., Morand A., Blanc L., Charbonnel A., Gimenez O. (2022). [Eurasian lynx populations in Western Europe: What prospects for the next 50 years?](https://www.biorxiv.org/content/10.1101/2021.10.22.465393v2) bioRxiv preprint.
 
 ______
 
@@ -40,12 +36,21 @@ ______
 
 **Published**
 
-1. Kervellec M., C. Milleret, C. Vanpé, P.-Y. Quenette, J. Sentilles, S. Palazón, I. A. Jordana, R. Jato, M. M. Elósegui Irurtia, O. Gimenez (2023). [Integrating opportunistic and structured non-invasive surveys with spatial capture-recapture models to map connectivity of the Pyrenean brown bear population](https://www.biorxiv.org/content/10.1101/2022.05.13.491807v3). Biological Conservation. In press.
+1. Silk M., O. Gimenez (2023). [Generation and applications of simulated datasets to integrate social network and demographic analyses.](https://ecoevorxiv.org/h5d89/) *Ecology and Evolution*. In press.
 
-2. Frost F., R. McCrea, R. King, O. Gimenez, E. Zipkin (2023). [Integrated Population Models: Achieving Their Potential](https://link.springer.com/article/10.1007/s42519-022-00302-7). Journal of Statistical Theory and Practice 17:6. 
-3. Lauret V., H. Labach, D. Turek, S. Laran, O. Gimenez (2022). [Integrated spatial models foster complementarity between monitoring programmes in producing large‐scale bottlenose dolphin indicators.](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1111/acv.12815) *Animal Conservation*. 
+2. Kervellec M., C. Milleret, C. Vanpé, P.-Y. Quenette, J. Sentilles, S. Palazón, I. A. Jordana, R. Jato, M. M. Elósegui Irurtia, O. Gimenez (2023). [Integrating opportunistic and structured non-invasive surveys with spatial capture-recapture models to map connectivity of the Pyrenean brown bear population.](/pubs/KervellecBC2023.pdf) *Biological Conservation*. 278: 109875.
 
-4. Vanpé C., B. Piédallu, P.-Y. Quenette, J. Sentilles, G. Queney, S. Palazón, I. A. Jordana, R. Jato, M. M. Elósegui Irurtia, J. Solà de la Torre, O. Gimenez (2022). [Estimating abundance of a recovering transboundary brown bear population with capture-recapture models](https://peercommunityjournal.org/articles/10.24072/pcjournal.199/) *Peer Community Journal* 2:e71.
+3. Kleiven E.F., F. Barraquand, Gimenez O., J.-A. Henden, R. Anker Ims, E. M. Soininen, N. G. Yoccoz (2023). [A dynamic and hierarchical spatial occupancy model for interacting species.](https://www.biorxiv.org/content/10.1101/2020.12.16.423067v2) *JABES*. IN press. 
+
+4. Tardy C., D. Ody, O. Gimenez, S. Planes (2023). [Abundance of fin whales (Balaenoptera physalus) in the north-western Mediterranean Sea, using photo-identification and microsatellite genotyping.](/pubs/Tardy2023.pdf) *Marine Ecology*. e12737.
+
+5. Petridou M., J.F. Benson, O. Gimenez, V. Kati (2023). [Spatiotemporal Patterns of Wolves, and Sympatric Predators and Prey Relative to Human Disturbance in Northwestern Greece.](https://www.mdpi.com/1424-2818/15/2/184). *Diversity*. 15:184. 
+
+229. Frost F., R. McCrea, R. King, O. Gimenez, E. Zipkin (2023). [Integrated Population Models: Achieving Their Potential](https://link.springer.com/article/10.1007/s42519-022-00302-7). *Journal of Statistical Theory and Practice* 17:6. 
+
+228. Lauret V., H. Labach, D. Turek, S. Laran, O. Gimenez (2022). [Integrated spatial models foster complementarity between monitoring programmes in producing large‐scale bottlenose dolphin indicators.](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1111/acv.12815) *Animal Conservation*. 
+
+227. Vanpé C., B. Piédallu, P.-Y. Quenette, J. Sentilles, G. Queney, S. Palazón, I. A. Jordana, R. Jato, M. M. Elósegui Irurtia, J. Solà de la Torre, O. Gimenez (2022). [Estimating abundance of a recovering transboundary brown bear population with capture-recapture models](https://peercommunityjournal.org/articles/10.24072/pcjournal.199/) *Peer Community Journal* 2:e71.
 
 226. Adamantopoulou S., A. A. Karamanlidis, P. Dendrinos, O. Gimenez (2022). [Citizen science indicates significant range recovery and defines new conservation priorities for Earth's most endangered pinniped in Greece](https://hal.archives-ouvertes.fr/hal-03718409v1). *Animal Conservation*.
 

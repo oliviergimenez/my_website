@@ -36,8 +36,8 @@ weight = 3
 
 <hr> 
 
-![](/img/deborah.jpg)
-**Deborah Coz** (PhD 2021-2024) is using games and companion modelling to build social-ecological communities and enrich animal geography. She is supervised by Raphaël Mathevet. 
+![](/img/oksana.png)
+**Oksana Grente** (PhD 2018-2021, post-doc 2023-2024) works at evaluating the impact of lethal control on the French wolf population, with a special interest in social structure and livestock depredation. This is joint work with Sarah Bauduin, Christophe Duchamp and Nolwenn Hoguet-Drouet from [French Office of Biodiversity](https://ofb.gouv.fr/).
 
 <hr> 
 
@@ -52,11 +52,6 @@ weight = 3
 
 <hr> 
 
-![](/img/juju2.png)
-**Julie Louvrier** (post-doc 2022) is an ecologist with strong quantitative skills. She is studying the interactions between large carnivores using occupancy models.
-
-<hr> 
-
 ![](/img/monia.jpg)
 **Mónia Nakamura Mercier Real** (PhD 2019-2024) is investigating the impacts of anthropogenic factors on large carnivores persistence in human-dominated landscapes. She uses wolf in Spain and Portugal as a model species to address how different humanization levels can influence habitat selection and land use, and ultimately affect its demography, status and viability. The thesis is co-supervised with [José Vicente López-Bao](https://scholar.google.es/citations?user=mWcf6MsAAAAJ&hl=es) and [Pedro Monterroso](https://scholar.google.com/citations?user=2ulB-8QAAAAJ&hl=en).
 
@@ -68,8 +63,3 @@ weight = 3
 <hr> 
 
 ![](/img/patricia.jpg) **Patrícia Rodrigues** (post-doc 2021-2023) is interested in the social-ecological dynamics underpinning environmental problems in Africa. Her current project aims to characterize landscapes within Africa’s Great Green Wall in terms of their social-ecological properties and restoration initiatives. More [here]( https://rodriguespatri.wixsite.com/home). 
-
-<hr> 
-
-![](/img/alix.jpg)
-**Alix Cosquer** (post-doc 2019-2022) is an environmental psychologist. She is studying how to favor connections between nature and children using educative marine areas. Her ongoing research project is on children's relationships with nature in schools.

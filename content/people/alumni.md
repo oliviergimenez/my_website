@@ -14,18 +14,24 @@ weight = 4
 
 <hr> 
 
+![](/img/juju2.png)
+**Julie Louvrier** (post-doc 2022) is an ecologist with strong quantitative skills. She worked on the interactions between large carnivores using occupancy models.
+
+<hr> 
+
 ![](/img/marined.jpg)
 **Marine Desprez** (post-doc 2022) worked on machine learning methods for classification problems in ecology. This was joint work with Vincent Miele. 
+
+<hr> 
+
+![](/img/alix.jpg)
+**Alix Cosquer** (post-doc 2019-2022) is an environmental psychologist. She studied how to favor connections between nature and children using educative marine areas, and worked on children's relationships with nature in schools.
 
 <hr> 
 
 ![](/img/maud.png)
 **Maud Quéroué** (PhD 2018-2021) developed multispecies demographic models to study predator-prey interactions in seabirds and competition/coexistence in passerines. This was joint work with [Christophe Barbraud](http://www.cebc.cnrs.fr/ecomm/Fr_ecomm/equip_CB.html), [Pierre-Yves Henry](http://mecadev.cnrs.fr/index.php?post/Henry-Pierre-Yves) and [Frédéric Barraquand](https://sites.google.com/site/fredbarraquand/home). Maud is now a post-doc with Aurélien Besnard.
 
-<hr> 
-
-![](/img/oksana.png)
-**Oksana Grente** (PhD 2018-2021) evaluated the impact of lethal control on the French wolf population, with a special interest in social structure and livestock depredation. This was joint work with Sarah Bauduin, Christophe Duchamp and Nolwenn Hoguet-Drouet from [French Office of Biodiversity](https://ofb.gouv.fr/). Oksana is now a post-doc with Aurélien Besnard.
 
 <hr> 
 
