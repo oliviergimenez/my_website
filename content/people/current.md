@@ -22,10 +22,6 @@ weight = 3
 
 <hr> 
 
-<img src="/img/louis.jpg" width="150"> **Louis Barbu** (intern 2022) is learning R and GIS. He is a second year student of [BTSA GPN](https://www.onisep.fr/Ressources/Univers-Formation/Formations/Post-bac/btsa-gestion-et-protection-de-la-nature). Louis is currently conducting a study on the functionality of ecological corridors through the European otter in the Hérault department.
-
-<hr> 
-
 ![](/img/maelis.jpeg)
 **Maëlis Kervellec** (PhD 2021-2024) is developing statistical models for the analysis of camera trap data with applications in large carnivores population ecology. This is joint work with colleagues from the [French Office of Biodiversity](https://ofb.gouv.fr/)
 
@@ -46,7 +42,6 @@ weight = 3
 
 <hr> 
 
-
 ![](/img/javi.png)
 **Javi Fernández-López** (post-doc 2022-2023) is interested in conservation biology and phylogeography. He is modelling the distribution of mammals in Europe by integrating various sources of data. Check out his website <https://allthiswasfield.blogspot.com>.
 
@@ -55,7 +50,7 @@ weight = 3
 ![](/img/monia.jpg)
 **Mónia Nakamura Mercier Real** (PhD 2019-2024) is investigating the impacts of anthropogenic factors on large carnivores persistence in human-dominated landscapes. She uses wolf in Spain and Portugal as a model species to address how different humanization levels can influence habitat selection and land use, and ultimately affect its demography, status and viability. The thesis is co-supervised with [José Vicente López-Bao](https://scholar.google.es/citations?user=mWcf6MsAAAAJ&hl=es) and [Pedro Monterroso](https://scholar.google.com/citations?user=2ulB-8QAAAAJ&hl=en).
 
-<hr> 
+<hr>
 
 ![](/img/bea.jpg)
 **Béatrice Chataigner** (EPHE diploma 2020-2022) is working on locally-based monitoring programs in Kenya. Her research project aims at exploring the performances of current ecological monitoring program of Kenyan conservanciesin addressing their needs in terms of adaptive management at local level as well as ecosystem level. Béatrice works for IUCN in the [Program on African Protected Areas and Conservation](https://papaco.org/). Her work is jointly supervised by [Nicholas Pilfold](https://institute.sandiegozoo.org/staff/nicholas-pilfold-phd) and [Aurélien Besnard](https://www.cefe.cnrs.fr/fr/actus/44-french/recherche/bc/bev/291-aurelien-besnard).

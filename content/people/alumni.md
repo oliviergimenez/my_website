@@ -14,6 +14,10 @@ weight = 4
 
 <hr> 
 
+<img src="/img/louis.jpg" width="150"> **Louis Barbu** (intern 2022) was a second year student of [BTSA GPN](https://www.onisep.fr/Ressources/Univers-Formation/Formations/Post-bac/btsa-gestion-et-protection-de-la-nature). Louis conducted a study on the functionality of ecological corridors through the European otter in the Hérault department.
+
+<hr> 
+
 ![](/img/juju2.png)
 **Julie Louvrier** (post-doc 2022) is an ecologist with strong quantitative skills. She worked on the interactions between large carnivores using occupancy models.
 
