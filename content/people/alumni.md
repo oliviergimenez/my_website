@@ -1,6 +1,6 @@
 +++
 
-date = "2022-10-24T00:00:00"
+date = "2023-07-22T00:00:00"
 draft = false
 
 title = "Former lab members"
@@ -11,6 +11,10 @@ weight = 4
 +++
 
 <br>
+
+<hr> 
+
+![](/img/matt.jpg) **Matthew Silk** (post-doc 2022-2023) is a behavioural and disease ecologist researching the links between population dynamics and social structure by developing new social network and demographic models. Matt was a MCSA research fellow. He is now a research fellow in Edinburgh. 
 
 <hr> 
 

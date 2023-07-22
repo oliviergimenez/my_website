@@ -1,6 +1,6 @@
 +++
 
-date = "2022-10-24T00:00:00"
+date = "2023-07-22T00:00:00"
 draft = false
 
 title = "Current lab members"
@@ -37,8 +37,8 @@ weight = 3
 
 <hr> 
 
-![](/img/matt.jpg)
-**Matthew Silk** (post-doc 2022-2023) is a behavioural and disease ecologist researching the links between population dynamics and social structure by developing new social network and demographic models. Matt is a MCSA research fellow. 
+![](/img/simon.png)
+**Simon Lacombe** (PhD 2023-2026) is a quantitative ecologists who's determining the drivers of European otter recolonization in France using non-invasive sampling and statistical ecology. He is co-supervised by Sébastien Devillard. 
 
 <hr> 
 

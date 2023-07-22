@@ -1,6 +1,6 @@
 +++
 
-date = "2022-07-13T00:00:00"
+date = "2023-07-22T00:00:00"
 draft = false
 
 title = "Workshops"
@@ -11,6 +11,12 @@ widget = "custom"
 weight = 8
 
 +++
+
+July 12-13, 2023. Workshop on Bayesian capture-recapture inference with hidden Markov models in R and Nimble for the [València International Bayesian Analysis Summer School](http://vabar.es/). Slides, worksheets and video recordings freely available from [dedicated website](https://oliviergimenez.github.io/bayesian-hmm-cr-workshop-valencia/). 
+
+June 1-2, 2023. Quantitative methods for population dynamics: A two-day workshop with R. All material available from [dedicated website](https://oliviergimenez.github.io/popdyn-workshop/). 
+
+May 16, 2023. Workshop on estimating (wolf) occupancy with R for the [Wolves Across Borders conference](https://www.wolvesacrossborders.com/). All material available from [dedicated website](https://oliviergimenez.github.io/occupancy-workshop/).
 
 June 26, 2022. Workshop on Bayesian capture-recapture inference with hidden Markov models, R and Nimble for the [ISEC2022 conference](https://www.isec2022.org/workshop-4/). All material available from [dedicated website](https://oliviergimenez.github.io/hmm-cr-nimble-isec2022-workshop/).
 
