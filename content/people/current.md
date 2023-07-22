@@ -37,7 +37,7 @@ weight = 3
 
 <hr> 
 
-![](/img/simon.png)
+![](/img/simon.jpg)
 **Simon Lacombe** (PhD 2023-2026) is a quantitative ecologists who's determining the drivers of European otter recolonization in France using non-invasive sampling and statistical ecology. He is co-supervised by Sébastien Devillard. 
 
 <hr> 

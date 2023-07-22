@@ -12,6 +12,14 @@ weight = 4
 
 <br>
 
+<hr>
+
+A list of my former Master students is available [here](/MasterStudents.pdf). 
+
+<hr>
+
+<br>
+
 <hr> 
 
 ![](/img/matt.jpg) **Matthew Silk** (post-doc 2022-2023) is a behavioural and disease ecologist researching the links between population dynamics and social structure by developing new social network and demographic models. Matt was a MCSA research fellow. He is now a research fellow in Edinburgh. 
@@ -229,11 +237,5 @@ Prévost). Mathieu did a post-doc in the US at Berkeley, then came back as a pos
 **François Guilhaumon** (PhD 2008-2010) analysed 
 biodiversity patterns at large scale and worked in conservation biogeography 
 (joint work with David Mouillot). François is now a [permanent researcher at IRD](https://fguilhaumon.gitlab.io/).
- 
-<br>
 
-<hr>
-
-A list of my former Master students is available [here](/MasterStudents.pdf). 
-
-<hr>
+<hr> 
