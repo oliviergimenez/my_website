@@ -14,11 +14,11 @@ weight = 3
 
 <hr> 
 
-<img src="/img/adelaide.jpeg" width="150"> **Adélaïde Monchy** (PhD 2022-2025) is working on the propagation of uncertainties related to the automatic processing of sensor data in different models in ecology. She is co-supervised with [Marie-Pierre Etienne](https://marieetienne.github.io/).
+<img src="/img/adelaide.jpeg" width="150"> **Adé Monchy** (PhD 2022-2025) is working on the propagation of uncertainties related to the automatic processing of sensor data in different models in ecology. He is co-supervised by [Marie-Pierre Etienne](https://marieetienne.github.io/).
 
 <hr> 
 
-<img src="/img/lea.jpg" width="130"> **Léa Pautrel** (PhD 2022-2025) is investigating the use of deep learning coupled with continuous-time models to exploit sensor data, in particular cam traps. She is co-supervised with [Marie-Pierre Etienne](https://marieetienne.github.io/) and Sylvain Moulherat from [TerrOïko](https://www.terroiko.fr/fr).
+<img src="/img/lea.jpg" width="130"> **Léa Pautrel** (PhD 2022-2025) is investigating the use of deep learning coupled with continuous-time models to exploit sensor data, in particular cam traps. She is co-supervised by [Marie-Pierre Etienne](https://marieetienne.github.io/) and Sylvain Moulherat from [TerrOïko](https://www.terroiko.fr/fr).
 
 <hr> 
 
@@ -37,7 +37,7 @@ weight = 3
 
 <hr> 
 
-![](/img/simon.jpg)
+![](/img/simon.jpeg)
 **Simon Lacombe** (PhD 2023-2026) is a quantitative ecologists who's determining the drivers of European otter recolonization in France using non-invasive sampling and statistical ecology. He is co-supervised by Sébastien Devillard. 
 
 <hr> 
