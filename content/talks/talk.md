@@ -1,6 +1,6 @@
 +++
 
-date = "2022-07-13T00:00:00"
+date = "2023-12-11T00:00:00"
 draft = false
 
 title = "Talks"
@@ -11,6 +11,10 @@ widget = "custom"
 weight = 7
 
 +++
+
+*  Loutre, Lez, connectivité écologique et médiation scientifique. December 2023. Talk at a meeting between Montpellier city/metropolis and our lab. You can download the slides [here](https://figshare.com/articles/presentation/Loutre_Lez_connectivit_cologique_et_m_diation_scientifique_/24781776/1) and video recording [there](https://figshare.com/articles/presentation/Loutre_Lez_connectivit_cologique_et_m_diation_scientifique_/24781776/1) in French.
+
+*  Tour d'horizon des modèles et de leurs applications. November 2023. Talk a conference co-organised by Cerema, OFB, and centre de ressources TVB et ITTECOP. You can download the slides [here](https://doi.org/10.6084/m9.figshare.24633762.v3) in French.
 
 *  Statistical ecology, hidden Markov models and the management of large carnivores in Europe. June 28, 2022. Plenary talk for the [ISEC2022 conference](https://www.isec2022.org/). You can download the [slides](https://t.co/BOtZHWU56L) and [video recording](https://t.co/6Qn7i05uae) in English.
 

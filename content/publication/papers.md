@@ -24,21 +24,24 @@ ______
 
 4. Lauret V., O. Gimenez, H. Labach, N. Lescureux (2022). [Behind the scene of ecological expertise: the place of monitoring for biodiversity workers in the French Mediterranean Marine Protected Areas.](https://osf.io/preprints/socarxiv/4875b/) SocArXiv preprint. 
 
-5. Rigoudy N., A. Benyoub, A. Besnard, C. Birck, Y. Bollet, Y. Bunz, J. Chiffard Carriburu, G. Caussimont, E. Chetouane, P. Cornette, A. Delestrade, N. De Backer, L. Dispan, M. Le Barh, J. Duhayer, J.-F. Elder, J.-B. Fanjul, J. Fonderflick, N. Froustey, M. Garel, W. Gaudry, A. Gérard, O. Gimenez, A. Hemery, A. Hemon, J.-M. Jullien, I. Malafosse, M. Marginean, V. Prunet, J. Rabault, M. Randon, A. Régnier, R. Ribière, J.-C. Ricci, S. Ruette, J. Sentilles, N. Siefert, B. Smith, G. Terpereau, W. Thuiller, A. Uzal, V. Vautrain, G. Dussert, B. Spataro, V. Miele, S. Chamaillé-Jammes (2023). [The DeepFaune initiative: a collaborative effort towards the automatic identification of French fauna in camera-trap images.](https://www.biorxiv.org/content/10.1101/2022.03.15.484324v2.full) bioRxiv preprint
+5. Viollat L., M. Quéroué, K. Delord, O. Gimenez, C. Barbraud (2023). [Bottom-up effects and density dependence drive the dynamic of an antarctic seabird predator-prey system.](https://www.biorxiv.org/content/10.1101/2023.06.06.543885v1)  bioRxiv preprint
 
-6. Viollat L., M. Quéroué, K. Delord, O. Gimenez, C. Barbraud (2023). [Bottom-up effects and density dependence drive the dynamic of an antarctic seabird predator-prey system.](https://www.biorxiv.org/content/10.1101/2023.06.06.543885v1)  bioRxiv preprint
-
-7. Desprez M., V. Miele, O. Gimenez (2023). [Nine tips for ecologists using machine learning.](https://arxiv.org/abs/2305.10472) arXiv preprint 
+6. Desprez M., V. Miele, O. Gimenez (2023). [Nine tips for ecologists using machine learning.](https://arxiv.org/abs/2305.10472) arXiv preprint 
 
 ______
 
 **Published**
 
-1. Bauduin S., O. Gimenez, N. Drouet-Hoguet, J. Louvrier, C. Duchamp (2023). [Estimer l’effort d’échantillonnage de réseaux participatifs : l’exemple du réseau Loup-lynx.](/pubs/Bauduinetal2023.pdf) *Biodiversité* 5: 6-9.
+1. Maurer, G., M. Chandelier, B. Mulot, O. Gimenez (2023). [Polarized media coverage of conflicting, yet emblematic species: The ambivalent portrayal of the Asian elephant.](/pubs/maureretal2023.pdf) *Biological Conservation* 289: 110391. *Co-senior author.
 
-2. Nakamura M., J. V. López-Bao, H. Rio-Maior, S. Roque, P. Gil, A. Serronha, E. García, O. Hernández Palacios, G. Ferrão da Costa, F. Álvares, F. Petrucci-Fonseca, O. Gimenez*, P. Monterroso* (2023). [Insights into the dynamics of wolf occupancy in human-dominated landscapes.](/pubs/Nakamuraetal2023.pdf) *Biological Conservation* 286: 110316. *Co-senior author.
 
-3. Forcada J., Hoffman J. I., Gimenez O., Staniland I. J., Bucktrout P., & Wood A. G. (2023). [Ninety years of change, from commercial extinction to recovery, range expansion and decline for Antarctic fur seals at South Georgia.](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16947) *Global Change Biology* 00, 1–21.
+2. Rigoudy N., A. Benyoub, A. Besnard, C. Birck, Y. Bollet, Y. Bunz, J. Chiffard Carriburu, G. Caussimont, E. Chetouane, P. Cornette, A. Delestrade, N. De Backer, L. Dispan, M. Le Barh, J. Duhayer, J.-F. Elder, J.-B. Fanjul, J. Fonderflick, N. Froustey, M. Garel, W. Gaudry, A. Gérard, O. Gimenez, A. Hemery, A. Hemon, J.-M. Jullien, I. Malafosse, M. Marginean, V. Prunet, J. Rabault, M. Randon, A. Régnier, R. Ribière, J.-C. Ricci, S. Ruette, J. Sentilles, N. Siefert, B. Smith, G. Terpereau, W. Thuiller, A. Uzal, V. Vautrain, G. Dussert, B. Spataro, V. Miele, S. Chamaillé-Jammes (2023). [The DeepFaune initiative: a collaborative effort towards the automatic identification of French fauna in camera-trap images.](/pubs/rigoudyetal2023.pdf) *European Journal of Wildlife Research* 69: 113.
+
+237. Bauduin S., O. Gimenez, N. Drouet-Hoguet, J. Louvrier, C. Duchamp (2023). [Estimer l’effort d’échantillonnage de réseaux participatifs : l’exemple du réseau Loup-lynx.](/pubs/Bauduinetal2023.pdf) *Biodiversité* 5: 6-9.
+
+236. Nakamura M., J. V. López-Bao, H. Rio-Maior, S. Roque, P. Gil, A. Serronha, E. García, O. Hernández Palacios, G. Ferrão da Costa, F. Álvares, F. Petrucci-Fonseca, O. Gimenez*, P. Monterroso* (2023). [Insights into the dynamics of wolf occupancy in human-dominated landscapes.](/pubs/Nakamuraetal2023.pdf) *Biological Conservation* 286: 110316. *Co-senior author.
+
+235. Forcada J., Hoffman J. I., Gimenez O., Staniland I. J., Bucktrout P., & Wood A. G. (2023). [Ninety years of change, from commercial extinction to recovery, range expansion and decline for Antarctic fur seals at South Georgia.](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16947) *Global Change Biology* 00, 1–21.
 
 234. Lauret V., H. Labach, L. David, M. Authier, O. Gimenez (2023). [Using integrated multispecies occupancy models to map co-occurrence between bottlenose dolphins and fisheries in the Gulf of Lion, French Mediterranean Sea.](https://onlinelibrary.wiley.com/doi/10.1111/oik.10270) *Oikos* e10270.
 
