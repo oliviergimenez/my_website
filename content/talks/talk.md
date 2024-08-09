@@ -1,6 +1,6 @@
 +++
 
-date = "2023-12-11T00:00:00"
+date = "2024-07-13T00:00:00"
 draft = false
 
 title = "Talks"
@@ -11,6 +11,8 @@ widget = "custom"
 weight = 7
 
 +++
+
+* Conférence grand public dans le cadre des 8 jours de la biodiversité organisés par l'inter-assos ARBORESCENCE : « Au fil de l’eau du Lez : à la découverte de la loutre d’Europe sur la métropole de Montpellier ». 29 février 2024. La présentation est disponible [ici](https://doi.org/10.6084/m9.figshare.26297149.v1).
 
 *  Loutre, Lez, connectivité écologique et médiation scientifique. December 2023. Talk at a meeting between Montpellier city/metropolis and our lab. You can download the slides [here](https://figshare.com/articles/presentation/Loutre_Lez_connectivit_cologique_et_m_diation_scientifique_/24781776/1) and video recording [there](https://figshare.com/articles/presentation/Loutre_Lez_connectivit_cologique_et_m_diation_scientifique_/24781776/1) in French.
 

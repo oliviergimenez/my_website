@@ -1,7 +1,7 @@
 ---
 title: DISCAR
 summary: Population consequences of human DISturbance on small CARnivores.
-date: "2023-05-03T00:00:00Z"
+date: "2024-07-03T00:00:00Z"
 image:
   caption: 
   focal_point: Smart
@@ -28,6 +28,7 @@ tags:
 
 + Olivier Gimenez – CNRS (France)
 + Sandrine Ruette – OFB (France)
++ Cassie Speakman – CESAB/FRB (Australia)
 + Courtney Marneweck – Giraffe Conservation Foundation (South Africa)
 + Patrick Giraudoux – Université Bourgogne Franche-Comté (France)
 + Isabel Smallegange - Newcastle University (UK)
@@ -37,7 +38,13 @@ tags:
 + John Fryxell – University of Guelph (Canada)
 + Elizabeth McHuron – University of Washington (USA)
 + Rob Salguero-Gomez – University of Oxford (UK)
++ Katrinas Davis – University of Oxford (UK)
 + Marie-Lazarine Poulle – Université Reims Champagne Ardenne (France)
++ Christophe Duchamp – OFB (France)
++ Kévan Rastello – University of Victoria (Canada)
++ Sarah Bull – University of Oxford (UK)
++ Simon Lacombe – University of Montpellier (France)
++ Maëlis Kervellec – University of Montpellier (France)
 
-*Funding*. This project is funded by the French Foundation for Biodiversity Research (FRB) through [Cesab](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/). 
+*Funding*. This project is funded by the French Foundation for Biodiversity Research (FRB) through [Cesab](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/discar/). 
 

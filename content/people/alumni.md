@@ -1,6 +1,6 @@
 +++
 
-date = "2023-07-22T00:00:00"
+date = "2024-07-03T00:00:00"
 draft = false
 
 title = "Former lab members"
@@ -19,6 +19,23 @@ A list of my former Master students is available [here](/MasterStudents.pdf).
 <hr>
 
 <br>
+
+![](/img/javi.png)
+**Javi Fernández-López** (post-doc 2022-2023) is interested in conservation biology and phylogeography. He is modelling the distribution of mammals in Europe by integrating various sources of data. Check out his website <https://allthiswasfield.blogspot.com>.
+
+<hr> 
+
+![](/img/monia.jpg)
+**Mónia Nakamura Mercier Real** (PhD 2019-2024) is investigating the impacts of anthropogenic factors on large carnivores persistence in human-dominated landscapes. She used wolf in Spain and Portugal as a model species to address how different humanization levels can influence habitat selection and land use, and ultimately affect its demography, status and viability. The thesis was co-supervised with [José Vicente López-Bao](https://scholar.google.es/citations?user=mWcf6MsAAAAJ&hl=es) and [Pedro Monterroso](https://scholar.google.com/citations?user=2ulB-8QAAAAJ&hl=en).
+
+<hr>
+
+![](/img/bea.jpg)
+**Béatrice Chataigner** (EPHE diploma 2020-2022) is working on locally-based monitoring programs in Kenya. Her research project aimed at exploring the performances of current ecological monitoring program of Kenyan conservanciesin addressing their needs in terms of adaptive management at local level as well as ecosystem level. Béatrice works for IUCN in the [Program on African Protected Areas and Conservation](https://papaco.org/). Her work was jointly supervised by [Nicholas Pilfold](https://institute.sandiegozoo.org/staff/nicholas-pilfold-phd) and [Aurélien Besnard](https://www.cefe.cnrs.fr/fr/actus/44-french/recherche/bc/bev/291-aurelien-besnard).
+
+<hr> 
+
+![](/img/patricia.jpg) **Patrícia Rodrigues** (post-doc 2021-2023) is interested in the social-ecological dynamics underpinning environmental problems in Africa. Her project aimed to characterize landscapes within Africa's Great Green Wall in terms of their social-ecological properties and restoration initiatives. More [here]( https://rodriguespatri.wixsite.com/home). 
 
 <hr> 
 

@@ -12,7 +12,7 @@ This code is provided as is without warranty of any kind. If you find a bug or a
 
 You may find other pieces of code in [papers](https://oliviergimenez.github.io/publication/papers/).
 
-Last update: August 2021.
+Last update: July 2024.
 
 <hr>
 
@@ -101,7 +101,7 @@ Last update: August 2021.
 
 <hr>
 
-### Epidemiological models and ODEs
+### Ecological/epidemiological models and ODEs/PDEs
 
 <br>
 
@@ -111,6 +111,8 @@ Last update: August 2021.
 +  Explore strategies of [social distancing on epidemic w/ SIR model](https://github.com/oliviergimenez/SIRcovid19#motivation) -- `R`
 
 + [Zombie apocalypse](https://github.com/oliviergimenez/fitODEswithOpenBUGS) and a Bayesian approach for fitting an epidemiological model to data --  `R`, `OpenBUGS`
+
++  [Julia code](https://github.com/oliviergimenez/mecastat-in-julia) to fit mechanistic-statistical models w/ Bayes and MCMC, check out outputs [here](https://oliviergimenez.github.io/mecastat-in-julia/) -- `Julia`
 
 <hr>
 
