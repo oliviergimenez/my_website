@@ -1,5 +1,5 @@
 ---
-title: PEP-BIOccIA
+title: Gaia Predict
 summary: Cartographier les milieux naturels et prédire la présence d'espèces en Occitanie, pour mieux planifier la préservation de la biodiversité à moyen et long terme.
 date: "2024-07-05T00:00:00Z"
 image:
@@ -14,11 +14,11 @@ tags:
 - machine learning
 ---
 
-*En bref :* Le projet BIOccIA vise à utiliser l'intelligence artificielle pour cartographier les milieux naturels et prédire la présence d'espèces (faune/flore). Les données seront accessibles et utilisées librement pour suivre les politiques publiques en faveur de la biodiversité et s’adresseront à plusieurs types d’acteurs (aménageurs, chercheurs, acteurs institutionnels, etc.). L’objectif est de planifier la préservation de la biodiversité d’Occitanie à moyen et long terme, en lien avec les échelles européenne, nationale et régionale.
+*En bref :* Le projet Gaia Predict vise à utiliser l'intelligence artificielle pour cartographier les milieux naturels et prédire la présence d'espèces (faune/flore). Les données seront accessibles et utilisées librement pour suivre les politiques publiques en faveur de la biodiversité et s’adresseront à plusieurs types d’acteurs (aménageurs, chercheurs, acteurs institutionnels, etc.). L’objectif est de planifier la préservation de la biodiversité d’Occitanie à moyen et long terme, en lien avec les échelles européenne, nationale et régionale.
 
-*Contexte :* Porté par La Région Occitanie / Pyrénées-Méditerranée et baptisé PEP-BIOccIA, notre projet fait partie des huit projets lauréats qui ont été retenus dans le cadre de l’appel à projets "Démonstrateurs d’IA frugale pour la transition écologique des territoires", piloté par l’Ecolab - Greentech Innovation, le Ministère Écologie Territoires et la Banque des Territoires.
+*Contexte :* Porté par La Région Occitanie / Pyrénées-Méditerranée et baptisé Gaia Predict, notre projet fait partie des huit projets lauréats qui ont été retenus dans le cadre de l’appel à projets "Démonstrateurs d’IA frugale pour la transition écologique des territoires", piloté par l’Ecolab - Greentech Innovation, le Ministère Écologie Territoires et la Banque des Territoires.
 
-*Objectif :* L'objectif de PEP-BIOccIA est de cartographier les milieux naturels et prédire la présence d'espèces sur l’ensemble du territoire de l’Occitanie, pour mieux planifier la préservation de la biodiversité à moyen et long terme.
+*Objectif :* L'objectif de Gaia Predict est de cartographier les milieux naturels et prédire la présence d'espèces sur l’ensemble du territoire de l’Occitanie, pour mieux planifier la préservation de la biodiversité à moyen et long terme.
 
 Outre le CEFE, il associe OPenIG (plateforme de l’information géographique en Occitanie), TerrOïko et Data Terra (infrastructure de recherche dédiée aux données d’observation de la terre).
 

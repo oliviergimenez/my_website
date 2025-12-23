@@ -1,6 +1,6 @@
 +++
 
-date = "2023-07-22T00:00:00"
+date = "2025-12-23T00:00:00"
 draft = false
 
 title = "Workshops"
@@ -11,6 +11,10 @@ widget = "custom"
 weight = 8
 
 +++
+
+Nov-Dec, 2025. Bayesian statistics with R for Master and PhD students. Slides and videos [here](https://oliviergimenez.github.io/bayesian-stats-with-R/).
+
+March 20, 2025. 1-day workshop Introduction to Bayesian statistics with R and Nimble. 
 
 July 12-13, 2023. Workshop on Bayesian capture-recapture inference with hidden Markov models in R and Nimble for the [València International Bayesian Analysis Summer School](http://vabar.es/). Slides, worksheets and video recordings freely available from [dedicated website](https://oliviergimenez.github.io/bayesian-hmm-cr-workshop-valencia/). 
 

@@ -70,10 +70,10 @@
   url = "coding"
   weight = 55
 
-[[main]]
-  name = "News"
-  url = "blog"
-  weight = 60
+#[[main]]
+#  name = "News"
+#  url = "blog"
+#  weight = 60
 
 
 #[[main]]

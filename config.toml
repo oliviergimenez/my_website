@@ -4,6 +4,7 @@
 # This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
+
 # Title of your site
 title = "Olivier Gimenez"
 
@@ -32,11 +33,13 @@ defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
 summaryLength = 30  # Listing summary length in words. Also, see `abstract_length` in `params.toml`.
-paginate = 10  # Number of items per page in paginated lists.
+#paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "_files$", "_cache$"]
 
+[pagination]
+  pagerSize = 10
 
 [outputs]
   home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
@@ -71,3 +74,8 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "_files$", "_cache$"]
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+  
+[services]
+  [services.GoogleAnalytics]
+    id = "UA-96999184-1"
+

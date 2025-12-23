@@ -1,0 +1,134 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+{{ $author := "" }}
+{{ if .author }}
+  {{ $author = .author }}
+{{ else }}
+  {{ $author = $page.Params.author }}
+{{ end }}
+
+{{ $person_page_path := (printf "/authors/%s" (urlize $author)) }}
+{{ $person_page := site.GetPage $person_page_path }}
+{{ if not $person_page }}
+  {{ errorf "Could not find an author page at `%s`. Please check the value of `author` in your About widget and create an associated author page if one does not already exist. See https://sourcethemes.com/academic/docs/page-builder/#about " $person_page_path }}
+{{ end }}
+
+{{ $person := $person_page.Params }}
+{{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
+{{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
+
+<!-- About widget -->
+<div class="row">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      {{ if site.Params.avatar.gravatar }}
+        <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}"
+             src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=270"
+             alt="{{ $person_page.Title }}">
+      {{ else if $avatar }}
+        {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+        <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}"
+             src="{{ $avatar_image.RelPermalink }}"
+             alt="{{ $person_page.Title }}">
+      {{ end }}
+
+      <div class="portrait-title">
+        <h2>{{ $person_page.Title }}</h2>
+        {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+
+        {{ range $person.organizations }}
+          <h3>
+            {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
+            <span>{{ .name }}</span>
+            {{ if .url }}</a>{{ end }}
+          </h3>
+        {{ end }}
+      </div>
+
+      <!-- Social icons -->
+      <ul class="network-icon" aria-hidden="true">
+        {{ range $person.social }}
+
+          {{ $pack := or .icon_pack "fas" }}
+          {{ $pack_prefix := $pack }}
+          {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+            {{ $pack_prefix = "fa" }}
+          {{ end }}
+
+          {{ $link := .link }}
+          {{ $scheme := (urls.Parse $link).Scheme }}
+          {{ $target := "" }}
+          {{ if not $scheme }}
+            {{ $link = .link | relLangURL }}
+          {{ else if in (slice "http" "https") $scheme }}
+            {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+          {{ end }}
+
+          <li>
+            <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
+              {{ if eq .icon "bluesky" }}
+                <!-- Bluesky SVG -->
+                <svg xmlns="http://www.w3.org/2000/svg"
+                     viewBox="0 0 16 16"
+                     fill="currentColor"
+                     aria-hidden="true"
+                     class="big-icon"
+                     width="1em" height="1em"
+                     style="vertical-align:-0.125em">
+                  <path d="M3.468 1.948C5.303 3.325 7.276 6.118 8 7.616c.725-1.498 2.698-4.29 4.532-5.668C13.855.955 16 .186 16 2.632c0 .489-.28 4.105-.444 4.692-.572 2.04-2.653 2.561-4.504 2.246 3.236.551 4.06 2.375 2.281 4.2-3.376 3.464-4.852-.87-5.23-1.98-.07-.204-.103-.3-.103-.218 0-.081-.033.014-.102.218-.379 1.11-1.855 5.444-5.231 1.98-1.778-1.825-.955-3.65 2.28-4.2-1.85.315-3.932-.205-4.503-2.246C.28 6.737 0 3.12 0 2.632 0 .186 2.145.955 3.468 1.948"/>
+                </svg>
+              {{ else }}
+                <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+              {{ end }}
+            </a>
+          </li>
+
+        {{ end }}
+      </ul>
+
+    </div>
+  </div>
+
+  <div class="col-12 col-lg-8">
+
+    {{ if and $page.Params.widget $page.Title }}
+      <h1>{{ $page.Title | markdownify | emojify }}</h1>
+    {{ end }}
+
+    {{ $person_page.Content }}
+
+    <div class="row">
+
+      {{ with $person.interests }}
+        <div class="col-md-5">
+          <h3>{{ i18n "interests" | markdownify }}</h3>
+          <ul class="ul-interests">
+            {{ range . }}
+              <li>{{ . | markdownify | emojify }}</li>
+            {{ end }}
+          </ul>
+        </div>
+      {{ end }}
+
+      {{ with $person.education }}
+        <div class="col-md-7">
+          <h3>{{ i18n "education" | markdownify }}</h3>
+          <ul class="ul-edu fa-ul">
+            {{ range .courses }}
+              <li>
+                <i class="fa-li fas fa-graduation-cap"></i>
+                <div class="description">
+                  <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
+                  <p class="institution">{{ .institution }}</p>
+                </div>
+              </li>
+            {{ end }}
+          </ul>
+        </div>
+      {{ end }}
+
+    </div>
+  </div>
+</div>

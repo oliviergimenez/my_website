@@ -1,6 +1,6 @@
 +++
 
-date = "2022-10-24T00:00:00"
+date = "2025-12-23T00:00:00"
 draft = false
 
 title = "Books and book chapters"
@@ -11,6 +11,8 @@ widget = "custom"
 weight = 8
 
 +++
+
+{{< figure src="/img/anaylsedonneeecologie_siteBiotopeEd.png" title="Barnagaud J.-Y. and Gimenez O. (2025). [Analyse de données en écologie - Introduction aux outils statistiques avec R.](https://www.biotope-editions.fr/produit/analyse-de-donnees-en-ecologie/)" >}}
 
 {{< figure src="/img/nath.png" title="Peyrard N. and Gimenez O. (2022). [Statistical Approaches for Hidden Variables in Ecology.](https://www.iste.co.uk/book.php?id=1859) La version française est [ici.](https://www.istegroup.com/fr/produit/approches-statistiques-pour-les-variables-cachees-en-ecologie/)" >}}
 

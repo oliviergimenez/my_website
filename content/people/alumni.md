@@ -1,6 +1,6 @@
 +++
 
-date = "2024-07-03T00:00:00"
+date = "2025-12-23T00:00:00"
 draft = false
 
 title = "Former lab members"
@@ -19,6 +19,24 @@ A list of my former Master students is available [here](/MasterStudents.pdf).
 <hr>
 
 <br>
+
+![](/img/maelis.jpeg)
+**Maëlis Kervellec** (PhD 2021-2024) developed statistical models for the analysis of camera trap data with applications in large carnivores population ecology. This was joint work with colleagues from the [French Office of Biodiversity](https://ofb.gouv.fr/). Maëlis was co-supervised by Cyril Milleret. 
+
+<hr>
+
+![](/img/oksana.png)
+**[Oksana Grente](https://www.researchgate.net/profile/Oksana-Grente)** (PhD 2018-2021, post-doc 2023-2025) worked at evaluating the impact of lethal control on the French wolf population, with a special interest in social structure and livestock depredation. This was joint work with Sarah Bauduin, Christophe Duchamp and Nolwenn Hoguet-Drouet from [French Office of Biodiversity](https://ofb.gouv.fr/).
+
+<hr>
+
+<img src="/img/adelaide.jpeg" width="150"> **Célian Monchy** (PhD 2022-2025) worked on the propagation of uncertainties related to the automatic processing of sensor data in different models in ecology. Célian was co-supervised by [Marie-Pierre Etienne](https://marieetienne.github.io/).
+
+<hr>
+
+<img src="/img/lea.jpg" width="130"> **Léa Pautrel** (PhD 2022-2025) investigated the use of deep learning coupled with continuous-time models to exploit sensor data, in particular cam traps. She was co-supervised by [Marie-Pierre Etienne](https://marieetienne.github.io/) and Sylvain Moulherat from [TerrOïko](https://www.terroiko.fr/fr).
+
+<hr> 
 
 ![](/img/javi.png)
 **Javi Fernández-López** (post-doc 2022-2023) is interested in conservation biology and phylogeography. He is modelling the distribution of mammals in Europe by integrating various sources of data. Check out his website <https://allthiswasfield.blogspot.com>.

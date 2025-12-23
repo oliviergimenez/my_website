@@ -1,6 +1,6 @@
 +++
 
-date = "2024-07-13T00:00:00"
+date = "2025-12-23T00:00:00"
 draft = false
 
 title = "Talks"
@@ -12,14 +12,25 @@ weight = 7
 
 +++
 
+* Présentation du projet LeptoNex à D’abord le 13 novembre à la 13ème réunion du [Réseau d'expertise scientifique et technique sur les espèces exotiques envahissantes](https://especes-exotiques-envahissantes.fr/reseau-dexpertise-scientifique-et-technique/) et à l'assemblée générale de la [zone atelier santé environnement Camargue](https://www.zacam.cnrs.fr/) du CNRS. 13-14 novembre 2025. Les diapos de la présentation sont [ici](https://doi.org/10.6084/m9.figshare.30939089).
+
+* Conférence avec Stéphanie Grosset sur la biodiversité du Lez dans le cadre d'une journée Science et Société de l'OSU OREME. 13 novembre 2025. La vidéo de la présentation est disponible [ici](https://www.youtube.com/watch?v=woOTTC2E_hw) et les diapos [là](https://doi.org/10.6084/m9.figshare.30940874).
+
+* Conférence Pint of Science "Au fil de l’eau du Lez : à la découverte de la loutre d’Europe sur Montpellier". 20 mai 2025. La présentation est disponible [ici](https://doi.org/10.6084/m9.figshare.29603153.v1).
+
+* Talk at the annual conference of the French National Research Group in Statistical Ecology 'Ten quick tips to get you started with Bayesian statistics'. 29 avril 2025. Slides available [here](https://doi.org/10.6084/m9.figshare.29019896.v1).
+
+* Séminaire pour l'Office Français de la Biodiversité "My paper was proved wrong". 30 janvier 2025. La présentation est disponible [ici](https://doi.org/10.6084/m9.figshare.29603099.v1). Le papier est [ici](https://www.nature.com/articles/d41586-024-02870-z) et le texte intégral [là](https://docs.google.com/document/d/1hPvaZ7w7o88zdwWKf3l3WDmhDd-FPIlrgGaz-DVSIa0/edit?usp=sharing).
+
+* Conférence grand public au Gazette Café organisée par l'association "Addict aux Sciences"" : [« Au fil de l’eau du Lez : à la découverte de la loutre d’Europe sur la métropole de Montpellier »](https://oreme.org/evenements/la-loutre-du-lez/). 21 janvier 2025. La présentation est disponible [ici](https://doi.org/10.6084/m9.figshare.26297149.v1).
+
 * Conférence grand public dans le cadre des 8 jours de la biodiversité organisés par l'inter-assos ARBORESCENCE : « Au fil de l’eau du Lez : à la découverte de la loutre d’Europe sur la métropole de Montpellier ». 29 février 2024. La présentation est disponible [ici](https://doi.org/10.6084/m9.figshare.26297149.v1).
 
-*  Loutre, Lez, connectivité écologique et médiation scientifique. December 2023. Talk at a meeting between Montpellier city/metropolis and our lab. You can download the slides [here](https://figshare.com/articles/presentation/Loutre_Lez_connectivit_cologique_et_m_diation_scientifique_/24781776/1) and video recording [there](https://figshare.com/articles/presentation/Loutre_Lez_connectivit_cologique_et_m_diation_scientifique_/24781776/1) in French.
+* Loutre, Lez, connectivité écologique et médiation scientifique. December 2023. Talk at a meeting between Montpellier city/metropolis and our lab. You can download the slides [here](https://figshare.com/articles/presentation/Loutre_Lez_connectivit_cologique_et_m_diation_scientifique_/24781776/1) and video recording [there](https://figshare.com/articles/presentation/Loutre_Lez_connectivit_cologique_et_m_diation_scientifique_/24781776/1) in French.
 
-*  Tour d'horizon des modèles et de leurs applications. November 2023. Talk a conference co-organised by Cerema, OFB, and centre de ressources TVB et ITTECOP. You can download the slides [here](https://doi.org/10.6084/m9.figshare.24633762.v3) in French.
+* Tour d'horizon des modèles et de leurs applications. November 2023. Talk a conference co-organised by Cerema, OFB, and centre de ressources TVB et ITTECOP. You can download the slides [here](https://doi.org/10.6084/m9.figshare.24633762.v3) in French.
 
-*  Statistical ecology, hidden Markov models and the management of large carnivores in Europe. June 28, 2022. Plenary talk for the [ISEC2022 conference](https://www.isec2022.org/). You can download the [slides](https://t.co/BOtZHWU56L) and [video recording](https://t.co/6Qn7i05uae) in English.
-
+* Statistical ecology, hidden Markov models and the management of large carnivores in Europe. June 28, 2022. Plenary talk for the [ISEC2022 conference](https://www.isec2022.org/). You can download the [slides](https://t.co/BOtZHWU56L) and [video recording](https://t.co/6Qn7i05uae) in English.
 
 * Deep learning, false negatives/positives and predator-prey interactions: Peregrinations in R. March 31, 2021. [Slides](https://oliviergimenez.github.io/useR2021/#1) (F = full screen and P = transcript) and [video recording](hhttps://www.youtube.com/watch?v=DOeSu8Qk5Po) in English. All material [here](https://github.com/oliviergimenez/useR2021). Rencontres R.
 
